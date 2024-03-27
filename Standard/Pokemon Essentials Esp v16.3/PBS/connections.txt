@@ -1,0 +1,10 @@
+# Pueblo Empanada (2) - Ruta 1 (5)
+2,North,0,5,South,4
+# Ciudad Milanesa (7) - Ruta 1 (5)
+7,South,0,5,North,2
+# Ruta 2 (21) - Ciudad Milanesa (7)
+21,South,0,7,North,21
+# Ruta 2 (21) - Pueblo Lomito (23)
+21,East,0,23,West,1
+# ruta incresa (31) - Villa Mariona (22)
+31,East,0,22,West,1

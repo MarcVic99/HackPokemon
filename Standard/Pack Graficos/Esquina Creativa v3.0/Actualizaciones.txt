@@ -1,0 +1,48 @@
+Actualizaciones:
+1.0: 	Pack original
+
+1.1: 	Eliminado un archivo con tiles privados
+
+2.0: 	Añadidos tiles de Iametrine
+	Añadidos nuevos tiles de PrincessPhoenix
+	Eliminado un archivo con tiles privados
+	Corregido unos tiles de Mysticalmew borrosos
+	Añadidos nuevos tiles de Pablus94
+	Añadidos tiles de RainbowRetribution
+	Añadidos nuevos tiles de Luna
+	Añadidos nuevos tiles de Anarlaurendil
+	Añadidos tiles de WilsonScarloxy
+	Añadidos nuevos tiles de PkmnAlexandrite
+	Actualización de nombre: "Painkiller97" ---> "Nyaruko69 - Painkiller97"
+	Añadidos nuevos tiles de Nyaruko69 - Painkiller97
+	Añadidos tiles de daybreakM
+	Añadidos nuevos tiles de Derlo
+	Añadidos tiles de Netroco
+	Añadidos tiles de Aveontrainer
+	Añadidos nuevos tiles de Mllessentials
+	Añadidos tiles de Ross-Hawkins
+	Añadidos nuevos tiles de Delta2318
+	Añadidos nuevos tiles de PokemonTilesetStudio
+
+3.0:	Cambio en la organización de carpetas
+	Cambio en la organización de tiles
+	Eliminados varios archivo con tiles privados
+	Añadidos nuevos tiles de Phyromatical
+	Actualizados los créditos de varios archivos
+	Añadidos nuevos tiles de ClaraWaH
+	Añadidos tiles de Emimonserrate
+	Añadidos nuevos tiles de Zeo
+	Añadidos fondos de batalla
+	Eliminados varios archivos con tiles en mala calidad
+	Añadidos nuevos tiles de Magiscarf
+	Añadidos muchos cambios a la sección de sprites
+	Añadidos tiles de KaiZGraphics
+	Añadidos tiles de KingTapir
+	Añadidos nuevos tiles de Aveontrainer
+	Añadidos nuevos autotiles de Pablus94
+	Añadidos tiles de BE_Infinity
+	Añadidos nuevos tiles de MichaKing
+	Añadidos nuevos tiles de LunaMaddalena
+	Añadidos tiles de InsidiousSys
+	Añadidos tiles de Mllessentials
+	Añadidos tiles de KioRaka
