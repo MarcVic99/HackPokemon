@@ -7,4 +7,4 @@
 # Ruta 2 (21) - Pueblo Lomito (23)
 21,East,0,23,West,1
 # ruta incresa (31) - Villa Mariona (22)
-31,East,0,22,West,1
+31,East,4,22,West,0
