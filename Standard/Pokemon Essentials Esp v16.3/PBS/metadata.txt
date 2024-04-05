@@ -1,11 +1,11 @@
 ﻿[000]
-SurfBGM=Ship.mid
-WildBattleBGM=002-Battle02.mid
-TrainerBattleBGM=005-Boss01.mid
 BicycleBGM=Airship.mid
-Home=3,7,5,8
+SurfBGM=Ship.mid
 PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
 PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+WildBattleBGM=002-Battle02.mid
+TrainerBattleBGM=005-Boss01.mid
+Home=3,7,5,8
 [001]
 # Intro
 [002]
@@ -32,9 +32,9 @@ MapPosition=0,13,11
 [007]
 # Ciudad Milanesa
 MapPosition=0,13,10
+MapSize=2,11
 Outdoor=true
 ShowArea=true
-MapSize=2,11
 [008]
 # Casa de Belén
 MapPosition=0,13,12
@@ -79,10 +79,10 @@ MapPosition=0,13,10
 [021]
 # Ruta 2
 MapPosition=0,14,8
+MapSize=1,11
 Outdoor=true
 ShowArea=true
 Weather=Rain,50
-MapSize=1,11
 [022]
 # Villa Mariona
 SnapEdges=false
@@ -116,79 +116,85 @@ MapPosition=0,16,8
 Bicycle=true
 [030]
 # interior casa prota
-SnapEdges=false
 MapPosition=0,16,8
+SnapEdges=false
 [031]
 # ruta incresa
-SnapEdges=false
 MapPosition=0,14,6
+MapSize=2,1101
 Outdoor=true
 ShowArea=true
-MapSize=2,1101
+SnapEdges=false
 [032]
+# Casa Vecino
 [033]
+# casa vecino 2.0
 [034]
+# casa vecino 2
 MapPosition=0,15,6
-Bicycle=true
 BattleBack=IndoorC
+Bicycle=true
 [035]
+# casa vecino 3
 MapPosition=0,13,6
 Outdoor=true
 ShowArea=true
 [036]
+# lavabo vecino 3
 MapPosition=0,13,6
 HealingSpot=35,17,7
 [037]
+# Sucursal 1 de exploradores
 MapPosition=0,13,6
 BattleBack=EliteA
 [038]
 MapPosition=0,13,6
 [039]
 MapPosition=0,11,6
+MapSize=2,11
 Outdoor=true
 ShowArea=true
-MapSize=2,11
 [040]
 MapPosition=0,11,6
-BicycleAlways=true
 Outdoor=true
+BicycleAlways=true
 ShowArea=true
 [041]
 MapPosition=0,11,7
-BicycleAlways=true
-Outdoor=true
-ShowArea=true
 MapSize=1,111
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
 [042]
 SnapEdges=true
 [044]
 MapPosition=0,11,10
+MapSize=2,11
 Outdoor=true
 ShowArea=true
-MapSize=2,11
 [045]
 MapPosition=0,11,10
-BicycleAlways=true
 Outdoor=true
+BicycleAlways=true
 ShowArea=true
 [046]
 MapPosition=0,12,6
 Bicycle=true
 [047]
 MapPosition=0,15,10
+MapSize=2,11
 Outdoor=true
 BattleBack=Mountain
 ShowArea=true
 Weather=Rain,0
-MapSize=2,11
 [049]
 MapPosition=0,16,10
 Bicycle=true
 [050]
 MapPosition=0,16,10
-Bicycle=true
-BattleBack=CaveDark
 DarkMap=true
+BattleBack=CaveDark
+Bicycle=true
 [051]
 MapPosition=0,16,10
 Bicycle=true
@@ -237,10 +243,10 @@ ShowArea=true
 MapPosition=0,12,12
 [068]
 MapPosition=0,12,12
+SafariMap=true
 Outdoor=true
 BattleBack=Forest
 ShowArea=true
-SafariMap=true
 [069]
 MapPosition=0,13,13
 Outdoor=true
