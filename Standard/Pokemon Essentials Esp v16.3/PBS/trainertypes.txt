@@ -32,7 +32,7 @@
 30,TAMER,Domador,40,,,,Male,,
 31,BLACKBELT,Karateka,32,,,,Male,,
 32,CRUSHGIRL,Luchadora,24,,,,Female,,
-33,CAMPER,Campista,16,,,,Male,,
+33,CAMPER,Campero,16,,,,Male,,
 34,PICNICKER,Dominguera,16,,,,Female,,
 35,COOLTRAINER_M,Entre. Guay,60,,,,Male,,
 36,COOLTRAINER_F,Entre. Guay,60,,,,Female,,
@@ -71,3 +71,7 @@
 69,ELITEFOUR_Agatha,Alto Mando,100,elite,,,Female,,
 70,ELITEFOUR_Lance,Alto Mando,100,elite,,,Male,,
 71,CHAMPION,Campeón,100,elite,,,Male,,
+72,CADET,Cadete,10,,,,Male,,
+73,CADET2,Cadete,10,,,,Female,,
+74,CAPITAN,Capitán,15,,,,Male,,
+

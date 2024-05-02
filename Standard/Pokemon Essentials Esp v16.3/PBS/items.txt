@@ -664,3 +664,5 @@
 681,PUNCHINGGLOVE,Guante de Boxeo,Guantes de Boxeo,1,10000,"Guante protector que aumenta la potencia de los movimientos con los puños del Pokémon que lo lleve y evita que hagan contacto directo con el rival.",0,0,0,
 682,COVERTCLOAK,Capa Furtiva,Capas Furtivas,1,10000,"Capa con capucha que engaña al rival. Oculta a quien la lleve y lo protege de los efectos secundarios de los movimientos de sus rivales.",0,0,0,
 683,LOADEDDICE,Dado Trucado,Dado Trucado,1,10000,"Un dado que siempre cae favorablemente. Los movimientos de ataque múltiple de quien lo lleve golpearán más veces.",0,0,0,
+684,MILOTITE,Milotita,Milotitas,1,0,"Una de las misteriosas Megapiedras. Permite megaevolucionar a Milotic en combate.",0,0,0,
+685,COLLECTIBLESBOOK,Libro Coleccionables ,Libros Coleccionables,8,0,"Album de colaccionables, ¿seras capaz de completarlo?.",2,0,0,

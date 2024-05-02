@@ -1,11 +1,11 @@
 ﻿[000]
-BicycleBGM=Airship.mid
-SurfBGM=Ship.mid
-PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
-PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
 WildBattleBGM=002-Battle02.mid
 TrainerBattleBGM=005-Boss01.mid
+SurfBGM=Ship.mid
 Home=3,7,5,8
+PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+BicycleBGM=Airship.mid
 [001]
 # Intro
 [002]
@@ -15,9 +15,9 @@ Outdoor=true
 ShowArea=true
 [003]
 # Casa de \PN
-MapPosition=0,13,12
 BattleBack=IndoorB
 HealingSpot=2,8,8
+MapPosition=0,13,12
 [004]
 # Laboratorio Pokémon
 MapPosition=0,13,12
@@ -31,8 +31,8 @@ ShowArea=true
 MapPosition=0,13,11
 [007]
 # Ciudad Milanesa
-MapPosition=0,13,10
 MapSize=2,11
+MapPosition=0,13,10
 Outdoor=true
 ShowArea=true
 [008]
@@ -40,12 +40,12 @@ ShowArea=true
 MapPosition=0,13,12
 [009]
 # Centro Pokémon
-MapPosition=0,14,10
 HealingSpot=8,17,11
+MapPosition=0,14,10
 [010]
 # Gimnasio Milanesa
-MapPosition=0,13,10
 BattleBack=IndoorB
+MapPosition=0,13,10
 [011]
 # Instituto Pokémon
 MapPosition=0,14,10
@@ -78,11 +78,11 @@ MapPosition=0,13,10
 MapPosition=0,13,10
 [021]
 # Ruta 2
-MapPosition=0,14,8
 MapSize=1,11
+MapPosition=0,14,8
 Outdoor=true
-ShowArea=true
 Weather=Rain,50
+ShowArea=true
 [022]
 # Villa Mariona
 SnapEdges=false
@@ -93,8 +93,8 @@ Outdoor=true
 ShowArea=true
 [024]
 # Centro Pokémon
-MapPosition=0,15,8
 HealingSpot=23,11,15
+MapPosition=0,15,8
 [025]
 # Tienda
 MapPosition=0,15,8
@@ -106,9 +106,9 @@ MapPosition=0,15,8
 MapPosition=0,15,8
 [028]
 # Parque Natural
+BattleBack=Forest
 MapPosition=0,16,8
 Outdoor=true
-BattleBack=Forest
 ShowArea=true
 [029]
 # Entrada Parque Natural
@@ -120,19 +120,20 @@ MapPosition=0,16,8
 SnapEdges=false
 [031]
 # ruta incresa
-MapPosition=0,14,6
 MapSize=2,1101
+WildBattleBGM=Descendents-I_m-Not-A-Loser-_8-bit_.ogg
+MapPosition=0,14,6
+SnapEdges=false
 Outdoor=true
 ShowArea=true
-SnapEdges=false
 [032]
 # Casa Vecino
 [033]
 # casa vecino 2.0
 [034]
 # casa vecino 2
-MapPosition=0,15,6
 BattleBack=IndoorC
+MapPosition=0,15,6
 Bicycle=true
 [035]
 # casa vecino 3
@@ -141,17 +142,24 @@ Outdoor=true
 ShowArea=true
 [036]
 # lavabo vecino 3
-MapPosition=0,13,6
 HealingSpot=35,17,7
+MapPosition=0,13,6
 [037]
 # Sucursal 1 de exploradores
-MapPosition=0,13,6
 BattleBack=EliteA
-[038]
 MapPosition=0,13,6
+[038]
+# habitación prota
+MapPosition=0,13,6
+SnapEdges=false
 [039]
-MapPosition=0,11,6
+# Prueba Batalla
 MapSize=2,11
+BattleBack=GIMNASIO
+TrainerBattleBGM=Descendents-I_m-Not-A-Loser-_8-bit_.ogg
+HealingSpot=30,6,9
+TrainerVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
+MapPosition=0,11,6
 Outdoor=true
 ShowArea=true
 [040]
@@ -160,16 +168,16 @@ Outdoor=true
 BicycleAlways=true
 ShowArea=true
 [041]
-MapPosition=0,11,7
 MapSize=1,111
+MapPosition=0,11,7
 Outdoor=true
 BicycleAlways=true
 ShowArea=true
 [042]
 SnapEdges=true
 [044]
-MapPosition=0,11,10
 MapSize=2,11
+MapPosition=0,11,10
 Outdoor=true
 ShowArea=true
 [045]
@@ -181,58 +189,58 @@ ShowArea=true
 MapPosition=0,12,6
 Bicycle=true
 [047]
-MapPosition=0,15,10
 MapSize=2,11
-Outdoor=true
 BattleBack=Mountain
-ShowArea=true
+MapPosition=0,15,10
+Outdoor=true
 Weather=Rain,0
+ShowArea=true
 [049]
 MapPosition=0,16,10
 Bicycle=true
 [050]
-MapPosition=0,16,10
-DarkMap=true
 BattleBack=CaveDark
+DarkMap=true
+MapPosition=0,16,10
 Bicycle=true
 [051]
+Dungeon=true
 MapPosition=0,16,10
 Bicycle=true
-Dungeon=true
 [052]
 MapPosition=0,17,10
 Outdoor=true
 ShowArea=true
 [053]
-MapPosition=0,17,10
 HealingSpot=52,17,14
+MapPosition=0,17,10
 [054]
 MapPosition=0,17,10
 [055]
-MapPosition=0,17,10
 HealingSpot=52,30,10
-[056]
 MapPosition=0,17,10
+[056]
 BattleBack=EliteA
+MapPosition=0,17,10
 [057]
 MapPosition=0,17,10
 [058]
 MapPosition=0,17,10
 [059]
-MapPosition=0,17,10
 BattleBack=EliteD
+MapPosition=0,17,10
 [060]
 MapPosition=0,17,10
 [061]
-MapPosition=0,17,10
 BattleBack=EliteB
+MapPosition=0,17,10
 [062]
 MapPosition=0,17,10
 [063]
 MapPosition=0,17,10
 [064]
-MapPosition=0,17,10
 BattleBack=EliteC
+MapPosition=0,17,10
 [065]
 MapPosition=0,17,10
 [066]
@@ -242,15 +250,15 @@ ShowArea=true
 [067]
 MapPosition=0,12,12
 [068]
-MapPosition=0,12,12
-SafariMap=true
-Outdoor=true
 BattleBack=Forest
+MapPosition=0,12,12
+Outdoor=true
+SafariMap=true
 ShowArea=true
 [069]
+BattleBack=Field
 MapPosition=0,13,13
 Outdoor=true
-BattleBack=Field
 ShowArea=true
 [070]
 MapPosition=0,13,13
@@ -259,8 +267,8 @@ MapPosition=0,13,13
 [072]
 MapPosition=0,18,17
 Outdoor=true
-ShowArea=true
 Weather=Storm,50
+ShowArea=true
 [073]
 MapPosition=0,22,16
 Outdoor=true
