@@ -807,3 +807,4 @@
 807,GIGATONHAMMER,Martillo Colosal,0C2,160,STEEL,Physical,100,5,0,00,0,abef,"El usuario se ayuda de su propio peso corporal para propinar un golpe con un enorme martillo. Este movimiento no puede usarse dos veces seguidas."
 808,COMEUPPANCE,Resarcimiento,084,50,DARK,Physical,100,10,0,00,0,abef,"Devuelve al rival el último ataque recibido, pero con mucha más fuerza."
 809,AQUACUTTER,Tajo Acuático,000,90,WATER,Physical,100,15,0,00,0,abefh,"Expele agua a presión con la que corta al objetivo como si de una hoja se tratara. Suele asestar un golpe crítico."
+810,CUTOFEXILE,Tajo del exilio,007,80,DARK,Physical,100,10,30,00,0,abf,"Tajo sumamente veloz que descarga la energía reprimida de Cubone Exiliado. Puede llegar a paralizar al objetivo.."
