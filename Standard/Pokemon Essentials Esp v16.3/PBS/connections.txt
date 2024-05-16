@@ -8,3 +8,5 @@
 21,East,0,23,West,1
 # ruta incresa (31) - Villa Mariona (22)
 31,East,5,22,West,0
+# ruta incresa (31) - Pueblo Palmeras (40)
+31,West,1,40,East,0
