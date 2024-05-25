@@ -666,3 +666,4 @@
 683,LOADEDDICE,Dado Trucado,Dado Trucado,1,10000,"Un dado que siempre cae favorablemente. Los movimientos de ataque múltiple de quien lo lleve golpearán más veces.",0,0,0,
 684,MILOTITE,Milotita,Milotitas,1,0,"Una de las misteriosas Megapiedras. Permite megaevolucionar a Milotic en combate.",0,0,0,
 685,COLLECTIBLESBOOK,Libro Coleccionables ,Libros Coleccionables,8,0,"Album de colaccionables, ¿seras capaz de completarlo?.",2,0,0,
+686,POKENAV,Pokénav,Pokenavs,8,0,"Objeto multiusos que te permite ver donde estás ahora mismo.",2,0,6,

@@ -1,4 +1,4 @@
-﻿# Consulta la documentación de la wiki para aprender a modificar este archivo.
+﻿# See the documentation on the wiki to learn how to edit this file.
 0,POKEMONTRAINER_Red,Entrenador,60,,,,Male,,
 1,POKEMONTRAINER_Leaf,Entrenadora,60,,,,Female,,
 2,POKEMONTRAINER_Brendan,Entrenador,60,,,,Male,,
@@ -8,3 +8,4 @@
 6,CAPITAN,Capitán,15,,,,Male,,
 7,ARBORISTA,Arborista,10,,,,Male,,
 8,CHICAFLOR,Jardinera,10,,,,Female,,
+9,PILARREGIONAL,Pilar regional,160,Descendents - Suburban Home (8 bit) [TubeRipper.cc].ogg,Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg,,Male,60,
