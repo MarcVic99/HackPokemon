@@ -1,11 +1,11 @@
 ﻿[000]
-PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
-PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
-TrainerBattleBGM=005-Boss01.mid
-SurfBGM=Ship.mid
 BicycleBGM=Airship.mid
 Home=3,7,5,8
+TrainerBattleBGM=005-Boss01.mid
+SurfBGM=Ship.mid
 WildBattleBGM=002-Battle02.mid
+PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
 [001]
 # Intro
 [002]
@@ -15,8 +15,8 @@ Outdoor=true
 ShowArea=true
 [003]
 # Casa de \PN
-BattleBack=IndoorB
 MapPosition=0,13,12
+BattleBack=IndoorB
 HealingSpot=2,8,8
 [004]
 # Laboratorio Pokémon
@@ -44,8 +44,8 @@ MapPosition=0,14,10
 HealingSpot=8,17,11
 [010]
 # Gimnasio Milanesa
-BattleBack=IndoorB
 MapPosition=0,13,10
+BattleBack=IndoorB
 [011]
 # Instituto Pokémon
 MapPosition=0,14,10
@@ -105,14 +105,14 @@ MapPosition=0,15,8
 MapPosition=0,15,8
 [028]
 # Parque Natural
-BattleBack=Forest
 MapPosition=0,16,8
+BattleBack=Forest
 Outdoor=true
 ShowArea=true
 [029]
 # Entrada Parque Natural
-Bicycle=true
 MapPosition=0,16,8
+Bicycle=true
 [030]
 # interior casa prota
 MapPosition=0,16,8
@@ -129,9 +129,9 @@ ShowArea=true
 # casa vecino 2.0
 [034]
 # casa vecino 2
+MapPosition=0,15,6
 BattleBack=IndoorC
 Bicycle=true
-MapPosition=0,15,6
 [035]
 # casa vecino 3
 MapPosition=0,13,6
@@ -143,20 +143,20 @@ MapPosition=0,13,6
 HealingSpot=35,17,7
 [037]
 # Sucursal 1 de exploradores
-BattleBack=EliteA
 MapPosition=0,13,6
+BattleBack=EliteA
 [038]
 # habitación prota
 MapPosition=0,13,6
 [039]
 # Prueba Batalla
 MapSize=2,11
+MapPosition=0,11,6
+TrainerBattleBGM=Descendents-I_m-Not-A-Loser-_8-bit_.ogg
 BattleBack=GIMNASIO
 TrainerVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
-TrainerBattleBGM=Descendents-I_m-Not-A-Loser-_8-bit_.ogg
-MapPosition=0,11,6
-HealingSpot=30,6,9
 ShowArea=true
+HealingSpot=30,6,9
 [040]
 # Pueblo Palmeras
 MapPosition=0,11,6
@@ -166,6 +166,6 @@ ShowArea=true
 # Centro Pokémon
 [044]
 # Gym Planta
+TrainerBattleBGM=Descendents-I_m-Not-A-Loser-_8-bit_.ogg
 BattleBack=
 TrainerVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
-TrainerBattleBGM=Descendents-I_m-Not-A-Loser-_8-bit_.ogg
