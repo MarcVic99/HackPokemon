@@ -1,0 +1,42 @@
+Vale Brodi iré anotando aquí todo lo que está echo, tú también hazlo cuando vayas haciendo cosillas así quedará todo bien atado. Se señalizará con (#) Los mapas generales.
+Dentro de esas categorías, se pondra por puntos(-) cada Evento/Lugar dentro del mapa, cada punto puede tener sub puntos que se señalizarán con número en orden de prioridad.
+Al lado de las categorías y los sub puntos, se pondra (ECHO) para saber si está finalizado y de dejará en blanco lo que no.
+
+Update Pre-Alpha 1
+ #Intro#
+  
+
+#Villa Mariona#
+  -Evento Cueva Sueño
+  -Evento Inicio (HECHO)
+   1-Carta Ulises (HECHO)
+   2-Camino Laboratorio (HECHO)
+  -Casas (HECHO)
+  -Barco (HECHO)
+  -Caprabo(HECHO)
+  -Sucursal Exploradores (HECHO)
+   1-Inicial (HECHO)
+   2-Lobby Pruebas (HECHO)
+   3-Prueba batalla (HECHO)
+   4-Prueba Captura
+   5-Prueba Ingenio
+ 
+#Ruta Incresa y Ruta Incresa 1.2#
+   -Caseta Mike (HECHO)
+   -Entrenadores
+   -Evento Arnau (Ruta Incresa 1.2)
+   -Objetos Overworld (HECHO)
+   -Pokémon Salvajes (HECHO)
+ 
+#Pueblo Palmeras#
+   -Tienda Pokémon 
+   -Centro Pokémon (HECHO)
+     1-Intercambio con NPC (HECHO)
+   -Ruinas Palmeras
+     1-Tp al pasado al conectar con el Poneglyph
+   -Gym Pilar Regional Planta
+   -Cabañas
+   -Casas 
+   -Pokemon de Overworld(ECHO)
+   -Entrada Sendero Llave de oro (ECHO)
+   
