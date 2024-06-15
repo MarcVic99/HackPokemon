@@ -4,10 +4,33 @@ Al lado de las categorías y los sub puntos, se pondra (ECHO) para saber si est�
 
 Update Pre-Alpha 1
  #Intro#
-  
+
+
+###############################################
+########## TAREAS A PRIORIZAR #################
+###############################################
+
+- Prioridad 1: * Prioridad alta
+- Prioridad 2: ** Prioridad muy alta
+- Prioridad 3: *** URGENTE
+
+###############################################
+###############################################
+
+
+
+#Cueva Intro Mew/Celebi        
+- Mapeado *
+- Primer evento **
+- Textos **
+- Segundo evento *
+- Tercer evento *
+- Puerta final *
+- Lore definido ***
+- Mugshoot mew/celebi **
+- Mugshoot chica **
 
 #Villa Mariona#
-  -Evento Cueva Sueño
   -Evento Inicio (HECHO)
    1-Carta Ulises (HECHO)
    2-Camino Laboratorio (HECHO)
@@ -19,24 +42,33 @@ Update Pre-Alpha 1
    2-Lobby Pruebas (HECHO)
    3-Prueba batalla (HECHO)
    4-Prueba Captura
-   5-Prueba Ingenio
+	4.1. Mapeado (HECHO)
+	4.2. Colisiones
+	4.3. Evento pokemon escapando (HECHO)
+	4.4. Evento entrar en combate para atraparlo ***
+	4.5. Evento música **
+   5-Prueba Ingenio 
+	5.1. Preguntas pruebas evento (HECHO)
+	5.2. Mapeado (HECHO)
+	5.3. Continuar historia en el lab despues de la prueba ***
+	5.4. Evento música **
  
 #Ruta Incresa y Ruta Incresa 1.2#
    -Caseta Mike (HECHO)
-   -Entrenadores
-   -Evento Arnau (Ruta Incresa 1.2)
+   -Entrenadores **
+   -Evento Arnau (Ruta Incresa 1.2) ***
    -Objetos Overworld (HECHO)
    -Pokémon Salvajes (HECHO)
  
 #Pueblo Palmeras#
-   -Tienda Pokémon 
+   -Tienda Pokémon *
    -Centro Pokémon (HECHO)
      1-Intercambio con NPC (HECHO)
-   -Ruinas Palmeras
-     1-Tp al pasado al conectar con el Poneglyph
-   -Gym Pilar Regional Planta
-   -Cabañas
-   -Casas 
-   -Pokemon de Overworld(ECHO)
-   -Entrada Sendero Llave de oro (ECHO)
+   -Ruinas Palmeras *
+     1-Tp al pasado al conectar con el Poneglyph *
+   -Gym Pilar Regional Planta **
+   -Cabañas *
+   -Casas *
+   -Pokemon de Overworld(hECHO)
+   -Entrada Sendero Llave de oro (hECHO)
    
