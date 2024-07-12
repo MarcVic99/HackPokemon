@@ -1,0 +1,92 @@
+Apartado de créditos que hacen posible todo esto:
+
+Plugins:
+
+-Modular Menu: Luka S.J.
+-Modular Title Screen: Luka S.J.
+-Luka's Scripting Utilities: Luka S.J.
+-LA Moverelearner: Kotaro,IndianAnimator.
+-Item Find: Boonzeet.
+-Following Pokemon EX: Golisopod User, Help-14, zingzags, Rayd12smitty, Venom12, mej71, PurpleZaffre, Akizakura16, Thundaga, Armin (Fairies Resource Pack), Maruno.
+-Fancy Badges: Luka S.J.
+-BW Text Entry Scene: Shashu-Greninja,DeepBlue PacificWaves,Erassus
+-BW Summary Screen:  DeepBlue PacificWaves, Tommaniacal, Lucidious89, Weibrot, Kobi2604, Dirkriptide, Ploaj, Mr. Gela, Shashu-Greninja, Golisopod User
+-Storage System BW Style: DeepBlue PacificWaves
+-BW Save Screen:  HDrawer (based on shiney570 script)
+-Pokedex BW Style: DeepBlue PacificWaves, NettoHikari, Xtreme1992
+-BW Party Screen: DeepBlue PacificWaves,Shashu-Greninja, Golisopod User
+-PScreen Bag Graphical Overhaul: by LackDeJurane
+-Egghatcher:Kyu (Script),Clara(Idea, graphics and testing), Turner (Updated hatcher icon)
+-Marin's Enhanced Staircases: Marin.
+-Encounter List UI (v19): ThatWelshOne_,raZ,Marin,Maruno,Nuri Yuri,PurpleZaffre,Savordez,Vendily.
+-Sistema de logros para Essentials: Autor del script: Nyaruko(Antes conocida como Painkiller97) (@PKMNExcelsis) / Gráficos: Clara (@Clara_dragon).
+
+Sprites: 
+
+Rodolfo y Álama remakes --> Yami (@KrisIlusion)
+Mega Seviper --> Eiidiw (@nyjee9) en Instagram.
+Annihilape --> @ArtsCarmaNekko on Twitter
+Front Ceruledge --> @QDylm on Devianart
+Gholdengo --> Smoogon
+Hoenn / Kalos trainer sprites --> @Kyledove on Devianart / @DoveKyle on Twitter, Arkler, MexaJ / @DarkusShadow on Devianart (some OWs)
+
+------------------------------------------------------------
+CRÉDITOS POKÉMON ANIMADOS
+Sprites de 6ta-8taba Gen:
+Hellfire_raptor
+Skyflier
+BR0DE0
+arinoelle
+PumpkinPastel 
+NoelleMBrooks
+Antiant 
+SelenaArmorclaw
+MallowOut
+RadicalCharizard
+DanEx
+Typhlito
+HM100
+N-Kin
+seleccion
+Legitimate Username 
+ Noobiess
+TheAetherPlayer
+TheCynicalPoet.
+Diegotoon20
+ekurepu
+iametrine
+PomPomKing
+SkidMarc25
+Creobnil
+Snivy101 
+AyanoCloud
+Federico97_ez
+HyperactiveFlummi
+OmegalingYT
+SoulWardenInfinity
+dimbly
+------------------------------------------------------------
+CRÉDITOS PROYECTO 9 GEN
+
+Organizador: Skyflyer
+
+ICONOS: CarmaNekko, Divaruta 666, Okyo, JLauz735, ClaraDragon, Poki Papillon
+
+SPRITES COMBATE: Nolo33, Ebaru, EricLostie, KingOfThe-X-Roads, kiriaura, Caruban, Sopita_Yorita, Azrita, AshnixsLaw, Hellfire0raptor, RetroNC, Franark122k
+OldSoulja, PKMarioG, ItsYugen, lucasomi, Pkm Sinfonia, Poki Papillon, Fleimer_, bizcoeindoloroC4TB0T
+
+OW: DarkusShadow, Eduar PokeN, Poki Papillon, Skyflyer
+------------------------------------------------------------
+
+Mecánicas: Evolución fuera de combate --> Elena(@pkmn_realidea)
+
+Tilesets: WesleyFG, Pablus94, Magiscarf, Shadeamon, aveontrainer, princess-phoenix, DarkuShadow, y muchos más que no recuerdo tbh, si alguien se da por aludido, decidme de añadiros para la próxima beta <3
+
+Música: Stardew Valley, Zame (YT channel), Vetrom (YT channel), DrazorLeaf(YT Channel), Samuel Kim Music(YT Channel).
+
+Ayuda: Gracias a Xavi(@AscobolX) y Elena(@pkmn_realidea) por ayudarme cuando tenía cualquier duda y enseñarme muchas cosas, y a mis testers, David, Ximovc, Marmi, etc.
+
+Cualquier duda, consulta o lo que sea, podéis seguirme en mi cuenta de Twitter: @PkmnUnbreakTies o @ssamurai_98.
+Sino, podéis contactar por Discord --> SSamurai#2501
+
+

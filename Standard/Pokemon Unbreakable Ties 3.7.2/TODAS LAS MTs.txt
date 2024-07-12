@@ -1,0 +1,157 @@
+TM USADAS:
+
+RUTA 2
+TM10: Hoja mágica
+
+RUTA 3
+TM12: Pa cambiar
+
+CUEVA PINZÓN
+TM48: Tumba rocas
+
+RUTA 4
+TM76: Hierba lazo
+
+RUTA 5
+TM00: Megapuño
+TM01: Megapatada
+
+BOSQUE VERDERÓN
+TM50: Recurrente
+TM39: Imagen
+
+CIUDAD VERDERÓN: LÍDER SILVANO
+HM01: Corte
+
+RUTA 6
+TM53: Disparo lodo
+
+RUTA 6(NORTE)
+TM07: Pin misil
+
+CUEVA RELIQUIA (P2)
+TM15: Excavar
+
+CIUDAD CALENTRA: LÍDER YANGXIAO
+TM63: Puño drenaje
+
+RUTA 8
+TM34: Día soleado
+
+RUTA 9
+TM11: Rayo solar
+TM68: Colmillo ígneo
+
+RUTA 10
+TM28: Retroceso
+
+CIUDAD CARDENAL
+TM56: Ida y vuelta
+TM102: Cháchara
+TM103: Terremoto
+TM98: Pataleta
+TM72: Rayo Carga
+
+CIUDAD CARDENAL: LÍDER CELESTE
+HM03: Surf
+TM104: Escaldar
+
+JARDÍN DE LOS SUEÑOS
+TM25: Protección
+TM46: Paz Mental
+
+SYMPHONY OF THE SEAS
+TM36: Torbellino
+
+RUTA 11
+TM27: Gigadrenado
+
+RUTA 12
+TM31: Atracción
+
+BOSQUE DEL TIEMPO
+TM73: Veneno XXX
+
+CIUDAD FORBE: LÍDER SAKURA
+TM89: Carantoña
+
+RUTA 13
+TM86: Brillo mágico
+
+CUEVA MÍSTICA
+TM99: Vasto Impacto
+
+RUTA 14
+TM88: Fuerza Lunar
+
+Ruta 15
+TM19: Velo Sagrado
+
+BOSQUE DE LOS LAMENTOS
+TM92: Fuego Místico
+TM26: Garra Umbría
+TM38: Fuego Fátuo
+
+TORRE CELESTIAL
+TM45: Garra Dragón
+
+CUEVA SAGRADA
+TM54: Pedrada
+
+CIUDAD FORBE: LÍDER ZURVÁN
+TM59: Bola Sombra
+
+RUTA 16
+TM55: Salmuera
+TM75: Puntapié
+
+ORFANATO ABANDONADO
+TM70: Espacio Raro
+
+BOSQUE PERDIDO
+TM97: Giro Vil
+
+CUEVA MAGNÉTICA
+TM74: Girobola
+TM14: Onda Trueno
+TM30: Ala de acero
+TM82: Electrotela
+
+RUTA 17
+TM33: Danza Lluvia
+TM57: Rayo
+
+CIUDAD LUGANO
+TM87: Beso Drenaje
+TM94: Falsotortazo
+TM42: Voltio Cruel
+TM44: Pulso Umbrío
+TM41: Tajo Umbrío
+TM51: Finta
+
+CLOACAS
+TM47: Tóxico
+TM83: Puya Nociva
+TM49: Onda Tóxica
+TM61: Bomba Lodo
+
+RUTA 19
+TM29: Viento Acíago
+TM24: Sombra Vil
+
+SEMENTERIO
+TM79: Represalia
+
+PARQUE DEL RETIRO
+TM21: Descanso
+
+
+
+
+
+
+
+
+
+
+

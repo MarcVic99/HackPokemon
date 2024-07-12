@@ -1,0 +1,2328 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[000]
+Home = 32,42,27,2
+WildBattleBGM = wild pokemon.mp3
+TrainerBattleBGM = TRAINER THEME.mp3
+WildVictoryME = Battle victory wild.ogg
+TrainerVictoryME = Battle victory trainer.ogg
+SurfBGM = Surfing.ogg
+BicycleBGM = Bicycle.mid
+PlayerA = POKEMONTRAINER_Red,trainer_POKEMONTRAINER_Red,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,boy_fish_offset
+PlayerB = POKEMONTRAINER_Leaf,trainer_POKEMONTRAINER_Leaf,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,girl_fish_offset
+PlayerC = POKEMONTRAINER_Yoimiya,trainer_POKEMONTRAINER_Yoimiya,eda_bike,eda_surf,eda_run,eda_surf,eda_fish_offset,girl_fish_offset
+PlayerD = POKEMONTRAINER_Seker,trainer_Seker,darek_bike,darek_surf,darek_run,darek_surf,darek_fish_offset,girl_fish_offset
+PlayerE = DETECTIVE,REVOLUCIONARIO_past,edward_bike,edward_surf,edward_run,edward_surf,edward_fish_offset,girl_fish_offset
+#-------------------------------
+[001]
+# Intro
+Outdoor = true
+ShowArea = false
+SnapEdges = true
+#-------------------------------
+[002]
+# Lappet Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = field
+#-------------------------------
+[003]
+# \PN's house
+HealingSpot = 2,8,8
+MapPosition = 0,13,12
+#-------------------------------
+[004]
+# Pokémon Lab
+ShowArea = false
+MapPosition = 0,13,12
+#-------------------------------
+[005]
+# Route 1
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,11
+BattleBack = field
+#-------------------------------
+[006]
+# Kurt's house
+MapPosition = 0,13,11
+#-------------------------------
+[007]
+# Cedolan City
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,10
+MapSize = 2,11
+#-------------------------------
+[008]
+# Daisy's house
+MapPosition = 0,13,12
+#-------------------------------
+[009]
+# Cedolan City Poké Center
+HealingSpot = 8,17,11
+MapPosition = 0,14,10
+#-------------------------------
+[010]
+# Cedolan Gym
+MapPosition = 0,13,10
+BattleBack = indoor3
+Environment = Rock
+#-------------------------------
+[011]
+# Pokémon Institute
+MapPosition = 0,14,10
+#-------------------------------
+[012]
+# Cedolan City Condo
+MapPosition = 0,14,10
+#-------------------------------
+[013]
+# Game Corner
+MapPosition = 0,14,10
+#-------------------------------
+[014]
+# Cedolan Dept. 1F
+MapPosition = 0,13,10
+#-------------------------------
+[015]
+# Cedolan Dept. 2F
+MapPosition = 0,13,10
+#-------------------------------
+[016]
+# Cedolan Dept. 3F
+MapPosition = 0,13,10
+#-------------------------------
+[017]
+# Cedolan Dept. 4F
+MapPosition = 0,13,10
+#-------------------------------
+[018]
+# Cedolan Dept. 5F
+MapPosition = 0,13,10
+#-------------------------------
+[019]
+# Cedolan Dept. Rooftop
+MapPosition = 0,13,10
+#-------------------------------
+[020]
+# Cedolan Dept. Elevator
+MapPosition = 0,13,10
+#-------------------------------
+[021]
+# Route 2
+Outdoor = true
+ShowArea = true
+Weather = Rain,100
+MapPosition = 0,14,8
+BattleBack = field
+MapSize = 1,11
+#-------------------------------
+[023]
+# Lerucean Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,8
+#-------------------------------
+[024]
+# Lerucean Town Poké Center
+HealingSpot = 23,11,15
+MapPosition = 0,15,8
+#-------------------------------
+[025]
+# Lerucean Town Mart
+MapPosition = 0,15,8
+#-------------------------------
+[026]
+# Pokémon Fan Club
+MapPosition = 0,15,8
+#-------------------------------
+[027]
+# Pokémon Day Care
+MapPosition = 0,15,8
+#-------------------------------
+[028]
+# Natural Park
+Outdoor = true
+ShowArea = true
+MapPosition = 0,16,8
+BattleBack = field
+#-------------------------------
+[029]
+# Natural Park Entrance
+Bicycle = true
+MapPosition = 0,16,8
+#-------------------------------
+[030]
+# Natural Park Pavillion
+MapPosition = 0,16,8
+#-------------------------------
+[031]
+# Route 3
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,6
+BattleBack = field
+MapSize = 2,1101
+#-------------------------------
+[032]
+# Pueblo Gorrión
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,4,15
+SnapEdges = true
+#-------------------------------
+[033]
+# MAP033
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[034]
+# Ice Cave
+Bicycle = true
+MapPosition = 0,15,6
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[035]
+# Ingido Plateau
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,6
+#-------------------------------
+[036]
+# Pokémon League
+HealingSpot = 35,17,7
+MapPosition = 0,13,6
+#-------------------------------
+[037]
+# Pokémon League
+MapPosition = 0,13,6
+BattleBack = elite1
+#-------------------------------
+[038]
+# Hall of Fame
+MapPosition = 0,13,6
+#-------------------------------
+[039]
+# Route 4
+Outdoor = true
+ShowArea = true
+MapPosition = 0,11,6
+BattleBack = field
+MapSize = 2,11
+#-------------------------------
+[040]
+# Route 4
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,11,6
+#-------------------------------
+[041]
+# Route 5
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,11,7
+MapSize = 1,111
+#-------------------------------
+[042]
+# Pueblo Gorrión - Tu casa
+MapPosition = 0,4,15
+BattleBack = casa
+#-------------------------------
+[043]
+# Escuela Gorrión
+MapPosition = 0,4,15
+SnapEdges = false
+#-------------------------------
+[044]
+# Route 6
+Outdoor = true
+ShowArea = true
+MapPosition = 0,11,10
+BattleBack = field
+MapSize = 2,11
+#-------------------------------
+[045]
+# Route 6
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,11,10
+#-------------------------------
+[046]
+# Cycling Road gate
+Bicycle = true
+MapPosition = 0,12,6
+#-------------------------------
+[047]
+# Route 7
+Outdoor = true
+ShowArea = true
+Weather = Rain,0
+MapPosition = 0,15,10
+BattleBack = rocky
+MapSize = 2,11
+Environment = Rock
+#-------------------------------
+[048]
+# Casa de Álama
+MapPosition = 0,4,15
+#-------------------------------
+[049]
+# Rock Cave
+Bicycle = true
+MapPosition = 0,16,10
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[050]
+# Rock Cave
+Bicycle = true
+MapPosition = 0,16,10
+DarkMap = true
+BattleBack = cave3
+Environment = Cave
+#-------------------------------
+[051]
+# Dungeon
+Bicycle = true
+MapPosition = 0,16,10
+Dungeon = true
+BattleBack = cave2
+Environment = Cave
+#-------------------------------
+[052]
+# Battle Frontier
+Outdoor = true
+ShowArea = true
+MapPosition = 0,17,10
+#-------------------------------
+[053]
+# Battle Frontier Poké Center
+HealingSpot = 52,17,14
+MapPosition = 0,17,10
+#-------------------------------
+[054]
+# Battle Frontier Mart
+MapPosition = 0,17,10
+#-------------------------------
+[055]
+# Battle Tower
+HealingSpot = 52,30,10
+MapPosition = 0,17,10
+#-------------------------------
+[056]
+# Battle Tower arena
+MapPosition = 0,17,10
+BattleBack = indoor1
+#-------------------------------
+[057]
+# Stadium Cup lobby
+MapPosition = 0,17,10
+#-------------------------------
+[058]
+# Battle Palace
+MapPosition = 0,17,10
+#-------------------------------
+[059]
+# Battle Palace arena
+MapPosition = 0,17,10
+BattleBack = indoor1
+#-------------------------------
+[060]
+# Battle Arena
+MapPosition = 0,17,10
+#-------------------------------
+[061]
+# Battle Arena arena
+MapPosition = 0,17,10
+BattleBack = indoor1
+#-------------------------------
+[062]
+# Battle Factory
+MapPosition = 0,17,10
+#-------------------------------
+[063]
+# Battle Factory intro corridor
+MapPosition = 0,17,10
+#-------------------------------
+[064]
+# Battle Factory arena
+MapPosition = 0,17,10
+BattleBack = indoor1
+#-------------------------------
+[065]
+# Battle Factory corridor
+MapPosition = 0,17,10
+#-------------------------------
+[066]
+# Safari Zone
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,12
+BattleBack = field
+#-------------------------------
+[067]
+# Safari Zone gate
+MapPosition = 0,12,12
+#-------------------------------
+[068]
+# Safari Zone
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,12
+SafariMap = true
+BattleBack = forest
+Environment = Forest
+#-------------------------------
+[069]
+# Route 8
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,13
+DiveMap = 70
+BattleBack = field
+#-------------------------------
+[070]
+# Underwater
+MapPosition = 0,13,13
+BattleBack = underwater
+Environment = Underwater
+#-------------------------------
+[071]
+# Harbor
+MapPosition = 0,13,13
+#-------------------------------
+[072]
+# Berth Island
+Outdoor = true
+ShowArea = true
+Weather = Storm,50
+MapPosition = 0,18,17
+BattleBack = field
+#-------------------------------
+[073]
+# Faraday Island
+Outdoor = true
+ShowArea = true
+MapPosition = 0,22,16
+BattleBack = field
+#-------------------------------
+[074]
+# Cycling Road gate
+Bicycle = true
+MapPosition = 0,12,10
+#-------------------------------
+[075]
+# Tiall Region
+Outdoor = true
+MapPosition = 1,13,16
+BattleBack = city
+#-------------------------------
+[076]
+# Laboratorio
+MapPosition = 0,4,15
+#-------------------------------
+[077]
+# Ciudad Cardenal (Norte)
+Outdoor = false
+ShowArea = true
+MapPosition = 0,4,16
+SnapEdges = true
+BattleBack = ciudad
+#-------------------------------
+[078]
+# Ruta 1
+Outdoor = true
+ShowArea = true
+MapPosition = 0,5,15
+SnapEdges = true
+BattleBack = ruta1
+WildBattleBGM = wild pokemon.mp3
+TrainerBattleBGM = TRAINER THEME.mp3
+Environment = Grass
+#-------------------------------
+[079]
+# Pueblo Pardillo
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,6,15
+SnapEdges = true
+#-------------------------------
+[080]
+# Ruta 2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,8,14
+SnapEdges = true
+BattleBack = ruta1
+WildBattleBGM = wild pokemon.mp3
+TrainerBattleBGM = TRAINER THEME.mp3
+Environment = Grass
+#-------------------------------
+[081]
+# Pueblo Pardillo 
+MapPosition = 0,6,15
+#-------------------------------
+[082]
+# Gate 1
+MapPosition = 0,8,14
+#-------------------------------
+[083]
+# Pueblo Pinzón
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,9,14
+SnapEdges = true
+#-------------------------------
+[084]
+# Pueblo Pinzón
+MapPosition = 0,9,14
+#-------------------------------
+[085]
+# Gate 2
+MapPosition = 0,10,15
+#-------------------------------
+[086]
+# Pueblo Pinzón - Cafetería
+MapPosition = 0,9,14
+BattleBack = cafeteria
+TrainerBattleBGM = TRAINER THEME.mp3
+#-------------------------------
+[087]
+# Ciudad Cardenal (Sur)
+MapPosition = 0,28,11
+#-------------------------------
+[088]
+# Ruta 3
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,11,15
+SnapEdges = true
+BattleBack = ruta1
+WildBattleBGM = wild pokemon.mp3
+TrainerBattleBGM = TRAINER THEME.mp3
+#-------------------------------
+[089]
+# Cueva Pinzón
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,12,14
+DarkMap = false
+BattleBack = cave0
+WildBattleBGM = wild pokemon.mp3
+TrainerBattleBGM = TRAINER THEME.mp3
+Environment = Rock
+#-------------------------------
+[090]
+# Ruta 4
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,13,15
+SnapEdges = true
+BattleBack = ruta1
+WildBattleBGM = wild pokemon.mp3
+TrainerBattleBGM = TRAINER THEME.mp3
+#-------------------------------
+[091]
+# Gate 3
+MapPosition = 0,14,16
+BattleBack = inside
+#-------------------------------
+[092]
+# Ciudad Calentra
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,15,16
+SnapEdges = true
+BattleBack = ciudad
+Environment = Forest
+#-------------------------------
+[093]
+# Ciudad Calentra
+MapPosition = 0,15,16
+#-------------------------------
+[094]
+# Ciudad Calentra - Gym
+MapPosition = 0,15,16
+BattleBack = gym2inside
+TrainerBattleBGM = TRAINER THEME.mp3
+#-------------------------------
+[095]
+# Ciudad Calentra - Gym
+MapPosition = 0,15,16
+BattleBack = gym2inside
+TrainerBattleBGM = TRAINER THEME.mp3
+#-------------------------------
+[096]
+# Ciudad Calentra - Gym
+MapPosition = 0,15,16
+BattleBack = gym2inside
+TrainerBattleBGM = TRAINER THEME.mp3
+#-------------------------------
+[097]
+# Ciudad Calentra - Gym
+MapPosition = 0,15,16
+BattleBack = gym1
+TrainerBattleBGM = gym song.mp3
+#-------------------------------
+[098]
+# Ruta 2 
+Outdoor = false
+ShowArea = false
+Bicycle = true
+MapPosition = 0,8,14
+SnapEdges = false
+BattleBack = ruta1
+WildBattleBGM = wild pokemon.mp3
+TrainerBattleBGM = TRAINER THEME.mp3
+Environment = Grass
+#-------------------------------
+[099]
+# Gate 4
+MapPosition = 0,15,15
+#-------------------------------
+[100]
+# Ruta 5 - Escuela
+MapPosition = 0,15,13
+#-------------------------------
+[101]
+# Bosque Verderón
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,14,12
+SnapEdges = true
+BattleBack = forest
+WildBattleBGM = wild pokemon.mp3
+TrainerBattleBGM = TRAINER THEME.mp3
+Environment = ForestGrass
+#-------------------------------
+[102]
+# Bosque Verderón
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,14,12
+SnapEdges = true
+BattleBack = forest
+WildBattleBGM = wild pokemon.mp3
+TrainerBattleBGM = TRAINER THEME.mp3
+Environment = ForestGrass
+#-------------------------------
+[103]
+# Ciudad Verderón
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,15,11
+SnapEdges = true
+#-------------------------------
+[104]
+# Ciudad Verderón - Gym
+Outdoor = false
+MapPosition = 0,15,11
+SnapEdges = true
+BattleBack = forest
+TrainerBattleBGM = TRAINER THEME.mp3
+Environment = ForestGrass
+#-------------------------------
+[105]
+# Ciudad Verderón - Gym
+MapPosition = 0,15,11
+BattleBack = forest
+TrainerBattleBGM = TRAINER THEME.mp3
+Environment = Cave
+#-------------------------------
+[106]
+# Ciudad Verderón - Gym
+MapPosition = 0,15,11
+BattleBack = jungle2
+TrainerBattleBGM = gym song.mp3
+#-------------------------------
+[107]
+# Ciudad Verderón
+MapPosition = 0,15,10
+#-------------------------------
+[108]
+# Ciudad Verderón (Silvano home)
+MapPosition = 0,15,11
+#-------------------------------
+[109]
+# Gate 6
+MapPosition = 0,14,10
+BattleBack = inside
+Environment = Graveyard
+#-------------------------------
+[110]
+# Gate 5
+MapPosition = 0,16,16
+#-------------------------------
+[111]
+# Ruta 6
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,18,11
+SnapEdges = true
+BattleBack = forest
+WildBattleBGM = wild pokemon.mp3
+TrainerBattleBGM = TRAINER THEME.mp3
+Environment = ForestGrass
+#-------------------------------
+[112]
+# Rute 6 (Norte)
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,19,10
+SnapEdges = true
+BattleBack = forest
+Environment = Grass
+#-------------------------------
+[113]
+# Gate 8
+MapPosition = 0,19,10
+#-------------------------------
+[114]
+# Ruta 6 (Sur)
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,19,11
+SnapEdges = true
+BattleBack = forest
+#-------------------------------
+[115]
+# Cueva Reliquia (P0)
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,12
+SnapEdges = true
+BattleBack = cave0
+Environment = Cave
+#-------------------------------
+[116]
+# Cueva Reliquia (P1)
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,12
+SnapEdges = true
+BattleBack = cave0
+Environment = Cave
+#-------------------------------
+[117]
+# Cueva Reliquia (P2)
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,12
+SnapEdges = true
+BattleBack = cave0
+Environment = Cave
+#-------------------------------
+[118]
+# Cueva Reliquia (P-1)
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,12
+SnapEdges = true
+BattleBack = cave0
+Environment = Cave
+#-------------------------------
+[119]
+# Cueva Reliquia (P-2)
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,12
+SnapEdges = true
+BattleBack = cave0
+Environment = Cave
+#-------------------------------
+[120]
+# Pueblo Jilguero
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,19,9
+SnapEdges = true
+#-------------------------------
+[121]
+# Mirador Jilguero
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,21,9
+SnapEdges = true
+#-------------------------------
+[122]
+# Montaña de la sabiduría
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,19,7
+SnapEdges = true
+BattleBack = montaña
+#-------------------------------
+[123]
+# Ruta 6 (Sur)
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,19,12
+SnapEdges = true
+BattleBack = forest
+#-------------------------------
+[124]
+# Cueva Reliquia (P-1)
+MapPosition = 0,20,12
+#-------------------------------
+[125]
+# Ruta 7
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,17,15
+SnapEdges = true
+BattleBack = ruta1
+#-------------------------------
+[126]
+# Casa de Darek
+MapPosition = 0,4,15
+#-------------------------------
+[128]
+# Pueblo Pinzón
+MapPosition = 0,9,14
+#-------------------------------
+[129]
+# Ruta 5
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,13
+SnapEdges = true
+BattleBack = escuela
+#-------------------------------
+[130]
+# Ruta 4 
+MapPosition = 0,13,15
+#-------------------------------
+[131]
+# Ruta 8
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+Weather = Sun,0
+MapPosition = 0,21,15
+SnapEdges = true
+BattleBack = ruta1
+#-------------------------------
+[132]
+# Ciduad Verderón
+MapPosition = 0,15,10
+#-------------------------------
+[133]
+# Gate 7
+MapPosition = 0,15,10
+#-------------------------------
+[134]
+# Pueblo Jilguero
+MapPosition = 0,19,9
+#-------------------------------
+[135]
+# Ciudad Calentra
+MapPosition = 0,15,16
+#-------------------------------
+[136]
+# Ruta 5
+MapPosition = 0,15,13
+#-------------------------------
+[137]
+# Ruta 6 (Norte)
+MapPosition = 0,19,10
+#-------------------------------
+[138]
+# Pueblo Pardillo 
+MapPosition = 0,6,15
+#-------------------------------
+[140]
+# Ciudad Ninfa
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,23,15
+SnapEdges = true
+BattleBack = playa
+#-------------------------------
+[141]
+# Cueva Super Secreta
+MapPosition = 0,23,7
+#-------------------------------
+[142]
+# Ciudad Ninfa
+MapPosition = 0,23,15
+#-------------------------------
+[143]
+# Ciudad Ninfa - Heladería
+MapPosition = 0,23,15
+#-------------------------------
+[144]
+# Ciudad Ninfa - Cafetería
+MapPosition = 0,23,15
+#-------------------------------
+[145]
+# Ciudad Ninfa
+MapPosition = 0,23,15
+#-------------------------------
+[146]
+# Gate 10
+Outdoor = false
+MapPosition = 0,23,14
+BattleBack = inside
+#-------------------------------
+[147]
+# Cueva Misteriosa
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,13
+BattleBack = cave0
+Environment = Cave
+#-------------------------------
+[148]
+# Cueva Misteriosa
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,14
+BattleBack = cave0
+Environment = Cave
+#-------------------------------
+[149]
+# Ruta 9
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,23,13
+SnapEdges = true
+BattleBack = playa
+#-------------------------------
+[150]
+# Ruta 10
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,25,11
+SnapEdges = true
+BattleBack = playa
+#-------------------------------
+[151]
+# Cueva Algoritmo
+MapPosition = 0,24,12
+#-------------------------------
+[157]
+# Cueva Algoritmo
+#-------------------------------
+[158]
+# Cueva Algoritmo
+MapPosition = 0,24,12
+BattleBack = cave0
+#-------------------------------
+[159]
+# Casa de Eda
+MapPosition = 0,4,15
+#-------------------------------
+[160]
+# Ciudad Cardenal (Oeste)
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,28,11
+SnapEdges = true
+BattleBack = ciudad
+#-------------------------------
+[161]
+# Cafetería Spinda
+MapPosition = 0,28,11
+BattleBack = cafeteria
+#-------------------------------
+[162]
+# Ciudad Cardenal (Oeste)
+MapPosition = 0,28,11
+#-------------------------------
+[163]
+# Ciudad Cardenal
+MapPosition = 0,28,11
+#-------------------------------
+[164]
+# Gate 11
+MapPosition = 0,27,11
+#-------------------------------
+[165]
+# Ciudad Cardenal (Centro)
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,28,11
+SnapEdges = true
+BattleBack = ciudad
+#-------------------------------
+[166]
+# Ciudad Cardenal (Centro)
+MapPosition = 0,28,11
+#-------------------------------
+[167]
+# Ciudad Cardenal - Heladería
+MapPosition = 0,28,11
+#-------------------------------
+[168]
+# Ciudad Cardenal - Joyería
+MapPosition = 0,28,11
+#-------------------------------
+[169]
+# Ciudad Cardenal - Casa de Marina
+MapPosition = 0,28,11
+#-------------------------------
+[170]
+# Ciudad Cardenal - Pizzería
+MapPosition = 0,28,11
+#-------------------------------
+[171]
+# Ciudad Cardenal (Sur)
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,28,12
+SnapEdges = true
+BattleBack = ciudad
+#-------------------------------
+[172]
+# Ciudad Cardenal - Bar
+MapPosition = 0,28,11
+#-------------------------------
+[173]
+# Museo Cardenal
+Outdoor = false
+ShowArea = true
+MapPosition = 0,28,12
+SnapEdges = false
+BattleBack = museo
+#-------------------------------
+[174]
+# Ciudad Cardenal (Sur)
+MapPosition = 0,28,12
+#-------------------------------
+[175]
+# Ciudad Cardenal (Este)
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,29,12
+SafariMap = false
+SnapEdges = true
+BattleBack = ciudad
+#-------------------------------
+[176]
+# Ciudad Cardenal (Este)
+MapPosition = 0,28,11
+#-------------------------------
+[177]
+# Ciudad Cardenal - Biblioteca
+MapPosition = 0,28,11
+#-------------------------------
+[178]
+# Ciudad Cardenal - Biblioteca (P1)
+MapPosition = 0,28,11
+#-------------------------------
+[179]
+# Ciudad Cardenal (Norte)
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,28,11
+SnapEdges = true
+BattleBack = ciudad
+#-------------------------------
+[180]
+# Ciudad Cardenal (Norte)
+MapPosition = 0,28,11
+#-------------------------------
+[181]
+# Ciudad Cardenal (Norte)
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,28,11
+SnapEdges = true
+#-------------------------------
+[182]
+# Jardín de los Sueños
+Outdoor = true
+ShowArea = true
+MapPosition = 0,27,10
+SnapEdges = true
+BattleBack = jardin
+#-------------------------------
+[183]
+# Hotel MiraMar
+MapPosition = 0,28,11
+#-------------------------------
+[184]
+# Hotel MiraMar(P1)
+MapPosition = 0,28,11
+#-------------------------------
+[185]
+# Hotel MiraMar(P2)
+MapPosition = 0,28,11
+#-------------------------------
+[186]
+# Hotel MiraMar(P2)
+MapPosition = 0,28,11
+BattleBack = casa
+#-------------------------------
+[187]
+# Acuario Cardenal
+MapPosition = 0,28,11
+#-------------------------------
+[188]
+# Hotel MiraMar(P1)
+MapPosition = 0,28,11
+BattleBack = casa
+#-------------------------------
+[189]
+# Acuario Cardenal
+MapPosition = 0,28,11
+BattleBack = acuario
+#-------------------------------
+[190]
+# Acuario Cardenal
+MapPosition = 0,28,11
+BattleBack = acuario
+#-------------------------------
+[191]
+# Ciudad Cardenal - Gym
+Outdoor = false
+ShowArea = false
+MapPosition = 0,28,11
+BattleBack = piscina
+#-------------------------------
+[192]
+# Ciudad Cardenal - Gym
+MapPosition = 0,28,11
+#-------------------------------
+[193]
+# Ciudad Cardenal - Gym
+Outdoor = false
+ShowArea = false
+MapPosition = 0,28,11
+BattleBack = piscina
+#-------------------------------
+[197]
+# Jardín de los Sueños
+BattleBack = jardin
+#-------------------------------
+[199]
+# Restaurante Latios
+Outdoor = false
+ShowArea = true
+MapPosition = 0,29,11
+BattleBack = cafeteria
+#-------------------------------
+[200]
+# Restaurante Latias
+Outdoor = true
+ShowArea = true
+MapPosition = 0,28,11
+BattleBack = cafeteria
+#-------------------------------
+[201]
+# Iglesia Cardenal
+MapPosition = 0,28,12
+SnapEdges = true
+#-------------------------------
+[203]
+# Symphony of the Seas
+Outdoor = false
+ShowArea = true
+SnapEdges = false
+BattleBack = inside
+#-------------------------------
+[204]
+# Symphony of the Seas
+BattleBack = inside
+#-------------------------------
+[206]
+# Pueblo Tucán
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,28,5
+SnapEdges = true
+BattleBack = playa
+#-------------------------------
+[208]
+# Ruta 11
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,28,3
+SnapEdges = true
+BattleBack = ruta1
+#-------------------------------
+[209]
+# Bosque del Tiempo
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,25,2
+SnapEdges = true
+BattleBack = forest
+#-------------------------------
+[210]
+# Ruta 12
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,2
+SnapEdges = true
+BattleBack = ruta1
+#-------------------------------
+[211]
+# Ciudad Forbe
+Outdoor = true
+ShowArea = true
+MapPosition = 0,24,1
+SnapEdges = true
+#-------------------------------
+[212]
+# Ruta 13
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,3
+SnapEdges = true
+BattleBack = sakura
+#-------------------------------
+[213]
+# Santuario de la música
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,25,0
+SnapEdges = true
+BattleBack = sakura
+#-------------------------------
+[215]
+# Ciudad Forbe
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,1
+SnapEdges = true
+#-------------------------------
+[216]
+# Santuario de la música
+Outdoor = false
+ShowArea = true
+MapPosition = 0,25,0
+SnapEdges = true
+BattleBack = sakura
+#-------------------------------
+[217]
+# Ruta 14
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,4
+SnapEdges = true
+BattleBack = montaña
+#-------------------------------
+[222]
+# Pastelería Forbe
+Outdoor = false
+ShowArea = false
+BattleBack = cafeteria
+#-------------------------------
+[223]
+# Bosque de los Recuerdos
+Outdoor = false
+ShowArea = true
+Bicycle = false
+MapPosition = 0,17,4
+SnapEdges = true
+BattleBack = forest
+#-------------------------------
+[224]
+# Bosque de los Recuerdos
+Outdoor = false
+ShowArea = false
+SnapEdges = true
+#-------------------------------
+[226]
+# Pueblo Ruiseñor
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[227]
+# Escuela
+Outdoor = false
+ShowArea = false
+#-------------------------------
+[228]
+# Pueblo Mirlo
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,15,3
+SnapEdges = true
+#-------------------------------
+[229]
+# Ciudad Forbe - Gym
+Outdoor = false
+BattleBack = gym
+#-------------------------------
+[231]
+# Santuario de la música
+ShowArea = false
+#-------------------------------
+[232]
+# Ciudad Forbe
+#-------------------------------
+[235]
+# Cárcel de Akebia (P-3)
+Outdoor = false
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[236]
+# Cárcel de Akebia (P-3)
+ShowArea = true
+#-------------------------------
+[238]
+# Cueva Mística
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,2
+BattleBack = cave0
+#-------------------------------
+[239]
+# Cárcel de Akebia (P-2)
+Outdoor = false
+ShowArea = true
+MapPosition = 0,14,6
+BattleBack = carcel
+#-------------------------------
+[240]
+# Cárcel de Akebia (P-4)
+Outdoor = false
+ShowArea = true
+MapPosition = 0,14,6
+BattleBack = carcel
+#-------------------------------
+[241]
+# Cárcel de Akebia (P-4)
+ShowArea = true
+BattleBack = carcel
+#-------------------------------
+[242]
+# Cárcel de Akebia (P-5)
+ShowArea = true
+MapPosition = 0,14,6
+BattleBack = carcel
+#-------------------------------
+[243]
+# Cárcel de Akebia (P-5)
+ShowArea = true
+#-------------------------------
+[244]
+# Pueblo Ruiseñor
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,4
+SnapEdges = true
+#-------------------------------
+[245]
+# Gate 15
+#-------------------------------
+[246]
+# Pueblo Ruiseñor 
+#-------------------------------
+[247]
+# Gate 16
+#-------------------------------
+[248]
+# Bar Stones
+BattleBack = angiebar
+#-------------------------------
+[249]
+# Bosque Perdido
+Outdoor = false
+ShowArea = true
+MapPosition = 0,14,5
+SnapEdges = true
+BattleBack = bosque
+#-------------------------------
+[250]
+# Cárcel de Akebia (P-1)
+ShowArea = true
+MapPosition = 0,14,6
+SafariMap = false
+BattleBack = carcel
+#-------------------------------
+[253]
+# Cárcel de Akebia (P-3)
+Outdoor = false
+ShowArea = true
+MapPosition = 0,14,6
+BattleBack = carcel
+#-------------------------------
+[254]
+# Cárcel de Akebia (P-4)
+ShowArea = true
+#-------------------------------
+[255]
+# Cárcel de Akebia (P-5)
+ShowArea = true
+MapPosition = 0,14,6
+BattleBack = carcel
+#-------------------------------
+[256]
+# Bosque Perdido
+Outdoor = false
+ShowArea = true
+SnapEdges = true
+BattleBack = bosque
+#-------------------------------
+[257]
+# Ruta 15
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Fog,0
+MapPosition = 0,18,3
+SnapEdges = true
+BattleBack = montaña
+#-------------------------------
+[258]
+# Torre Celestial (P0)
+Outdoor = false
+ShowArea = true
+MapPosition = 0,15,2
+BattleBack = torre
+#-------------------------------
+[259]
+# Gate 17
+Outdoor = false
+ShowArea = false
+SnapEdges = false
+#-------------------------------
+[260]
+# Pueblo Mirlo 
+MapPosition = 0,15,2
+SnapEdges = true
+#-------------------------------
+[261]
+# Centro Pokémon
+MapPosition = 0,15,3
+#-------------------------------
+[262]
+# Torre Celestial
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,15,2
+SnapEdges = true
+BattleBack = montaña
+#-------------------------------
+[263]
+# Torre Celestial (P-1)
+Outdoor = false
+ShowArea = true
+MapPosition = 0,15,2
+BattleBack = torre
+#-------------------------------
+[264]
+# Torre Celestial (P1)
+Outdoor = false
+ShowArea = true
+MapPosition = 0,15,2
+BattleBack = torre
+#-------------------------------
+[265]
+# Torre Celestial (P2)
+Outdoor = false
+ShowArea = true
+MapPosition = 0,15,2
+BattleBack = torre
+#-------------------------------
+[266]
+# Torre Celestial (P3)
+Outdoor = false
+ShowArea = true
+MapPosition = 0,15,2
+BattleBack = torre
+#-------------------------------
+[267]
+# Torre Celestial (P4)
+Outdoor = false
+ShowArea = true
+MapPosition = 0,15,2
+SnapEdges = false
+BattleBack = torre
+#-------------------------------
+[268]
+# Torre Celestial (P5)
+Outdoor = false
+ShowArea = true
+MapPosition = 0,15,2
+BattleBack = torre
+#-------------------------------
+[269]
+# Cima Torre Celestial
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,2
+BattleBack = torre_cima
+#-------------------------------
+[270]
+# Pueblo Mirlo Gym 
+MapPosition = 0,15,3
+#-------------------------------
+[271]
+# Pueblo Mirlo Gym Heal
+MapPosition = 0,15,3
+#-------------------------------
+[272]
+# Pueblo Mirlo Gym Fight
+MapPosition = 0,15,3
+BattleBack = torre
+#-------------------------------
+[273]
+# Pueblo Mirlo Gym Bow
+MapPosition = 0,15,3
+#-------------------------------
+[274]
+# Pueblo Mirlo Gym Bow
+MapPosition = 0,15,3
+#-------------------------------
+[275]
+# Pueblo Mirlo Gym Bow
+MapPosition = 0,15,3
+#-------------------------------
+[276]
+# Pueblo Mirlo Gym Bow
+MapPosition = 0,15,3
+#-------------------------------
+[277]
+# Pueblo Mirlo Gym Bow
+MapPosition = 0,15,3
+#-------------------------------
+[278]
+# Pueblo Mirlo Gym Final
+MapPosition = 0,15,3
+SnapEdges = false
+BattleBack = torre
+#-------------------------------
+[283]
+# Jungla Camachuelo
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,9
+SnapEdges = true
+#-------------------------------
+[284]
+# Jungla Camachuelo
+Outdoor = true
+ShowArea = true
+MapPosition = 0,24,9
+SafariMap = false
+SnapEdges = true
+BattleBack = forest
+#-------------------------------
+[285]
+# Aldea Camachuelo
+Outdoor = true
+ShowArea = true
+MapPosition = 0,24,8
+SnapEdges = true
+BattleBack = lago
+#-------------------------------
+[286]
+# Jungla Camachuelo
+#-------------------------------
+[287]
+# Cueva Sagrada
+Outdoor = false
+ShowArea = true
+MapPosition = 0,24,8
+SnapEdges = true
+BattleBack = cave4
+#-------------------------------
+[288]
+# Cueva Sagrada
+Outdoor = false
+ShowArea = true
+BattleBack = cave4
+#-------------------------------
+[289]
+# Cueva Sagrada
+Outdoor = false
+ShowArea = true
+MapPosition = 0,24,8
+BattleBack = cave4
+#-------------------------------
+[290]
+# Cueva Sagrada
+Outdoor = false
+ShowArea = true
+MapPosition = 0,24,8
+BattleBack = cave4
+#-------------------------------
+[291]
+# Cueva Sagrada
+Outdoor = false
+ShowArea = true
+MapPosition = 0,24,8
+SnapEdges = false
+BattleBack = cave4
+#-------------------------------
+[292]
+# Pueblo Mirlo 
+MapPosition = 0,15,3
+#-------------------------------
+[293]
+# Cueva Sagrada
+#-------------------------------
+[294]
+# Aldea Camachuelo 
+MapPosition = 0,24,8
+#-------------------------------
+[295]
+# Aldea Camachuelo 
+MapPosition = 0,24,8
+#-------------------------------
+[296]
+# Pueblo Ruiseñor 
+#-------------------------------
+[297]
+# Selva Tué-Tué
+Outdoor = true
+ShowArea = true
+MapPosition = 0,23,7
+SnapEdges = true
+BattleBack = forest
+#-------------------------------
+[299]
+# Selva Tué-Tué 
+Outdoor = true
+ShowArea = true
+MapPosition = 0,23,7
+SnapEdges = true
+BattleBack = forest
+#-------------------------------
+[300]
+# Selva Tué-Tué
+Outdoor = false
+SnapEdges = false
+BattleBack = forest
+#-------------------------------
+[303]
+# Aldea Camachuelo
+SnapEdges = true
+#-------------------------------
+[304]
+# Villa Tué-Tué
+Outdoor = true
+ShowArea = true
+MapPosition = 0,23,6
+SnapEdges = true
+#-------------------------------
+[306]
+# Selva Tué-Tué
+MapPosition = 0,23,6
+#-------------------------------
+[308]
+# Selva Tué-Tué
+SnapEdges = true
+#-------------------------------
+[310]
+# Villa Tué-Tué
+SnapEdges = true
+#-------------------------------
+[311]
+# Villa Tué-Tué
+MapPosition = 0,23,6
+#-------------------------------
+[312]
+# Villa Tué-Tué
+MapPosition = 0,23,6
+#-------------------------------
+[313]
+# Villa Tué-Tué
+MapPosition = 0,23,6
+SnapEdges = true
+#-------------------------------
+[314]
+# Ladera Tué-Tué
+Outdoor = true
+ShowArea = true
+MapPosition = 0,23,5
+SnapEdges = true
+BattleBack = forest
+#-------------------------------
+[315]
+# Cima Tué-Tué
+Outdoor = true
+ShowArea = true
+MapPosition = 0,23,5
+SnapEdges = true
+#-------------------------------
+[319]
+# Selva Tué-Tué
+MapPosition = 0,23,6
+SnapEdges = true
+#-------------------------------
+[320]
+# Cima Tué-Tué
+Outdoor = true
+ShowArea = false
+SnapEdges = true
+BattleBack = cima_tue_tue
+#-------------------------------
+[326]
+# Pueblo Gorrión
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+BattleBack = 
+#-------------------------------
+[327]
+# Selva Tué-Tué
+Outdoor = true
+ShowArea = true
+MapPosition = 0,23,7
+SnapEdges = true
+BattleBack = forest
+#-------------------------------
+[328]
+# Selva Tué-Tué
+Outdoor = true
+ShowArea = true
+MapPosition = 0,23,7
+SnapEdges = true
+#-------------------------------
+[329]
+# Ruta 16
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,3
+SafariMap = false
+SnapEdges = true
+BattleBack = montaña
+#-------------------------------
+[330]
+# Ruta 5
+MapPosition = 0,15,13
+#-------------------------------
+[333]
+# Casa - Jungla Camachuelo
+MapPosition = 0,24,9
+#-------------------------------
+[339]
+# Ruta 16 
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,4
+SnapEdges = true
+BattleBack = montaña
+#-------------------------------
+[340]
+# Playa Gorrión
+Outdoor = true
+ShowArea = true
+MapPosition = 0,5,17
+SafariMap = false
+SnapEdges = true
+#-------------------------------
+[341]
+# Palacio Real
+Outdoor = false
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[342]
+# Playa Gorrión - Casas
+MapPosition = 0,5,17
+#-------------------------------
+[345]
+# Palacio Real
+ShowArea = true
+#-------------------------------
+[346]
+# Ruta 18
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+BattleBack = lago
+#-------------------------------
+[347]
+# Ruta 17
+Outdoor = true
+ShowArea = true
+MapPosition = 0,10,5
+SnapEdges = true
+BattleBack = lago
+#-------------------------------
+[348]
+# Ruta 19
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,6
+SnapEdges = true
+BattleBack = montaña
+#-------------------------------
+[349]
+# Cementerio
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[350]
+# Orfanato Abandonado
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[352]
+# Cementerio
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+BattleBack = montaña
+#-------------------------------
+[355]
+# Sala de Estudio
+Outdoor = false
+#-------------------------------
+[356]
+# Comedor
+Outdoor = false
+#-------------------------------
+[357]
+# Orfanato Antiguo
+#-------------------------------
+[360]
+# Comedor
+#-------------------------------
+[361]
+# Laberinto
+Outdoor = false
+BattleBack = carcel
+#-------------------------------
+[363]
+# Despacho
+#-------------------------------
+[364]
+# Despacho
+Outdoor = false
+#-------------------------------
+[365]
+# Cocina
+#-------------------------------
+[366]
+# Cocina
+Outdoor = false
+BattleBack = carcel
+#-------------------------------
+[367]
+# Almacén
+Outdoor = false
+#-------------------------------
+[368]
+# Almacén
+#-------------------------------
+[369]
+# Pasillo
+Outdoor = false
+#-------------------------------
+[370]
+# Habitación de Shadow
+Outdoor = false
+BattleBack = shadow
+#-------------------------------
+[374]
+# Rotom Sala
+Outdoor = false
+#-------------------------------
+[375]
+# Cueva Magnética (P0)
+Outdoor = false
+ShowArea = true
+SnapEdges = false
+BattleBack = cave5
+#-------------------------------
+[376]
+# Cueva Magnética (P0)
+Outdoor = false
+ShowArea = true
+SnapEdges = false
+BattleBack = cave5
+#-------------------------------
+[377]
+# Cueva Magnética (P0)
+Outdoor = false
+ShowArea = true
+BattleBack = cave5
+#-------------------------------
+[378]
+# Cueva Magnética (P0)
+Outdoor = false
+ShowArea = true
+BattleBack = cave5
+#-------------------------------
+[379]
+# Cueva Magnética (P1)
+Outdoor = false
+ShowArea = true
+BattleBack = cave5
+#-------------------------------
+[380]
+# Cueva Magnética (P1)
+Outdoor = false
+ShowArea = true
+BattleBack = cave5
+#-------------------------------
+[381]
+# Cueva Magnética (P1)
+Outdoor = false
+ShowArea = true
+BattleBack = cave5
+#-------------------------------
+[382]
+# Cueva Magnética (P-1)
+Outdoor = false
+ShowArea = true
+SnapEdges = false
+BattleBack = cave5
+#-------------------------------
+[383]
+# Cueva Magnética (P-1)
+Outdoor = false
+ShowArea = true
+BattleBack = cave5
+#-------------------------------
+[384]
+# Cueva Magnética (P0)
+Outdoor = false
+ShowArea = true
+SnapEdges = false
+#-------------------------------
+[385]
+# Cueva Magnética (P2)
+Outdoor = false
+ShowArea = true
+BattleBack = cave5
+#-------------------------------
+[386]
+# Ruta 17
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[387]
+# Cueva Magnética (P1)
+Outdoor = false
+ShowArea = true
+BattleBack = cave5
+#-------------------------------
+[388]
+# Ruta 17
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+BattleBack = lago
+#-------------------------------
+[389]
+# Ruta 17
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+BattleBack = mountain
+#-------------------------------
+[390]
+# Ciudad Lugano (Oeste)
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+BattleBack = ciudad
+#-------------------------------
+[394]
+# Bosque Perdido
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+BattleBack = montaña
+#-------------------------------
+[395]
+# Ruta 16
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+BattleBack = montaña
+#-------------------------------
+[396]
+# Ciudad Lugano (Centro)
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,7
+SnapEdges = true
+BattleBack = ciudad
+#-------------------------------
+[397]
+# Ciudad Lugano (Este)
+Outdoor = true
+ShowArea = true
+SafariMap = false
+SnapEdges = true
+BattleBack = ciudad
+#-------------------------------
+[398]
+# Ciudad Lugano (Norte)
+Outdoor = true
+ShowArea = true
+SafariMap = false
+SnapEdges = true
+BattleBack = ciudad
+#-------------------------------
+[399]
+# Ciudad Lugano (Sur)
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[400]
+# Zona de Ejecuciones
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[401]
+# Ruta 19 (Exterior)
+Outdoor = true
+SnapEdges = true
+#-------------------------------
+[402]
+# Ciudad Lugano (Norte)
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[403]
+# Jardín del Palacio Real
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[404]
+# Jardín del Palacio Real
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[405]
+# Ciudad Lugano (Centro)
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[406]
+# Zona de Ejecuciones
+Outdoor = true
+ShowArea = true
+SafariMap = false
+SnapEdges = true
+#-------------------------------
+[408]
+# Hospital (PB)
+ShowArea = true
+#-------------------------------
+[409]
+# Hospital (P1)
+ShowArea = true
+#-------------------------------
+[410]
+# Hospital (P2)
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[411]
+# Hospital (Azotea)
+Outdoor = true
+ShowArea = true
+SafariMap = false
+SnapEdges = true
+BattleBack = ciudad
+#-------------------------------
+[414]
+# Hospital
+ShowArea = true
+SafariMap = false
+SnapEdges = true
+#-------------------------------
+[416]
+# Hospital (P2)
+SnapEdges = true
+#-------------------------------
+[421]
+# Ciudad Lugano (Norte)
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+BattleBack = ciudad
+#-------------------------------
+[422]
+# Ciudad Lugano (Centro)
+SnapEdges = true
+BattleBack = ciudad
+#-------------------------------
+[424]
+# Galería de Arte
+Outdoor = false
+ShowArea = true
+BattleBack = 
+#-------------------------------
+[425]
+# Galería de Arte
+ShowArea = true
+BattleBack = galeria
+#-------------------------------
+[426]
+# Galería de Arte (P1)
+ShowArea = true
+#-------------------------------
+[427]
+# Galería de Arte (P1)
+ShowArea = true
+#-------------------------------
+[428]
+# Galería de Arte (P1)
+ShowArea = true
+BattleBack = galeria
+#-------------------------------
+[429]
+# Parque del Retiro
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[430]
+# Barrio Pobre
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[431]
+# Parque del Retiro 
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+BattleBack = jungle6
+#-------------------------------
+[439]
+# Floristería
+Outdoor = false
+#-------------------------------
+[441]
+# Koffeetería
+Outdoor = false
+BattleBack = cafeteria
+#-------------------------------
+[448]
+# Centro Comercial (Azotea)
+Outdoor = false
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[451]
+# Parque del Retiro
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+BattleBack = ruta1
+#-------------------------------
+[452]
+# Parque del Retiro 
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+BattleBack = ruta1
+#-------------------------------
+[455]
+# Parque del Retiro
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+BattleBack = ruta1
+#-------------------------------
+[458]
+# Ristorante del Amour
+ShowArea = true
+#-------------------------------
+[459]
+# Casino
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[460]
+# Casino
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[461]
+# Casino (P1)
+ShowArea = true
+#-------------------------------
+[464]
+# Guarida (P-2)
+ShowArea = true
+#-------------------------------
+[465]
+# Guarida (P-1)
+ShowArea = true
+#-------------------------------
+[466]
+# Guarida (P-3) - Cocina
+ShowArea = true
+#-------------------------------
+[475]
+# Paso Floral
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+BattleBack = pasoFloral
+#-------------------------------
+[476]
+# Paso Floral
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+BattleBack = pasoFloral
+#-------------------------------
+[477]
+# Ladera Floral
+BattleBack = pasoFloral
+#-------------------------------
+[478]
+# Cima Floral
+Outdoor = true
+ShowArea = true
+SnapEdges = true
+#-------------------------------
+[487]
+# Ciudad Lugano (Norte)
+SnapEdges = true
+#-------------------------------
+[494]
+# Almacén
+ShowArea = true
+#-------------------------------
+[495]
+# Guarida (P-4) - Sala de Entr.
+ShowArea = true
+BattleBack = carcel
+#-------------------------------
+[496]
+# Guarida (P-5) - Sótano
+ShowArea = true
+#-------------------------------
+[498]
+# Sala de Reuniones
+ShowArea = true
+#-------------------------------
+[499]
+# Casino (P1)
+ShowArea = true
+#-------------------------------
+[500]
+# Guarida (P-4)
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[504]
+# Cloacas - Zona A
+Outdoor = false
+ShowArea = true
+SnapEdges = false
+BattleBack = cloacas2
+#-------------------------------
+[506]
+# Cloacas - Zona B
+ShowArea = true
+BattleBack = cloacas2
+#-------------------------------
+[507]
+# Cloacas - Zona C
+ShowArea = true
+BattleBack = cloacas2
+#-------------------------------
+[508]
+# Cloacas Agua Media
+ShowArea = true
+BattleBack = cloacas2
+#-------------------------------
+[509]
+# Cloacas Agua Alta
+ShowArea = true
+BattleBack = cloacas2
+#-------------------------------
+[510]
+# Cloacas - Zona D
+Outdoor = false
+ShowArea = true
+SnapEdges = false
+BattleBack = cloacas2
+#-------------------------------
+[511]
+# Cloacas - Agua Media
+Outdoor = false
+ShowArea = true
+SnapEdges = false
+BattleBack = cloacas2
+#-------------------------------
+[512]
+# Cloacas - Agua Baja
+ShowArea = true
+Dungeon = false
+BattleBack = cloacas2
+#-------------------------------
+[513]
+# Cloacas - Zona C FINAL
+ShowArea = true
+BattleBack = cloacas2
+#-------------------------------
+[516]
+# Ciudad Lugano (Centro)
+Outdoor = true
+ShowArea = true
+SnapEdges = true
