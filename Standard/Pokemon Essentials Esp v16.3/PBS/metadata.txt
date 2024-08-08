@@ -1,18 +1,18 @@
 ﻿[000]
-SurfBGM=Ship.mid
-TrainerBattleBGM=005-Boss01.mid
-BicycleBGM=Airship.mid
 PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
 PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
-WildBattleBGM=002-Battle02.mid
 Home=3,7,5,8
+BicycleBGM=Airship.mid
+SurfBGM=Ship.mid
+TrainerBattleBGM=005-Boss01.mid
+WildBattleBGM=002-Battle02.mid
 [001]
 # Intro
 [002]
 # Pueblo Empanada
-MapPosition=0,13,12
 Outdoor=true
 ShowArea=true
+MapPosition=0,13,12
 [003]
 # Casa de \PN
 MapPosition=0,13,12
@@ -23,18 +23,18 @@ HealingSpot=2,8,8
 MapPosition=0,13,12
 [005]
 # Ruta 1
-MapPosition=0,13,11
 Outdoor=true
 ShowArea=true
+MapPosition=0,13,11
 [006]
 # Casa de Kurt
 MapPosition=0,13,11
 [007]
 # Ciudad Milanesa
-MapPosition=0,13,10
-MapSize=2,11
 Outdoor=true
 ShowArea=true
+MapPosition=0,13,10
+MapSize=2,11
 [008]
 # Casa de Belén
 MapPosition=0,13,12
@@ -78,18 +78,18 @@ MapPosition=0,13,10
 MapPosition=0,13,10
 [021]
 # Ruta 2
-MapPosition=0,14,8
-Weather=Rain,50
-MapSize=1,11
 Outdoor=true
 ShowArea=true
+MapPosition=0,14,8
+MapSize=1,11
+Weather=Rain,50
 [022]
 # Villa Mariona
 [023]
 # Pueblo Lomito
-MapPosition=0,15,8
 Outdoor=true
 ShowArea=true
+MapPosition=0,15,8
 [024]
 # Centro Pokémon
 MapPosition=0,15,8
@@ -105,25 +105,25 @@ MapPosition=0,15,8
 MapPosition=0,15,8
 [028]
 # Parque Natural
-MapPosition=0,16,8
-BattleBack=Forest
 Outdoor=true
 ShowArea=true
+MapPosition=0,16,8
+BattleBack=Forest
 [029]
 # Entrada Parque Natural
 MapPosition=0,16,8
-Bicycle=true
+Bicycle=True
 [030]
 # interior casa prota
-MapPosition=0,16,8
 SnapEdges=true
+MapPosition=0,16,8
 [031]
 # Ruta incresa
+Outdoor=true
+ShowArea=true
 MapPosition=0,14,6
 MapSize=2,1101
 WildBattleBGM=Descendents-I_m-Not-A-Loser-_8-bit_.ogg
-Outdoor=true
-ShowArea=true
 [032]
 # Casa Vecino
 [033]
@@ -132,12 +132,12 @@ ShowArea=true
 # casa vecino 2
 MapPosition=0,15,6
 BattleBack=IndoorC
-Bicycle=true
+Bicycle=True
 [035]
 # casa vecino 3
-MapPosition=0,13,6
 Outdoor=true
 ShowArea=true
+MapPosition=0,13,6
 [036]
 # lavabo vecino 3
 MapPosition=0,13,6
@@ -148,27 +148,29 @@ MapPosition=0,13,6
 BattleBack=EliteA
 [038]
 # habitación prota
-MapPosition=0,13,6
 SnapEdges=true
+MapPosition=0,13,6
 [039]
 # Prueba Batalla
+ShowArea=true
+MapPosition=0,11,6
+MapSize=2,11
+BattleBack=GIMNASIO
 TrainerBattleBGM=Descendents-I_m-Not-A-Loser-_8-bit_.ogg
 TrainerVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
-MapPosition=0,11,6
-BattleBack=GIMNASIO
-MapSize=2,11
 HealingSpot=30,6,9
-ShowArea=true
 [040]
 # Pueblo Palmeras
-MapPosition=0,11,6
 Outdoor=true
 ShowArea=true
+MapPosition=0,11,6
 [041]
 # Prueba Captura
 TrainerVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
-WildVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
 WildBattleBGM=Salamander - Fairy Tail OST (8-Bit Dungeon Remix Version) [TubeRipper.cc].ogg
+WildVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
+[042]
+# Tienda Pokémon
 [043]
 # Centro Pokémon
 SnapEdges=true
@@ -176,4 +178,25 @@ SnapEdges=true
 # Gym Planta
 TrainerBattleBGM=Descendents-I_m-Not-A-Loser-_8-bit_.ogg
 TrainerVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
-BattleBack=
+[045]
+# interior cabañas
+[046]
+# Casa 1
+[047]
+# CCasa 2
+[048]
+# casa3
+[049]
+# casa vecino 2/2
+[050]
+# Ruta incresa 1.2
+[051]
+# Interior casa Mike
+[052]
+# Ruinas intro
+[053]
+# Prueba Ingenio
+[054]
+# Interior_Prueba_ingenio
+[055]
+# Pasillo Ruinas 1
