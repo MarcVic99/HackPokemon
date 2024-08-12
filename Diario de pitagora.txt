@@ -43,7 +43,7 @@ Update Pre-Alpha 1
    3-Prueba batalla (HECHO)
    4-Prueba Captura
 	4.1. Mapeado (HECHO)
-	4.2. Colisiones
+	4.2. Colisiones (HECHO)
 	4.3. Evento pokemon escapando (HECHO)
 	4.4. Evento entrar en combate para atraparlo ***
 	4.5. Evento música **
