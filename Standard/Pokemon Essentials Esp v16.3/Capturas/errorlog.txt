@@ -1,0 +1,171 @@
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: RuntimeError
+Mensaje: Valor indefinido YOUNGSTER en PBTrainers
+Archivo PBS/pokecuptr.txt, seccion 000, clave Type
+YOUNGSTER
+
+178:Compiler:451:in `checkEnumField'
+178:Compiler:436:in `csvEnumField!'
+178:Compiler:551:in `pbGetCsvRecord'
+178:Compiler:497:in `each'
+178:Compiler:497:in `pbGetCsvRecord'
+178:Compiler:2445:in `pbCompileBTTrainers'
+178:Compiler:2441:in `each'
+178:Compiler:2441:in `pbCompileBTTrainers'
+178:Compiler:187:in `pbEachFileSectionEx'
+178:Compiler:180:in `each_line'
+Excepción: RuntimeError
+Mensaje: Valor indefinido YOUNGSTER en PBTrainers
+Archivo PBS/pokecuptr.txt, seccion 000, clave Type
+YOUNGSTER
+
+178:Compiler:451:in `checkEnumField'
+178:Compiler:436:in `csvEnumField!'
+178:Compiler:551:in `pbGetCsvRecord'
+178:Compiler:497:in `each'
+178:Compiler:497:in `pbGetCsvRecord'
+178:Compiler:2445:in `pbCompileBTTrainers'
+178:Compiler:2441:in `each'
+178:Compiler:2441:in `pbCompileBTTrainers'
+178:Compiler:187:in `pbEachFileSectionEx'
+178:Compiler:180:in `each_line'
+Excepción: RuntimeError
+Mensaje: Valor indefinido YOUNGSTER en PBTrainers
+Archivo PBS/pokecuptr.txt, seccion 000, clave Type
+YOUNGSTER
+
+178:Compiler:451:in `checkEnumField'
+178:Compiler:436:in `csvEnumField!'
+178:Compiler:551:in `pbGetCsvRecord'
+178:Compiler:497:in `each'
+178:Compiler:497:in `pbGetCsvRecord'
+178:Compiler:2445:in `pbCompileBTTrainers'
+178:Compiler:2441:in `each'
+178:Compiler:2441:in `pbCompileBTTrainers'
+178:Compiler:187:in `pbEachFileSectionEx'
+178:Compiler:180:in `each_line'
+Excepción: RuntimeError
+Mensaje: Valor indefinido YOUNGSTER en PBTrainers
+Archivo PBS/pokecuptr.txt, seccion 000, clave Type
+YOUNGSTER
+
+178:Compiler:451:in `checkEnumField'
+178:Compiler:436:in `csvEnumField!'
+178:Compiler:551:in `pbGetCsvRecord'
+178:Compiler:497:in `each'
+178:Compiler:497:in `pbGetCsvRecord'
+178:Compiler:2445:in `pbCompileBTTrainers'
+178:Compiler:2441:in `each'
+178:Compiler:2441:in `pbCompileBTTrainers'
+178:Compiler:187:in `pbEachFileSectionEx'
+178:Compiler:180:in `each_line'
+Excepción: RuntimeError
+Mensaje: Valor indefinido YOUNGSTER en PBTrainers
+Archivo PBS/fancycupsingletr.txt, seccion 000, clave Type
+YOUNGSTER
+
+178:Compiler:451:in `checkEnumField'
+178:Compiler:436:in `csvEnumField!'
+178:Compiler:551:in `pbGetCsvRecord'
+178:Compiler:497:in `each'
+178:Compiler:497:in `pbGetCsvRecord'
+178:Compiler:2445:in `pbCompileBTTrainers'
+178:Compiler:2441:in `each'
+178:Compiler:2441:in `pbCompileBTTrainers'
+178:Compiler:187:in `pbEachFileSectionEx'
+178:Compiler:180:in `each_line'
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
