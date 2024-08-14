@@ -1,5 +1,5 @@
 #########################
-002 # Pueblo Empanada
+002
 25,10,10
 Water
 TENTACOOL,14,19
@@ -21,7 +21,7 @@ CORSOLA,15,18
 STARYU,15,17
 STARYU,15,17
 #########################
-005 # Ruta 1
+005
 25,10,10
 Land
 RATTATA,11,14
@@ -50,7 +50,7 @@ HOOTHOOT,10,14
 RATTATA,15
 HOOTHOOT,14
 #########################
-021 # Ruta 2
+021
 25,10,10
 Land
 RATTATA,12,15
@@ -103,7 +103,7 @@ SPINARAK,9,12
 SPINARAK,9,12
 SPINARAK,9,12
 #########################
-028 # Parque Natural
+028
 25,10,10
 Land
 CATERPIE,10
@@ -158,7 +158,7 @@ PINSIR,13,14
 SCYTHER,13,14
 PINSIR,13,14
 #########################
-031 # ruta incresa
+031 # Ruta incresa
 25,10,10
 Land
 NIDORANfE,12,15
@@ -217,7 +217,7 @@ BURMY,12,15
 BURMY,12,15
 BURMY,12,15
 #########################
-034
+034 # casa vecino 2
 25,10,10
 Cave
 SWINUB,16,18
@@ -233,7 +233,7 @@ SMOOCHUM,11,14
 SMOOCHUM,11,14
 SMOOCHUM,11,14
 #########################
-039
+039 # Prueba Batalla
 25,10,10
 Land
 SHELLOS,12,15
@@ -249,7 +249,7 @@ MURKROW,12,14
 MURKROW,12,14
 MURKROW,12,14
 #########################
-041
+041 # Prueba Captura
 25,10,10
 Land
 GRIMER,13,15
@@ -265,7 +265,7 @@ SLUGMA,13,14
 SLUGMA,13,14
 SLUGMA,13,14
 #########################
-044
+044 # Gym Planta
 25,10,10
 Land
 SHELLOS,12,15
@@ -281,7 +281,7 @@ MURKROW,12,14
 MURKROW,12,14
 MURKROW,12,14
 #########################
-047
+047 # CCasa 2
 25,10,10
 Land
 SHELLOS,12,15
@@ -303,7 +303,7 @@ GEODUDE,12,15
 GEODUDE,12,15
 GEODUDE,12,15
 #########################
-049
+049 # casa vecino 2/2
 25,10,10
 Cave
 NOSEPASS,14,15
@@ -319,7 +319,7 @@ MAWILE,14,16
 MAWILE,14,16
 MAWILE,14,16
 #########################
-050
+050 # Ruta incresa 1.2
 25,10,10
 Cave
 NOSEPASS,14,15
@@ -335,7 +335,7 @@ BURMY,14,16
 BURMY,14,16
 BURMY,14,16
 #########################
-051
+051 # Interior casa Mike
 25,10,10
 Cave
 PICHU,1
