@@ -493,3 +493,159 @@ Mensaje: wrong number of arguments (1 for 0)
 184:Menu_Circular:318:in `pbCallMenu2'
 056:Scene_Map:190:in `call_menu'
 056:Scene_Map:163:in `updateold'
+Excepción: ArgumentError
+Mensaje: wrong number of arguments (1 for 0)
+184:Menu_Circular:264:in `initialize'
+184:Menu_Circular:264:in `new'
+184:Menu_Circular:264:in `pbUpdate'
+042:PBDebug:4:in `logonerr'
+184:Menu_Circular:262:in `pbUpdate'
+184:Menu_Circular:93:in `loop'
+184:Menu_Circular:93:in `pbUpdate'
+184:Menu_Circular:318:in `pbCallMenu2'
+056:Scene_Map:190:in `call_menu'
+056:Scene_Map:163:in `updateold'
+Excepción: ArgumentError
+Mensaje: wrong number of arguments (1 for 0)
+184:Menu_Circular:263:in `initialize'
+184:Menu_Circular:263:in `new'
+184:Menu_Circular:263:in `pbUpdate'
+184:Menu_Circular:93:in `loop'
+184:Menu_Circular:93:in `pbUpdate'
+184:Menu_Circular:317:in `pbCallMenu2'
+056:Scene_Map:190:in `call_menu'
+056:Scene_Map:163:in `updateold'
+185:Tiempo:256:in `follow_update'
+194:PokeFollow:1554:in `update'
+Excepción: ArgumentError
+Mensaje: wrong number of arguments (1 for 0)
+184:Menu_Circular:263:in `initialize'
+184:Menu_Circular:263:in `new'
+184:Menu_Circular:263:in `pbUpdate'
+184:Menu_Circular:93:in `loop'
+184:Menu_Circular:93:in `pbUpdate'
+184:Menu_Circular:317:in `pbCallMenu2'
+056:Scene_Map:190:in `call_menu'
+056:Scene_Map:163:in `updateold'
+185:Tiempo:256:in `follow_update'
+194:PokeFollow:1554:in `update'
+Excepción: ArgumentError
+Mensaje: wrong number of arguments (1 for 0)
+184:Menu_Circular:263:in `initialize'
+184:Menu_Circular:263:in `new'
+184:Menu_Circular:263:in `pbUpdate'
+184:Menu_Circular:93:in `loop'
+184:Menu_Circular:93:in `pbUpdate'
+184:Menu_Circular:317:in `pbCallMenu2'
+056:Scene_Map:190:in `call_menu'
+056:Scene_Map:163:in `updateold'
+185:Tiempo:256:in `follow_update'
+194:PokeFollow:1554:in `update'
+Excepción: NameError
+Mensaje: uninitialized constant PruebaLogros
+199:Logros_Config:103
+039:Event:54:in `call'
+039:Event:54:in `trigger'
+039:Event:49:in `each'
+039:Event:49:in `trigger'
+056:Scene_Map:59:in `mugupdateSpritesets'
+197:mugshot:270:in `updateSpritesets'
+056:Scene_Map:115:in `updateold'
+185:Tiempo:256:in `follow_update'
+194:PokeFollow:1554:in `update'
+Excepción: NameError
+Mensaje: uninitialized constant PruebaLogros
+199:Logros_Config:103
+039:Event:54:in `call'
+039:Event:54:in `trigger'
+039:Event:49:in `each'
+039:Event:49:in `trigger'
+056:Scene_Map:59:in `mugupdateSpritesets'
+197:mugshot:270:in `updateSpritesets'
+056:Scene_Map:115:in `updateold'
+185:Tiempo:256:in `follow_update'
+194:PokeFollow:1554:in `update'
+Excepción: ArgumentError
+Mensaje: wrong number of arguments (1 for 0)
+184:Menu_Circular:263:in `initialize'
+184:Menu_Circular:263:in `new'
+184:Menu_Circular:263:in `pbUpdate'
+184:Menu_Circular:93:in `loop'
+184:Menu_Circular:93:in `pbUpdate'
+184:Menu_Circular:317:in `pbCallMenu2'
+056:Scene_Map:190:in `call_menu'
+056:Scene_Map:163:in `updateold'
+185:Tiempo:256:in `follow_update'
+194:PokeFollow:1554:in `update'
+Excepción: NameError
+Mensaje: uninitialized constant PruebaLogros
+199:Logros_Config:104
+039:Event:54:in `call'
+039:Event:54:in `trigger'
+039:Event:49:in `each'
+039:Event:49:in `trigger'
+056:Scene_Map:59:in `mugupdateSpritesets'
+197:mugshot:270:in `updateSpritesets'
+056:Scene_Map:32:in `createSpritesets'
+056:Scene_Map:63:in `main'
+200:Main:55:in `mainFunctionDebug'
+Excepción: NoMethodError
+Mensaje: undefined method `>=' for nil:NilClass
+199:Logros_Config:104
+039:Event:54:in `call'
+039:Event:54:in `trigger'
+039:Event:49:in `each'
+039:Event:49:in `trigger'
+056:Scene_Map:59:in `mugupdateSpritesets'
+197:mugshot:270:in `updateSpritesets'
+056:Scene_Map:32:in `createSpritesets'
+056:Scene_Map:63:in `main'
+200:Main:55:in `mainFunctionDebug'
+Excepción: Errno::ENOENT
+Mensaje: Archivo No such file or directory - Graphics/Pictures/Cutrebarra no encontrado.
+199:Logros_Config:161:in `initialize'
+199:Logros_Config:161:in `new'
+199:Logros_Config:161:in `logroAnim'
+190:Logros:17:in `setLogro'
+199:Logros_Config:105
+039:Event:54:in `call'
+039:Event:54:in `trigger'
+039:Event:49:in `each'
+039:Event:49:in `trigger'
+056:Scene_Map:59:in `mugupdateSpritesets'
+Excepción: NoMethodError
+Mensaje: undefined method `addSprite' for #<Scene_Map:0x116860b0>
+199:Logros_Config:170:in `logroAnim'
+190:Logros:17:in `setLogro'
+199:Logros_Config:105
+039:Event:54:in `call'
+039:Event:54:in `trigger'
+039:Event:49:in `each'
+039:Event:49:in `trigger'
+056:Scene_Map:59:in `mugupdateSpritesets'
+197:mugshot:270:in `updateSpritesets'
+056:Scene_Map:32:in `createSpritesets'
+Excepción: NoMethodError
+Mensaje: undefined method `addSprite' for #<Scene_Map:0x11781ff0>
+199:Logros_Config:170:in `logroAnim'
+190:Logros:17:in `setLogro'
+199:Logros_Config:105
+039:Event:54:in `call'
+039:Event:54:in `trigger'
+039:Event:49:in `each'
+039:Event:49:in `trigger'
+056:Scene_Map:59:in `mugupdateSpritesets'
+197:mugshot:270:in `updateSpritesets'
+056:Scene_Map:32:in `createSpritesets'
+Excepción: NoMethodError
+Mensaje: undefined method `addSprite' for #<Scene_Map:0x10888de8>
+199:Logros_Config:170:in `logroAnim'
+190:Logros:17:in `setLogro'
+199:Logros_Config:105
+039:Event:54:in `call'
+039:Event:54:in `trigger'
+039:Event:49:in `each'
+039:Event:49:in `trigger'
+056:Scene_Map:59:in `mugupdateSpritesets'
+197:mugshot:270:in `updateSpritesets'
+056:Scene_Map:32:in `createSpritesets'
