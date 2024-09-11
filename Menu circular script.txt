@@ -1,0 +1,31 @@
+ def call_menu
+    $game_temp.menu_calling = false
+    $game_player.straighten
+    $game_map.update
+    pbStartPokemonMenu
+  end
+
+
+def call_menu
+    $game_temp.menu_calling = false
+    $game_temp.in_menu = true
+    $game_player.straighten
+    $game_map.update
+    sscene=PokemonMenu_Scene.new
+    sscreen=PokemonMenu.new(sscene) 
+    sscreen.pbStartPokemonMenu
+    $game_temp.in_menu = false
+  end
+
+
+
+def call_menu
+    $game_temp.menu_calling = false
+    $game_temp.in_menu = true
+    $game_player.straighten
+    $game_map.update
+    sscene=PokemonMenu_Scene.new
+    sscreen=PokemonMenu.new(sscene) 
+    sscreen.pbStartPokemonMenu
+    $game_temp.in_menu = false
+  end

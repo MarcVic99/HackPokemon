@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{39B14FB2-564C-45FD-8C4C-69413EF00700}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SuperGen</RootNamespace>
+    <AssemblyName>SuperGen</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ballico.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Courtneys_SpriteStrip">
+      <HintPath>..\..\..\..\Visual Studio 2015\Projects\PokeGenerator\PokeGenerator\bin\Debug\Courtneys_SpriteStrip.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Collections" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbilityForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbilityForm.Designer.cs">
+      <DependentUpon>AbilityForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DexManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DexManager.Designer.cs">
+      <DependentUpon>DexManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DisplayStyle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DisplayStyle.Designer.cs">
+      <DependentUpon>DisplayStyle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Changelog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Changelog.Designer.cs">
+      <DependentUpon>Changelog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EncounterEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EncounterEditor.Designer.cs">
+      <DependentUpon>EncounterEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenAbilityForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GenAbilityForm.Designer.cs">
+      <DependentUpon>GenAbilityForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeneratePokemon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneratePokemon.designer.cs">
+      <DependentUpon>GeneratePokemon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GennedTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GennedTypes.designer.cs">
+      <DependentUpon>GennedTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IntNameFinder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IntNameFinder.Designer.cs">
+      <DependentUpon>IntNameFinder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemEditor.Designer.cs">
+      <DependentUpon>ItemEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoveGenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoveGenForm.designer.cs">
+      <DependentUpon>MoveGenForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NumberBetween.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NumberBetween.Designer.cs">
+      <DependentUpon>NumberBetween.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NumberInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NumberInput.Designer.cs">
+      <DependentUpon>NumberInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PokeGen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PokeGen.designer.cs">
+      <DependentUpon>PokeGen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpriteViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpriteViewer.Designer.cs">
+      <DependentUpon>SpriteViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartForm.Designer.cs">
+      <DependentUpon>StartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TMEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TMEditor.Designer.cs">
+      <DependentUpon>TMEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrainerClassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainerClassForm.Designer.cs">
+      <DependentUpon>TrainerClassForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrainerGen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrainerGen.Designer.cs">
+      <DependentUpon>TrainerGen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TypeGen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TypeGen.designer.cs">
+      <DependentUpon>TypeGen.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AbilityForm.resx">
+      <DependentUpon>AbilityForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DexManager.resx">
+      <DependentUpon>DexManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DisplayStyle.resx">
+      <DependentUpon>DisplayStyle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Changelog.resx">
+      <DependentUpon>Changelog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EncounterEditor.resx">
+      <DependentUpon>EncounterEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenAbilityForm.resx">
+      <DependentUpon>GenAbilityForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneratePokemon.resx">
+      <DependentUpon>GeneratePokemon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GennedTypes.resx">
+      <DependentUpon>GennedTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IntNameFinder.resx">
+      <DependentUpon>IntNameFinder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemEditor.resx">
+      <DependentUpon>ItemEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoveGenForm.resx">
+      <DependentUpon>MoveGenForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NumberBetween.resx">
+      <DependentUpon>NumberBetween.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NumberInput.resx">
+      <DependentUpon>NumberInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PokeGen.resx">
+      <DependentUpon>PokeGen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpriteViewer.resx">
+      <DependentUpon>SpriteViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartForm.resx">
+      <DependentUpon>StartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TMEditor.resx">
+      <DependentUpon>TMEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainerClassForm.resx">
+      <DependentUpon>TrainerClassForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainerGen.resx">
+      <DependentUpon>TrainerGen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TypeGen.resx">
+      <DependentUpon>TypeGen.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\lib\lib.csproj">
+      <Project>{d80f913b-4be6-4c3c-9bda-aaa255d24eec}</Project>
+      <Name>lib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="MediaPlayer">
+      <Guid>{22D6F304-B0F6-11D0-94AB-0080C74C7E95}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\selector.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\selector.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ballico.ico" />
+    <None Include="shape14.png" />
+    <None Include="shape13.png" />
+    <None Include="shape12.png" />
+    <None Include="shape11.png" />
+    <None Include="shape10.png" />
+    <None Include="shape9.png" />
+    <None Include="shape8.png" />
+    <None Include="shape7.png" />
+    <None Include="shape6.png" />
+    <None Include="shape5.png" />
+    <None Include="shape4.png" />
+    <None Include="shape3.png" />
+    <None Include="shape2.png" />
+    <None Include="shape1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

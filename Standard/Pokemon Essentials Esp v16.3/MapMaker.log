@@ -2042,3 +2042,20 @@ Backtrace:
 'SDK_Scene_Base' line 49 in `main'
 'Main' line 12
 
+===============================================================================
+Fri Aug 30 22:48:04 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+

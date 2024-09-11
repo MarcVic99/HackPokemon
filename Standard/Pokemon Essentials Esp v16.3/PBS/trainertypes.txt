@@ -78,5 +78,6 @@
 76,CHICAFLOR,Jardinera,10,,,,Female,,
 77,PILARREGIONAL,Pilar regional,160,Descendents - Suburban Home (8 bit) [TubeRipper.cc].ogg,Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg,,Male,60,
 78,MACARRA,Macarra,10,,,,Male,,
-79,RECLUTA,Recluta,15,,,,Male,,
+79,RECLUTA_1,Recluta,30,8 BIT RPG BATTLE Retro Game Music No Copyright Music [TubeRipper.cc].ogg,Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg,,Male,,
 80,RECLUTA2,Recluta,15,,,,Female,,
+81,CHARCADET,CHARCADET,15,,,,Female,,

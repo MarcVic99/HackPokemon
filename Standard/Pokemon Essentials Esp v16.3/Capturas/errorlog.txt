@@ -1503,3 +1503,1548 @@ Mensaje: undefined method `>=' for nil:NilClass
 184:Menu_Circular:223:in `pbUpdate'
 184:Menu_Circular:93:in `loop'
 184:Menu_Circular:93:in `pbUpdate'
+Excepción: NameError
+Mensaje: undefined local variable or method `nvlGremio' for #<PokemonTrainerCardScene:0x14b2ac68>
+140:PScreen_TrainerCard:87:in `pbDrawTrainerCardFront'
+140:PScreen_TrainerCard:30:in `pbStartScene'
+140:PScreen_TrainerCard:130:in `pbStartScreen'
+184:Menu_Circular:227:in `pbUpdate'
+050:SpriteWindow:1250:in `pbFadeOutIn'
+184:Menu_Circular:226:in `pbUpdate'
+042:PBDebug:4:in `logonerr'
+184:Menu_Circular:223:in `pbUpdate'
+184:Menu_Circular:93:in `loop'
+184:Menu_Circular:93:in `pbUpdate'
+Excepción: RuntimeError
+Mensaje: Script error within event 4, map 38 (habitación prota):
+Exception: NoMethodError
+Message: undefined method `[]=' for nil:NilClass
+***Full script:
+$Trainer.badges[0]=true
+$Trainer.badges[1]=true
+$Trainer.badges[2]=true
+$Trainer.badges[3]=true
+$Trainer.badges[4]=true
+$Trainer.badges[5]=true
+$Trainer.badges[6]=true
+$Trainer.badges[7]=true
+$Trainer.nvlGremio[1]=true
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: NameError
+Mensaje: undefined local variable or method `nvlGremio' for #<PokemonTrainerCardScene:0x1563a428>
+140:PScreen_TrainerCard:87:in `pbDrawTrainerCardFront'
+140:PScreen_TrainerCard:30:in `pbStartScene'
+140:PScreen_TrainerCard:130:in `pbStartScreen'
+184:Menu_Circular:227:in `pbUpdate'
+050:SpriteWindow:1250:in `pbFadeOutIn'
+184:Menu_Circular:226:in `pbUpdate'
+042:PBDebug:4:in `logonerr'
+184:Menu_Circular:223:in `pbUpdate'
+184:Menu_Circular:93:in `loop'
+184:Menu_Circular:93:in `pbUpdate'
+Excepción: NameError
+Mensaje: undefined local variable or method `nvlGremio' for #<PokemonTrainerCardScene:0x14ddd0a0>
+140:PScreen_TrainerCard:87:in `pbDrawTrainerCardFront'
+140:PScreen_TrainerCard:30:in `pbStartScene'
+140:PScreen_TrainerCard:130:in `pbStartScreen'
+184:Menu_Circular:227:in `pbUpdate'
+050:SpriteWindow:1250:in `pbFadeOutIn'
+184:Menu_Circular:226:in `pbUpdate'
+042:PBDebug:4:in `logonerr'
+184:Menu_Circular:223:in `pbUpdate'
+184:Menu_Circular:93:in `loop'
+184:Menu_Circular:93:in `pbUpdate'
+Excepción: NameError
+Mensaje: undefined local variable or method `nvlGremio' for #<PokemonTrainerCardScene:0x149c5110>
+140:PScreen_TrainerCard:87:in `pbDrawTrainerCardFront'
+140:PScreen_TrainerCard:30:in `pbStartScene'
+140:PScreen_TrainerCard:130:in `pbStartScreen'
+184:Menu_Circular:227:in `pbUpdate'
+050:SpriteWindow:1250:in `pbFadeOutIn'
+184:Menu_Circular:226:in `pbUpdate'
+042:PBDebug:4:in `logonerr'
+184:Menu_Circular:223:in `pbUpdate'
+184:Menu_Circular:93:in `loop'
+184:Menu_Circular:93:in `pbUpdate'
+Excepción: NoMethodError
+Mensaje: private method `gsub' called for 1:Fixnum
+050:SpriteWindow:1402:in `pbResolveBitmap'
+050:SpriteWindow:1394:in `pbBitmapName'
+050:SpriteWindow:1190:in `pbDrawImagePositions'
+050:SpriteWindow:1189:in `each'
+050:SpriteWindow:1189:in `pbDrawImagePositions'
+140:PScreen_TrainerCard:101:in `pbDrawTrainerCardFront'
+140:PScreen_TrainerCard:30:in `pbStartScene'
+140:PScreen_TrainerCard:130:in `pbStartScreen'
+184:Menu_Circular:227:in `pbUpdate'
+050:SpriteWindow:1250:in `pbFadeOutIn'
+Excepción: NameError
+Mensaje: undefined local variable or method `nvlGremio' for #<PokemonTrainerCardScene:0x14a2dd50>
+140:PScreen_TrainerCard:87:in `pbDrawTrainerCardFront'
+140:PScreen_TrainerCard:30:in `pbStartScene'
+140:PScreen_TrainerCard:130:in `pbStartScreen'
+184:Menu_Circular:227:in `pbUpdate'
+050:SpriteWindow:1250:in `pbFadeOutIn'
+184:Menu_Circular:226:in `pbUpdate'
+042:PBDebug:4:in `logonerr'
+184:Menu_Circular:223:in `pbUpdate'
+184:Menu_Circular:93:in `loop'
+184:Menu_Circular:93:in `pbUpdate'
+Excepción: NameError
+Mensaje: undefined local variable or method `nvlGremio' for #<PokemonTrainerCardScene:0x134024d0>
+140:PScreen_TrainerCard:87:in `pbDrawTrainerCardFront'
+140:PScreen_TrainerCard:30:in `pbStartScene'
+140:PScreen_TrainerCard:130:in `pbStartScreen'
+184:Menu_Circular:227:in `pbUpdate'
+050:SpriteWindow:1250:in `pbFadeOutIn'
+184:Menu_Circular:226:in `pbUpdate'
+042:PBDebug:4:in `logonerr'
+184:Menu_Circular:223:in `pbUpdate'
+184:Menu_Circular:93:in `loop'
+184:Menu_Circular:93:in `pbUpdate'
+Excepción: NameError
+Mensaje: undefined local variable or method `pbShowMenu' for #<Scene_Map:0x14dbff70>
+056:Scene_Map:190:in `call_menu'
+056:Scene_Map:163:in `updateold'
+187:Tiempo:256:in `follow_update'
+209:PokeFollow:1554:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+056:Scene_Map:65:in `main'
+214:Main:55:in `mainFunctionDebug'
+214:Main:33:in `mainFunction'
+178:Compiler:80:in `pbCriticalCode'
+Excepción: NameError
+Mensaje: undefined local variable or method `pbStartPokemonMenu' for #<Scene_Map:0x1506ece8>
+056:Scene_Map:190:in `call_menu'
+056:Scene_Map:163:in `updateold'
+187:Tiempo:256:in `follow_update'
+209:PokeFollow:1554:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+056:Scene_Map:65:in `main'
+214:Main:55:in `mainFunctionDebug'
+214:Main:33:in `mainFunction'
+178:Compiler:80:in `pbCriticalCode'
+Excepción: Errno::ENOENT
+Mensaje: Archivo No such file or directory - Audio/BGM/8 BIT RPG BATTLE Retro Game Music No Copyright Music [TubeRipper.cc].ogg no encontrado.
+009:Game_System:59:in `bgm_play'
+009:Game_System:59:in `bgm_play_internal2'
+009:Game_System:72:in `bgm_play_internal'
+009:Game_System:51:in `bgm_play'
+045:AudioPlay:60:in `pbBGMPlay'
+177:Editor:1433:in `pbPlayBGM'
+177:Editor:1490:in `refresh'
+189:DebugEX:143:in `pbListScreen'
+189:DebugEX:138:in `loop'
+189:DebugEX:138:in `pbListScreen'
+Excepción: RuntimeError
+Mensaje: Script error within event 9, map 2 ():
+Exception: Errno::ENOENT
+Message: Archivo 213:ELGANCHO:47:in `initialize': No such file or directory - Graphics/Pictures/Summary/bg no encontrado.
+***Full script:
+pbFadeOutIn(99999){
+   pbClawMachine(5)
+}
+
+038:Interpreter:243:in `pbExecuteScript'
+213:ELGANCHO:47:in `new'
+213:ELGANCHO:47:in `pbStartScene'
+213:ELGANCHO:213:in `pbStartScreen'
+213:ELGANCHO:224:in `pbClawMachine'
+(eval):2:in `pbExecuteScript'
+050:SpriteWindow:1250:in `pbFadeOutIn'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+038:Interpreter:124:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+Excepción: RuntimeError
+Mensaje: Script error within event 9, map 41 (Prueba Captura):
+Exception: Errno::ENOENT
+Message: Archivo 216:Gacha_Scene:104:in `initialize': No such file or directory - Graphics/Pictures/Escena Noche no encontrado.
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+216:Gacha_Scene:104:in `new'
+216:Gacha_Scene:104:in `createGraphics'
+216:Gacha_Scene:99:in `initialize'
+216:Gacha_Scene:153:in `new'
+216:Gacha_Scene:153:in `initialize'
+216:Gacha_Scene:152:in `each'
+216:Gacha_Scene:152:in `initialize'
+217:Gacha_Structures:178:in `new'
+217:Gacha_Structures:178:in `openGacha'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 9, map 41 (Prueba Captura):
+Exception: Errno::ENOENT
+Message: Archivo 216:Gacha_Scene:104:in `initialize': No such file or directory - Graphics/Pictures/Escena Noche no encontrado.
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+216:Gacha_Scene:104:in `new'
+216:Gacha_Scene:104:in `createGraphics'
+216:Gacha_Scene:99:in `initialize'
+216:Gacha_Scene:153:in `new'
+216:Gacha_Scene:153:in `initialize'
+216:Gacha_Scene:152:in `each'
+216:Gacha_Scene:152:in `initialize'
+217:Gacha_Structures:178:in `new'
+217:Gacha_Structures:178:in `openGacha'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 9, map 41 (Prueba Captura):
+Exception: Errno::ENOENT
+Message: Archivo 216:Gacha_Scene:104:in `initialize': No such file or directory - Graphics/Battlebacks/battlebgField2 no encontrado.
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+216:Gacha_Scene:104:in `new'
+216:Gacha_Scene:104:in `createGraphics'
+216:Gacha_Scene:99:in `initialize'
+216:Gacha_Scene:153:in `new'
+216:Gacha_Scene:153:in `initialize'
+216:Gacha_Scene:152:in `each'
+216:Gacha_Scene:152:in `initialize'
+217:Gacha_Structures:178:in `new'
+217:Gacha_Structures:178:in `openGacha'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 9, map 41 (Prueba Captura):
+Exception: Errno::ENOENT
+Message: Archivo 216:Gacha_Scene:32:in `initialize': No such file or directory - Graphics/Battlers/FrontShiny/163 no encontrado.
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+216:Gacha_Scene:32:in `new'
+216:Gacha_Scene:32:in `initialize'
+216:Gacha_Scene:110:in `new'
+216:Gacha_Scene:110:in `createGraphics'
+216:Gacha_Scene:99:in `initialize'
+216:Gacha_Scene:153:in `new'
+216:Gacha_Scene:153:in `initialize'
+216:Gacha_Scene:152:in `each'
+216:Gacha_Scene:152:in `initialize'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 9, map 41 (Prueba Captura):
+Exception: Errno::ENOENT
+Message: Archivo 216:Gacha_Scene:32:in `initialize': No such file or directory - Graphics/Battlers/Front/906 no encontrado.
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+216:Gacha_Scene:32:in `new'
+216:Gacha_Scene:32:in `initialize'
+216:Gacha_Scene:110:in `new'
+216:Gacha_Scene:110:in `createGraphics'
+216:Gacha_Scene:99:in `initialize'
+216:Gacha_Scene:153:in `new'
+216:Gacha_Scene:153:in `initialize'
+216:Gacha_Scene:152:in `each'
+216:Gacha_Scene:152:in `initialize'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 9, map 41 (Prueba Captura):
+Exception: Errno::ENOENT
+Message: Archivo 216:Gacha_Scene:32:in `initialize': No such file or directory - Graphics/Battlers/FrontShiny/163 no encontrado.
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+216:Gacha_Scene:32:in `new'
+216:Gacha_Scene:32:in `initialize'
+216:Gacha_Scene:110:in `new'
+216:Gacha_Scene:110:in `createGraphics'
+216:Gacha_Scene:99:in `initialize'
+216:Gacha_Scene:153:in `new'
+216:Gacha_Scene:153:in `initialize'
+216:Gacha_Scene:152:in `each'
+216:Gacha_Scene:152:in `initialize'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 9, map 41 (Prueba Captura):
+Exception: TypeError
+Message: 216:Gacha_Scene:32:in `initialize': Argument 0: Expected string
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+216:Gacha_Scene:32:in `new'
+216:Gacha_Scene:32:in `initialize'
+216:Gacha_Scene:114:in `new'
+216:Gacha_Scene:114:in `createGraphics'
+216:Gacha_Scene:99:in `initialize'
+216:Gacha_Scene:153:in `new'
+216:Gacha_Scene:153:in `initialize'
+216:Gacha_Scene:152:in `each'
+216:Gacha_Scene:152:in `initialize'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 9, map 41 (Prueba Captura):
+Exception: NameError
+Message: undefined local variable or method `bannerConfig' for #<Interpreter:0x11d5cad8>
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 9, map 41 (Prueba Captura):
+Exception: NameError
+Message: undefined local variable or method `bannerConfig' for #<Interpreter:0x11cce038>
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 9, map 41 (Prueba Captura):
+Exception: TypeError
+Message: 216:Gacha_Scene:31:in `initialize': Argument 0: Expected string
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+216:Gacha_Scene:31:in `new'
+216:Gacha_Scene:31:in `initialize'
+216:Gacha_Scene:117:in `new'
+216:Gacha_Scene:117:in `createGraphics'
+216:Gacha_Scene:98:in `initialize'
+216:Gacha_Scene:152:in `new'
+216:Gacha_Scene:152:in `initialize'
+216:Gacha_Scene:151:in `each'
+216:Gacha_Scene:151:in `initialize'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 9, map 41 (Prueba Captura):
+Exception: TypeError
+Message: 216:Gacha_Scene:31:in `initialize': Argument 0: Expected string
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+216:Gacha_Scene:31:in `new'
+216:Gacha_Scene:31:in `initialize'
+216:Gacha_Scene:117:in `new'
+216:Gacha_Scene:117:in `createGraphics'
+216:Gacha_Scene:98:in `initialize'
+216:Gacha_Scene:152:in `new'
+216:Gacha_Scene:152:in `initialize'
+216:Gacha_Scene:151:in `each'
+216:Gacha_Scene:151:in `initialize'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 9, map 41 (Prueba Captura):
+Exception: TypeError
+Message: 216:Gacha_Scene:31:in `initialize': Argument 0: Expected string
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+216:Gacha_Scene:31:in `new'
+216:Gacha_Scene:31:in `initialize'
+216:Gacha_Scene:117:in `new'
+216:Gacha_Scene:117:in `createGraphics'
+216:Gacha_Scene:98:in `initialize'
+216:Gacha_Scene:152:in `new'
+216:Gacha_Scene:152:in `initialize'
+216:Gacha_Scene:151:in `each'
+216:Gacha_Scene:151:in `initialize'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 9, map 41 (Prueba Captura):
+Exception: TypeError
+Message: 216:Gacha_Scene:31:in `initialize': Argument 0: Expected string
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+216:Gacha_Scene:31:in `new'
+216:Gacha_Scene:31:in `initialize'
+216:Gacha_Scene:117:in `new'
+216:Gacha_Scene:117:in `createGraphics'
+216:Gacha_Scene:98:in `initialize'
+216:Gacha_Scene:152:in `new'
+216:Gacha_Scene:152:in `initialize'
+216:Gacha_Scene:151:in `each'
+216:Gacha_Scene:151:in `initialize'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 9, map 41 (Prueba Captura):
+Exception: TypeError
+Message: 216:Gacha_Scene:32:in `initialize': Argument 0: Expected string
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+216:Gacha_Scene:32:in `new'
+216:Gacha_Scene:32:in `initialize'
+216:Gacha_Scene:118:in `new'
+216:Gacha_Scene:118:in `createGraphics'
+216:Gacha_Scene:99:in `initialize'
+216:Gacha_Scene:153:in `new'
+216:Gacha_Scene:153:in `initialize'
+216:Gacha_Scene:152:in `each'
+216:Gacha_Scene:152:in `initialize'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 9, map 41 (Prueba Captura):
+Exception: Errno::ENOENT
+Message: Archivo 216:Gacha_Scene:32:in `initialize': No such file or directory - Graphics/Battlers163 no encontrado.
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+216:Gacha_Scene:32:in `new'
+216:Gacha_Scene:32:in `initialize'
+216:Gacha_Scene:110:in `new'
+216:Gacha_Scene:110:in `createGraphics'
+216:Gacha_Scene:99:in `initialize'
+216:Gacha_Scene:153:in `new'
+216:Gacha_Scene:153:in `initialize'
+216:Gacha_Scene:152:in `each'
+216:Gacha_Scene:152:in `initialize'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 9, map 41 (Prueba Captura):
+Exception: NoMethodError
+Message: undefined method `pbSetSystemLargeFont' for #<GachaScene:0x11c87ce8>
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+217:Gacha_Structures:178:in `new'
+217:Gacha_Structures:178:in `openGacha'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 9, map 41 (Prueba Captura):
+Exception: ArgumentError
+Message: 122:PokeBattle_Pokemon:897:in `__mf_initialize': El número de especie (núm. 0 de 1020) no es válido.
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+123:Pokemon_MultipleForms:157:in `initializeEvolutionMoves'
+172:Evolution_Moves:326:in `initialize'
+215:Gacha_BannerVanilla:135:in `new'
+215:Gacha_BannerVanilla:135:in `defaultBanner'
+217:Gacha_Structures:158:in `call'
+217:Gacha_Structures:158:in `gachaponRead'
+216:Gacha_Scene:464:in `update'
+216:Gacha_Scene:418:in `loop'
+216:Gacha_Scene:418:in `update'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 1 (Intro):
+Exception: SyntaxError
+Message: (eval):9:in `pbExecuteScript': compile error
+(eval):8: syntax error
+***Line '(overworld,battle)' shouldn't begin with '('. Try
+putting the '(' at the end of the previous line instead,
+or using 'extendtext.exe'.
+***Full script:
+overworld = 
+["trchar000","trchar001","trchar002",
+"trchar003"]
+battle = 
+["trainer000","trainer001","trainer00
+2","trainer003"]
+result = pbCharacterSelection
+(overworld,battle) 
+pbChangePlayer(result)
+
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 1 (Intro):
+Exception: SyntaxError
+Message: (eval):9:in `pbExecuteScript': compile error
+(eval):8: syntax error
+(eval):9: syntax error
+***Line '(overworld,battle)' shouldn't begin with '('. Try
+putting the '(' at the end of the previous line instead,
+or using 'extendtext.exe'.
+***Full script:
+overworld = 
+["trchar000","trchar001","trchar002",
+"trchar003"]
+battle = 
+["trainer000","trainer001","trainer00
+2","trainer003"]
+result = pbCharacterSelection
+(overworld,battle)
+pbChangePlayer(result
+
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 1 (Intro):
+Exception: SyntaxError
+Message: (eval):5:in `pbExecuteScript': compile error
+(eval):4: syntax error
+(eval):5: syntax error
+***Line '(overworld,battle)' shouldn't begin with '('. Try
+putting the '(' at the end of the previous line instead,
+or using 'extendtext.exe'.
+***Full script:
+overworld = ["trchar000","trchar001"]
+battle = ["trainer000","trainer001"]
+result = pbCharacterSelection
+(overworld,battle)
+pbChangePlayer(result
+
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 1 (Intro):
+Exception: SyntaxError
+Message: (eval):5:in `pbExecuteScript': compile error
+(eval):4: syntax error
+***Line '(overworld,battle)' shouldn't begin with '('. Try
+putting the '(' at the end of the previous line instead,
+or using 'extendtext.exe'.
+***Full script:
+overworld = ["trchar000","trchar001"]
+battle = ["trainer000","trainer001"]
+result = pbCharacterSelection
+(overworld,battle)
+pbChangePlayer(result)
+
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 1 (Intro):
+Exception: NoMethodError
+Message: undefined method `pbCharacterSelection' for #<Interpreter:0x11d3b130>
+***Full script:
+overworld = ["trchar000","trchar001"]
+battle = ["trainer000","trainer001"]
+result=pbCharacterSelection (battle,
+overworld)
+pbChangePlayer(result)
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 1 (Intro):
+Exception: NameError
+Message: undefined local variable or method `pbCharacterSelection' for #<Interpreter:0x11d1f2f0>
+***Full script:
+overworld = ["trchar000","trchar001"]
+battle = ["trainer000","trainer001"]
+result=pbCharacterSelection 
+pbChangePlayer(result)
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 1 (Intro):
+Exception: NameError
+Message: undefined local variable or method `overwworld' for #<Interpreter:0x11d1fd88>
+***Full script:
+overworld = ["trchar000","trchar001"]
+battle = ["trainer000","trainer001"]
+result=pbCharacterSelection(
+overwworld, batttle) 
+pbChangePlayer(result)
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 1 (Intro):
+Exception: NameError
+Message: undefined local variable or method `batttle' for #<Interpreter:0x11d2fb50>
+***Full script:
+overworld = ["trchar000","trchar001"]
+battle = ["trainer000","trainer001"]
+result=pbCharacterSelection(
+overworld, batttle) 
+pbChangePlayer(result)
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 1 (Intro):
+Exception: NoMethodError
+Message: undefined method `pbCharacterSelection' for #<Interpreter:0x11d19f20>
+***Full script:
+overworld = ["trchar000","trchar001"]
+battle = ["trainer000","trainer001"]
+result=pbCharacterSelection(
+overworld, battle) 
+pbChangePlayer(result)
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 1 (Intro):
+Exception: NoMethodError
+Message: undefined method `pbCharacterSelection' for #<Interpreter:0x11fba7f0>
+***Full script:
+overworld = ["trchar000","trchar001"]
+battle = ["trainer000","trainer001"]
+result = pbCharacterSelection(
+overworld, battle) 
+pbChangePlayer(result)
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 1 (Intro):
+Exception: NoMethodError
+Message: undefined method `<' for nil:NilClass
+***Full script:
+overworld = ["trchar000","trchar001"]
+battle = ["trainer000","trainer001"]
+r=startCharacterSelection(
+overworld,battle) 
+pbChangePlayer(result)
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):5:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: NoMethodError
+Mensaje: undefined method `pokedexSeen' for nil:NilClass
+170:PSystem_Utilities:2328:in `pbSetViableDexes'
+170:PSystem_Utilities:2325:in `each'
+170:PSystem_Utilities:2325:in `pbSetViableDexes'
+130:PScreen_PauseMenu:96:in `pbStartPokemonMenu'
+056:Scene_Map:200:in `call_menu'
+056:Scene_Map:163:in `updateold'
+187:Tiempo:256:in `follow_update'
+210:PokeFollow:1554:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+Excepción: NoMethodError
+Mensaje: undefined method `addSprite' for #<Scene_Map:0x11d8ad98>
+196:Logros_Config:178:in `logroAnim'
+195:Logros:17:in `setLogro'
+196:Logros_Config:111
+039:Event:54:in `call'
+039:Event:54:in `trigger'
+039:Event:49:in `each'
+039:Event:49:in `trigger'
+056:Scene_Map:59:in `mugupdateSpritesets'
+211:mugshot:270:in `updateSpritesets'
+056:Scene_Map:115:in `updateold'
+Excepción: NoMethodError
+Mensaje: undefined method `addSprite' for #<Scene_Map:0x11f05de8>
+196:Logros_Config:178:in `logroAnim'
+195:Logros:17:in `setLogro'
+196:Logros_Config:111
+039:Event:54:in `call'
+039:Event:54:in `trigger'
+039:Event:49:in `each'
+039:Event:49:in `trigger'
+056:Scene_Map:59:in `mugupdateSpritesets'
+211:mugshot:270:in `updateSpritesets'
+056:Scene_Map:115:in `updateold'
+Excepción: RuntimeError
+Mensaje: Script error within event 9, map 30 (interior casa prota):
+Exception: NoMethodError
+Message: undefined method `addSprite' for #<Scene_Map:0x11d8feb0>
+***Full script:
+NameBox.dispose
+$scene.addSprite
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: En encounters.txt, se esperaba un línea de especies,
+pero se obtuvo "034" (posiblemente hay muy pocas entradas en un tipo de encuentro).
+Verifica el formato de la sección enumerada con 031,
+que se encuentra justo antes de esta línea.
+Archivo PBS/encounters.txt, linea 176
+034
+
+178:Compiler:2591:in `pbCompileEncounters'
+178:Compiler:4134:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: RuntimeError
+Mensaje: Script error within event 12, map 30 (interior casa prota):
+Exception: NameError
+Message: (eval):1:in `pbExecuteScript': uninitialized constant Interpreter::Opengacha
+***Full script:
+Opengacha
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 12, map 30 (interior casa prota):
+Exception: NameError
+Message: undefined local variable or method `opengacha' for #<Interpreter:0x11dc29d0>
+***Full script:
+opengacha
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 12, map 30 (interior casa prota):
+Exception: NoMethodError
+Message: undefined method `hasGachaPrize?' for #<GachaScene:0x11c8cc38>
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+215:Gacha_BannerVanilla:131:in `defaultBanner'
+217:Gacha_Structures:158:in `call'
+217:Gacha_Structures:158:in `gachaponRead'
+216:Gacha_Scene:464:in `update'
+216:Gacha_Scene:418:in `loop'
+216:Gacha_Scene:418:in `update'
+216:Gacha_Scene:199:in `initialize'
+217:Gacha_Structures:178:in `new'
+217:Gacha_Structures:178:in `openGacha'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: NameError
+Mensaje: undefined local variable or method `pbStartPokemonMenu' for #<Scene_Map:0x14e1c4f0>
+056:Scene_Map:190:in `call_menu'
+056:Scene_Map:163:in `updateold'
+187:Tiempo:256:in `follow_update'
+209:PokeFollow:1554:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+056:Scene_Map:65:in `main'
+222:Main:55:in `mainFunctionDebug'
+222:Main:33:in `mainFunction'
+178:Compiler:80:in `pbCriticalCode'
+Excepción: RuntimeError
+Mensaje: Script error within event 12, map 30 (interior casa prota):
+Exception: NoMethodError
+Message: undefined method `hasGachaPrize?' for #<GachaScene:0x11bf0668>
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+215:Gacha_BannerVanilla:193:in `paldeaBanner'
+217:Gacha_Structures:158:in `call'
+217:Gacha_Structures:158:in `gachaponRead'
+216:Gacha_Scene:464:in `update'
+216:Gacha_Scene:418:in `loop'
+216:Gacha_Scene:418:in `update'
+216:Gacha_Scene:199:in `initialize'
+217:Gacha_Structures:178:in `new'
+217:Gacha_Structures:178:in `openGacha'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 12, map 30 (interior casa prota):
+Exception: NoMethodError
+Message: undefined method `hasGachaPrize?' for #<GachaScene:0x1194a4e8>
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+215:Gacha_BannerVanilla:171:in `paldeaBanner'
+217:Gacha_Structures:158:in `call'
+217:Gacha_Structures:158:in `gachaponRead'
+216:Gacha_Scene:464:in `update'
+216:Gacha_Scene:418:in `loop'
+216:Gacha_Scene:418:in `update'
+216:Gacha_Scene:199:in `initialize'
+217:Gacha_Structures:178:in `new'
+217:Gacha_Structures:178:in `openGacha'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within map 37 (Sucursal 1 de exploradores):
+Exception: ArgumentError
+Message: (eval):1:in `pbReceiveItem': wrong number of arguments (0 for 1)
+***Full script:
+Kernel.pbReceiveItem
+(PBItems::POKENAV)
+Mugshots.dispose
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:281:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within map 37 (Sucursal 1 de exploradores):
+Exception: NoMethodError
+Message: undefined method `pbReceiveItem' for #<Interpreter:0x11bd63e8>
+***Full script:
+pbReceiveItem(PBItems::POKENAV)
+Mugshots.dispose
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:281:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 1 (Intro):
+Exception: NoMethodError
+Message: undefined method `startCharacterSelection' for #<Interpreter:0x11dd6080>
+***Full script:
+overworld = ["trchar000","trchar001"]
+battle = ["trainer000","trainer001"]
+r=startCharacterSelection(
+overworld,battle) 
+pbChangePlayer(r+1)
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 1 (Intro):
+Exception: NoMethodError
+Message: undefined method `startCharacterSelection' for #<Interpreter:0x11e30158>
+***Full script:
+overworld = ["trchar000","trchar001"]
+battle = ["trainer000","trainer001"]
+r = startCharacterSelection(
+overworld,battle) 
+pbChangePlayer(r+1)
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 1 (Intro):
+Exception: NoMethodError
+Message: undefined method `startCharacterSelection' for #<Interpreter:0x11e404d8>
+***Full script:
+overworld = ["trchar000","trchar001"]
+battle = ["trainer000","trainer001"]
+r = startCharacterSelection (
+overworld,battle) 
+pbChangePlayer(r+1)
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 1 (Intro):
+Exception: NoMethodError
+Message: undefined method `StartCharacterSelection' for #<Interpreter:0x11d26e98>
+***Full script:
+overworld = ["trchar000","trchar001"]
+battle = ["trainer000","trainer001"]
+r = StartCharacterSelection (
+overworld,battle) 
+pbChangePlayer(r+1)
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 1 (Intro):
+Exception: NoMethodError
+Message: undefined method `pbCharacterSelection' for #<Interpreter:0x11d4f788>
+***Full script:
+overworld = ["trchar000","trchar001"]
+battle = ["trainer000","trainer001"]
+r = pbCharacterSelection(
+overworld,battle) 
+pbChangePlayer(r+1)
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: NoMethodError
+Mensaje: undefined method `pokedexSeen' for nil:NilClass
+170:PSystem_Utilities:2328:in `pbSetViableDexes'
+170:PSystem_Utilities:2325:in `each'
+170:PSystem_Utilities:2325:in `pbSetViableDexes'
+130:PScreen_PauseMenu:96:in `pbStartPokemonMenu'
+056:Scene_Map:200:in `call_menu'
+056:Scene_Map:163:in `updateold'
+187:Tiempo:256:in `follow_update'
+210:PokeFollow:1554:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+Excepción: RuntimeError
+Mensaje: Script error within event 19, map 44 (Gym Planta):
+Exception: NameError
+Message: undefined local variable or method `pbDarAmistadLider' for #<Interpreter:0x15070098>
+***Full script:
+renderBadgeAnimation(0)
+$Trainer.badges[0]=true
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 19, map 44 (Gym Planta):
+Exception: NameError
+Message: 219:Resource_FancyBadges:95:in `renderBadgeAnimation': uninitialized constant PBRibbons::CONSTELABADGE0
+***Full script:
+renderBadgeAnimation(0)
+$Trainer.badges[0]=true
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 19, map 44 (Gym Planta):
+Exception: NoMethodError
+Message: undefined method `white' for Color:Class
+***Full script:
+renderBadgeAnimation(0)
+$Trainer.badges[0]=true
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
