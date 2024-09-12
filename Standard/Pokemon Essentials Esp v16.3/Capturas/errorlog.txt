@@ -3048,3 +3048,133 @@ $Trainer.badges[0]=true
 056:Scene_Map:101:in `loop'
 056:Scene_Map:101:in `updateold'
 187:Tiempo:256:in `follow_update'
+Excepción: TypeError
+Mensaje: can't convert Fixnum into String
+098:PField_Field:1428:in `+'
+098:PField_Field:1428:in `pbGetPlayerCharset'
+098:PField_Field:1444:in `pbUpdateVehicle'
+098:PField_Field:1455:in `follow_pbCancelVehicles'
+210:PokeFollow:1129:in `pbCancelVehicles'
+056:Scene_Map:232:in `follow_transfer'
+210:PokeFollow:1705:in `transfer_player'
+056:Scene_Map:110:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+Excepción: TypeError
+Mensaje: can't convert Fixnum into String
+098:PField_Field:1428:in `+'
+098:PField_Field:1428:in `pbGetPlayerCharset'
+098:PField_Field:1444:in `pbUpdateVehicle'
+098:PField_Field:1455:in `follow_pbCancelVehicles'
+210:PokeFollow:1129:in `pbCancelVehicles'
+056:Scene_Map:232:in `follow_transfer'
+210:PokeFollow:1705:in `transfer_player'
+056:Scene_Map:110:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 37 (Sucursal 1 de exploradores):
+Exception: SyntaxError
+Message: (eval):2:in `pbExecuteScript': compile error
+(eval):2: syntax error
+(1011,1014,1017)
+      ^
+***Line '(1011,1014,1017)' shouldn't begin with '('. Try
+putting the '(' at the end of the previous line instead,
+or using 'extendtext.exe'.
+***Full script:
+PokemonStarterSelection.initialize
+(1011,1014,1017)
+
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 37 (Sucursal 1 de exploradores):
+Exception: SyntaxError
+Message: (eval):2:in `pbExecuteScript': compile error
+(eval):2: syntax error
+(1011,1014,1017)
+      ^
+***Line '(1011,1014,1017)' shouldn't begin with '('. Try
+putting the '(' at the end of the previous line instead,
+or using 'extendtext.exe'.
+***Full script:
+PokemonStarterSelection.new
+(1011,1014,1017)
+
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 37 (Sucursal 1 de exploradores):
+Exception: NameError
+Message: 221:Pokemon_StarterSelection:102:in `initialize': uninitialized constant PokemonStarterSelection::AnimatedBitmapWrapper
+***Full script:
+PokemonStarterSelection.new(1011,1014,1017)
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):1:in `new'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 37 (Sucursal 1 de exploradores):
+Exception: NameError
+Message: 221:Pokemon_StarterSelection:102:in `initialize': uninitialized constant PokemonStarterSelection::AnimatedBitmapWrapper
+***Full script:
+PokemonStarterSelection.new(1011,1014,1017)
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):1:in `new'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
