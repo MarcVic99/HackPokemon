@@ -1,0 +1,27 @@
+Encima del background cargar la imagen overlay, y hacer que ripple se vaya haciendo pequeño hasta que desaparece y vuelve a aparecer en posicion inicial.
+
+El legendario, es el jugador, se puede mover libremente por la pantalla. si se acerca lo suficiente a un portal este lo absorbera.
+
+Los portales Rojo, azul, amarillo, verde y naranja seran comunes.
+El morado sera algo mas raro, y el "blanco" mucho mas raro.
+
+Cada uno llevara a distintas zonas aleatoriamente, por ejemplo: 
+-Rojo
+ *Volcan
+ *Pueblo Edgy en llamas
+-Azul
+ *Playa
+ *Lago
+ *Rio
+Y así con los demas.
+
+Tambien habria un medidor de distancia, cuando llegue a un numero considerable te llevara a un mundo alatorio entre todos los portales.
+A medida que avanza el medidor los portaes raros seran mas comunes y los otros no lo seran tanto.
+
+
+[OPCIONAL]
+Las bolitas de luz darian velocidad al jugador.
+Las bolitas de  Oscuridad Ralentizan al jugador.
+Si el jugador va muy lento cualquier portal podra absorberlo al doble de distancia
+
+

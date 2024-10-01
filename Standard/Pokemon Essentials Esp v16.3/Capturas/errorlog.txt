@@ -3178,3 +3178,1233 @@ PokemonStarterSelection.new(1011,1014,1017)
 056:Scene_Map:101:in `loop'
 056:Scene_Map:101:in `updateold'
 187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 19, map 44 (Gym Planta):
+Exception: NameError
+Message: (eval):1:in `pbExecuteScript': uninitialized constant Interpreter::Badge
+***Full script:
+renderBadgeAnimation(Boulder Badge)
+$Trainer.badges[0]=true
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 19, map 44 (Gym Planta):
+Exception: NameError
+Message: undefined local variable or method `getBadge0' for #<Interpreter:0x14b56fa8>
+***Full script:
+renderBadgeAnimation(getBadge0)
+$Trainer.badges[0]=true
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 19, map 44 (Gym Planta):
+Exception: NameError
+Message: undefined local variable or method `getBadge0' for #<Interpreter:0x14d9fed0>
+***Full script:
+renderBadgeAnimation(getBadge0)
+$Trainer.badges[0]=true
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 19, map 44 (Gym Planta):
+Exception: NameError
+Message: undefined local variable or method `getBadge0' for #<Interpreter:0x14f56800>
+***Full script:
+renderBadgeAnimation(getBadge0)
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 19, map 44 (Gym Planta):
+Exception: NoMethodError
+Message: undefined method `white' for Color:Class
+***Full script:
+renderBadgeAnimation(0)
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 19, map 44 (Gym Planta):
+Exception: NoMethodError
+Message: undefined method `white' for Color:Class
+***Full script:
+renderBadgeAnimation(0)
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 19, map 44 (Gym Planta):
+Exception: NoMethodError
+Message: undefined method `delta_sub' for 0.75:Float
+***Full script:
+renderBadgeAnimation(0)
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 22, map 40 (Pueblo Palmeras):
+Exception: NameError
+Message: undefined local variable or method `useMoveFly' for #<Interpreter:0x14db16d8>
+***Full script:
+useMoveFly
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 22, map 40 (Pueblo Palmeras):
+Exception: NameError
+Message: undefined local variable or method `useMoveFly' for #<Interpreter:0x150f7968>
+***Full script:
+useMoveFly
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 22, map 55 (Pasillo Ruinas 1):
+Exception: ArgumentError
+Message: 222:PMinigame_VueloCosmico:186:in `pbFadeOutIn': wrong number of arguments (5 for 2)
+***Full script:
+pbCallSpace
+
+038:Interpreter:243:in `pbExecuteScript'
+222:PMinigame_VueloCosmico:186:in `pbEndScene'
+222:PMinigame_VueloCosmico:267:in `pbCallSpace'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 22, map 40 (Pueblo Palmeras):
+Exception: ArgumentError
+Message: (eval):1:in `pbTeleport': wrong number of arguments (0 for 3)
+***Full script:
+pbCallSpace pbTeleport
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 22, map 55 (Pasillo Ruinas 1):
+Exception: ArgumentError
+Message: 222:PMinigame_VueloCosmico:186:in `pbFadeOutIn': wrong number of arguments (5 for 2)
+***Full script:
+pbCallSpace
+pbTeleport
+
+038:Interpreter:243:in `pbExecuteScript'
+222:PMinigame_VueloCosmico:186:in `pbEndScene'
+222:PMinigame_VueloCosmico:267:in `pbCallSpace'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within map 22 (Villa Mariona):
+Exception: ArgumentError
+Message: 222:PMinigame_VueloCosmico:186:in `pbFadeOutIn': wrong number of arguments (5 for 2)
+***Full script:
+pbCallSpace
+pbTeleport
+
+038:Interpreter:243:in `pbExecuteScript'
+222:PMinigame_VueloCosmico:186:in `pbEndScene'
+222:PMinigame_VueloCosmico:267:in `pbCallSpace'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+
+038:Interpreter:281:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within map 22 (Villa Mariona):
+Exception: ArgumentError
+Message: 222:PMinigame_VueloCosmico:186:in `pbFadeOutIn': wrong number of arguments (5 for 2)
+***Full script:
+pbCallSpace
+pbTeleport
+
+038:Interpreter:243:in `pbExecuteScript'
+222:PMinigame_VueloCosmico:186:in `pbEndScene'
+222:PMinigame_VueloCosmico:267:in `pbCallSpace'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+
+038:Interpreter:281:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within map 22 (Villa Mariona):
+Exception: ArgumentError
+Message: (eval):2:in `pbTeleport': wrong number of arguments (0 for 3)
+***Full script:
+pbCallSpace
+pbTeleport
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):2:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:281:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within map 22 (Villa Mariona):
+Exception: ArgumentError
+Message: 222:PMinigame_VueloCosmico:186:in `pbFadeOutIn': wrong number of arguments (5 for 2)
+***Full script:
+pbCallSpace
+pbTeleport
+
+038:Interpreter:243:in `pbExecuteScript'
+222:PMinigame_VueloCosmico:186:in `pbEndScene'
+222:PMinigame_VueloCosmico:269:in `pbCallSpace'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+
+038:Interpreter:281:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: El campo 688.POKERIDER no tiene un valor entero positivo
+Archivo PBS/items.txt, linea 671
+ Ocarina Vuelo, Ocarina Vuelo,8,0,"Permite llamar a un Pokémon y usar Vuelo",2,0,6,
+
+178:Compiler:424:in `csvPosInt!'
+178:Compiler:503:in `pbGetCsvRecord'
+178:Compiler:497:in `each'
+178:Compiler:497:in `pbGetCsvRecord'
+178:Compiler:1617:in `pbCompileItems'
+178:Compiler:284:in `pbCompilerEachCommentedLine'
+178:Compiler:278:in `each_line'
+178:Compiler:278:in `pbCompilerEachCommentedLine'
+178:Compiler:275:in `open'
+178:Compiler:275:in `pbCompilerEachCommentedLine'
+Excepción: RuntimeError
+Mensaje: El campo 688.POKERIDER no tiene un valor entero positivo
+Archivo PBS/items.txt, linea 671
+ Ocarina Vuelo, Ocarinas Vuelos,8,0,"Permite llamar a un Pokémon y usar Vuelo",2,0,6,
+
+178:Compiler:424:in `csvPosInt!'
+178:Compiler:503:in `pbGetCsvRecord'
+178:Compiler:497:in `each'
+178:Compiler:497:in `pbGetCsvRecord'
+178:Compiler:1617:in `pbCompileItems'
+178:Compiler:284:in `pbCompilerEachCommentedLine'
+178:Compiler:278:in `each_line'
+178:Compiler:278:in `pbCompilerEachCommentedLine'
+178:Compiler:275:in `open'
+178:Compiler:275:in `pbCompilerEachCommentedLine'
+Excepción: RuntimeError
+Mensaje: El campo 688.POKERIDER no tiene un valor entero positivo
+Archivo PBS/items.txt, linea 671
+ Ocarina Vuelo, Ocarinas Vuelos,8,0,"Permite llamar a un Pokémon y usar Vuelo",2,0,6,
+
+178:Compiler:424:in `csvPosInt!'
+178:Compiler:503:in `pbGetCsvRecord'
+178:Compiler:497:in `each'
+178:Compiler:497:in `pbGetCsvRecord'
+178:Compiler:1617:in `pbCompileItems'
+178:Compiler:284:in `pbCompilerEachCommentedLine'
+178:Compiler:278:in `each_line'
+178:Compiler:278:in `pbCompilerEachCommentedLine'
+178:Compiler:275:in `open'
+178:Compiler:275:in `pbCompilerEachCommentedLine'
+Excepción: RuntimeError
+Mensaje: El campo 688.OCARINAFLIGHT no tiene un valor entero positivo
+Archivo PBS/items.txt, linea 671
+ Ocarina Vuelo, Ocarinas Vuelos,8,0,"Permite llamar a un Pokémon y usar Vuelo",2,0,6,
+
+178:Compiler:424:in `csvPosInt!'
+178:Compiler:503:in `pbGetCsvRecord'
+178:Compiler:497:in `each'
+178:Compiler:497:in `pbGetCsvRecord'
+178:Compiler:1617:in `pbCompileItems'
+178:Compiler:284:in `pbCompilerEachCommentedLine'
+178:Compiler:278:in `each_line'
+178:Compiler:278:in `pbCompilerEachCommentedLine'
+178:Compiler:275:in `open'
+178:Compiler:275:in `pbCompilerEachCommentedLine'
+Excepción: RuntimeError
+Mensaje: El campo 688.OCARINAFLIGHT no tiene un valor entero positivo
+Archivo PBS/items.txt, linea 671
+Ocarina Vuelo,Ocarinas Vuelos,8,0,"Permite llamar a un Pokémon y usar Vuelo",2,0,6,
+
+178:Compiler:424:in `csvPosInt!'
+178:Compiler:503:in `pbGetCsvRecord'
+178:Compiler:497:in `each'
+178:Compiler:497:in `pbGetCsvRecord'
+178:Compiler:1617:in `pbCompileItems'
+178:Compiler:284:in `pbCompilerEachCommentedLine'
+178:Compiler:278:in `each_line'
+178:Compiler:278:in `pbCompilerEachCommentedLine'
+178:Compiler:275:in `open'
+178:Compiler:275:in `pbCompilerEachCommentedLine'
+Excepción: NoMethodError
+Mensaje: undefined method `fly_destination' for #<Game_Temp:0x158dd278>
+116:PItem_ItemEffects:174
+039:Event:150:in `call'
+039:Event:150:in `trigger'
+115:PItem_Items:210:in `triggerUseFromBag'
+115:PItem_Items:697:in `pbUseItem'
+135:PScreen_Bag:572:in `pbStartScreen'
+135:PScreen_Bag:546:in `loop'
+135:PScreen_Bag:546:in `pbStartScreen'
+130:PScreen_PauseMenu:190:in `pbStartPokemonMenu'
+050:SpriteWindow:1250:in `pbFadeOutIn'
+Excepción: NoMethodError
+Mensaje: undefined method `fly_destination' for #<Game_Temp:0x152e4220>
+116:PItem_ItemEffects:174
+039:Event:150:in `call'
+039:Event:150:in `trigger'
+115:PItem_Items:210:in `triggerUseFromBag'
+115:PItem_Items:697:in `pbUseItem'
+135:PScreen_Bag:572:in `pbStartScreen'
+135:PScreen_Bag:546:in `loop'
+135:PScreen_Bag:546:in `pbStartScreen'
+130:PScreen_PauseMenu:190:in `pbStartPokemonMenu'
+050:SpriteWindow:1250:in `pbFadeOutIn'
+Excepción: Errno::ENOENT
+Mensaje: Archivo No such file or directory - Graphics/Icons/C0 no encontrado.
+051:DrawText:704:in `initialize'
+051:DrawText:704:in `new'
+051:DrawText:704:in `getFormattedText'
+050:SpriteWindow:3591:in `setText'
+050:SpriteWindow:3534:in `text='
+052:Messages:1417:in `pbMessageDisplay'
+052:Messages:1005:in `pbMessage'
+052:Messages:649:in `command_101'
+038:Interpreter:304:in `execute_command'
+038:Interpreter:193:in `update'
+Excepción: Errno::ENOENT
+Mensaje: Archivo No such file or directory - Graphics/Icons/C0 no encontrado.
+051:DrawText:704:in `initialize'
+051:DrawText:704:in `new'
+051:DrawText:704:in `getFormattedText'
+050:SpriteWindow:3591:in `setText'
+050:SpriteWindow:3534:in `text='
+052:Messages:1417:in `pbMessageDisplay'
+052:Messages:1005:in `pbMessage'
+052:Messages:649:in `command_101'
+038:Interpreter:304:in `execute_command'
+038:Interpreter:193:in `update'
+Excepción: Errno::ENOENT
+Mensaje: Archivo No such file or directory - Data/Map157.rxdata no encontrado.
+169:PSystem_System:15:in `load_data'
+169:PSystem_System:15:in `pbLoadRxData'
+056:Scene_Map:209:in `autofade'
+056:Scene_Map:234:in `follow_transfer'
+210:PokeFollow:1705:in `transfer_player'
+056:Scene_Map:110:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+210:PokeFollow:1554:in `update'
+Excepción: NoMethodError
+Mensaje: undefined method `pokedexSeen' for nil:NilClass
+170:PSystem_Utilities:2328:in `pbSetViableDexes'
+170:PSystem_Utilities:2325:in `each'
+170:PSystem_Utilities:2325:in `pbSetViableDexes'
+130:PScreen_PauseMenu:96:in `pbStartPokemonMenu'
+056:Scene_Map:200:in `call_menu'
+056:Scene_Map:163:in `updateold'
+187:Tiempo:256:in `follow_update'
+210:PokeFollow:1554:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+Excepción: RuntimeError
+Mensaje: Script error within map 22 (Villa Mariona):
+Exception: ArgumentError
+Message: 222:PMinigame_VueloCosmico:186:in `pbFadeOutIn': wrong number of arguments (5 for 2)
+***Full script:
+pbCallSpace
+pbTeleport
+
+038:Interpreter:243:in `pbExecuteScript'
+222:PMinigame_VueloCosmico:186:in `pbEndScene'
+222:PMinigame_VueloCosmico:269:in `pbCallSpace'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+
+038:Interpreter:281:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within map 22 (Villa Mariona):
+Exception: ArgumentError
+Message: 222:PMinigame_VueloCosmico:186:in `pbFadeOutIn': wrong number of arguments (5 for 2)
+***Full script:
+pbCallSpace
+pbTeleport
+
+038:Interpreter:243:in `pbExecuteScript'
+222:PMinigame_VueloCosmico:186:in `pbEndScene'
+222:PMinigame_VueloCosmico:269:in `pbCallSpace'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+
+038:Interpreter:281:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within map 22 (Villa Mariona):
+Exception: ArgumentError
+Message: 222:PMinigame_VueloCosmico:186:in `pbFadeOutIn': wrong number of arguments (4 for 2)
+***Full script:
+pbCallSpace
+pbTeleport
+
+038:Interpreter:243:in `pbExecuteScript'
+222:PMinigame_VueloCosmico:186:in `pbEndScene'
+222:PMinigame_VueloCosmico:269:in `pbCallSpace'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+
+038:Interpreter:281:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within map 22 (Villa Mariona):
+Exception: ArgumentError
+Message: (eval):2:in `pbTeleport': wrong number of arguments (0 for 3)
+***Full script:
+pbCallSpace
+pbTeleport
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):2:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:281:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within map 22 (Villa Mariona):
+Exception: ArgumentError
+Message: (eval):2:in `pbTeleport': wrong number of arguments (0 for 3)
+***Full script:
+pbCallSpace
+pbTeleport
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):2:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:281:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 22, map 40 (Pueblo Palmeras):
+Exception: TypeError
+Message: 063:MiscData:136:in `[]': can't convert Array into Integer
+***Full script:
+pbCallSpace
+
+038:Interpreter:243:in `pbExecuteScript'
+063:MiscData:136:in `pbGetMetadata'
+098:PField_Field:1459:in `pbCanUseBike?'
+098:PField_Field:1452:in `follow_pbCancelVehicles'
+210:PokeFollow:1129:in `pbCancelVehicles'
+056:Scene_Map:232:in `follow_transfer'
+210:PokeFollow:1705:in `transfer_player'
+222:PMinigame_VueloCosmico:280:in `pbTeleport'
+222:PMinigame_VueloCosmico:229:in `pbUpdate'
+222:PMinigame_VueloCosmico:219:in `each'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 22, map 40 (Pueblo Palmeras):
+Exception: TypeError
+Message: 063:MiscData:136:in `[]': can't convert Array into Integer
+***Full script:
+pbCallSpace
+pbTeleport
+
+038:Interpreter:243:in `pbExecuteScript'
+063:MiscData:136:in `pbGetMetadata'
+098:PField_Field:1459:in `pbCanUseBike?'
+098:PField_Field:1452:in `follow_pbCancelVehicles'
+210:PokeFollow:1129:in `pbCancelVehicles'
+056:Scene_Map:232:in `follow_transfer'
+210:PokeFollow:1705:in `transfer_player'
+222:PMinigame_VueloCosmico:280:in `pbTeleport'
+222:PMinigame_VueloCosmico:229:in `pbUpdate'
+222:PMinigame_VueloCosmico:219:in `each'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within map 22 (Villa Mariona):
+Exception: ArgumentError
+Message: (eval):2:in `pbTeleport': wrong number of arguments (0 for 3)
+***Full script:
+pbCallSpace
+pbTeleport
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):2:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:281:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Failed to load the bitmap located at: Graphics/Pictures/menu/panel2
+048:BitmapCache:394:in `load_bitmap'
+200:Album:171:in `Panel2'
+200:Album:158:in `Panel1'
+200:Album:18:in `loop'
+200:Album:18:in `Panel1'
+116:PItem_ItemEffects:164
+039:Event:150:in `call'
+039:Event:150:in `trigger'
+115:PItem_Items:210:in `triggerUseFromBag'
+115:PItem_Items:697:in `pbUseItem'
+Excepción: RuntimeError
+Mensaje: Script error within event 12, map 30 (interior casa prota):
+Exception: NoMethodError
+Message: undefined method `hasGachaPrize?' for #<GachaScene:0x14fe4cb8>
+***Full script:
+openGacha
+
+038:Interpreter:243:in `pbExecuteScript'
+216:Gacha_BannerVanilla:193:in `paldeaBanner'
+218:Gacha_Structures:158:in `call'
+218:Gacha_Structures:158:in `gachaponRead'
+217:Gacha_Scene:464:in `update'
+217:Gacha_Scene:418:in `loop'
+217:Gacha_Scene:418:in `update'
+217:Gacha_Scene:199:in `initialize'
+218:Gacha_Structures:178:in `new'
+218:Gacha_Structures:178:in `openGacha'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within map 37 (Sucursal 1 de exploradores):
+Exception: ArgumentError
+Message: (eval):1:in `pbReceiveItem': wrong number of arguments (0 for 1)
+***Full script:
+Kernel.pbReceiveItem
+(PBItems::POKENAV)
+Mugshots.dispose
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:281:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 43, map 40 (Pueblo Palmeras):
+Exception: SyntaxError
+Message: (eval):4:in `pbExecuteScript': compile error
+(eval):2: syntax error
+(PBTrainers::CAPITAN,"Jasper",0)
+                              ^
+(eval):4: `@1' is not allowed as an instance variable name
+(eval):4: syntax error
+(@10,"jasper 2",42)
+   ^
+***Line '(PBTrainers::CAPITAN,"Jasper",0)' shouldn't begin with '('. Try
+putting the '(' at the end of the previous line instead,
+or using 'extendtext.exe'.
+***Line '(@10,"jasper 2",42)' shouldn't begin with '('. Try
+putting the '(' at the end of the previous line instead,
+or using 'extendtext.exe'.
+***Full script:
+pbRegisterPartner
+(PBTrainers::CAPITAN,"Jasper",0)
+Kernel.pbAddDependency2
+(@10,"jasper 2",42)
+
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 43, map 40 (Pueblo Palmeras):
+Exception: ArgumentError
+Message: (eval):1:in `pbAddDependency': wrong number of arguments (3 for 1)
+***Full script:
+pbAddDependency(10,"Jasper",42)
+pbRegisterPartner(:CAPITAN,"Jasper")
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 43, map 40 (Pueblo Palmeras):
+Exception: NoMethodError
+Message: undefined method `trigger' for nil:NilClass
+***Full script:
+pbAddDependency2(
+   10,"Jasper",0)
+pbRegisterPartner(
+  PBTrainers::CAPITAN,
+  "Jasper")
+
+038:Interpreter:243:in `pbExecuteScript'
+018:Game_CommonEvent:58:in `refresh'
+018:Game_CommonEvent:15:in `initialize'
+109:PField_DependentEvents:158:in `new'
+109:PField_DependentEvents:158:in `createEvent'
+109:PField_DependentEvents:505:in `addEvent'
+109:PField_DependentEvents:26:in `pbAddDependency2'
+(eval):2:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: NameError
+Mensaje: uninitialized constant PokeBattle_SceneConstants::FOEBOXD3_X
+207:BarraDVidaBoss:99:in `initialize'
+087:PokeBattle_Scene:1906:in `new'
+087:PokeBattle_Scene:1906:in `pbStartBattle'
+084:PokeBattle_Battle:2660:in `pbStartBattleCore'
+084:PokeBattle_Battle:2621:in `pbStartBattle'
+098:PField_Field:990:in `pbDoubleWildBattle'
+098:PField_Field:479:in `pbSceneStandby'
+098:PField_Field:989:in `pbDoubleWildBattle'
+098:PField_Field:598:in `pbBattleAnimation'
+098:PField_Field:988:in `pbDoubleWildBattle'
+Excepción: NameError
+Mensaje: uninitialized constant PokeBattle_SceneConstants::FOEBOXD3_X
+207:BarraDVidaBoss:99:in `initialize'
+087:PokeBattle_Scene:1906:in `new'
+087:PokeBattle_Scene:1906:in `pbStartBattle'
+084:PokeBattle_Battle:2660:in `pbStartBattleCore'
+084:PokeBattle_Battle:2621:in `pbStartBattle'
+098:PField_Field:990:in `pbDoubleWildBattle'
+098:PField_Field:479:in `pbSceneStandby'
+098:PField_Field:989:in `pbDoubleWildBattle'
+098:PField_Field:598:in `pbBattleAnimation'
+098:PField_Field:988:in `pbDoubleWildBattle'
+Excepción: NameError
+Mensaje: uninitialized constant PokeBattle_SceneConstants::FOEBOXD3_X
+207:BarraDVidaBoss:99:in `initialize'
+087:PokeBattle_Scene:1906:in `new'
+087:PokeBattle_Scene:1906:in `pbStartBattle'
+084:PokeBattle_Battle:2660:in `pbStartBattleCore'
+084:PokeBattle_Battle:2621:in `pbStartBattle'
+098:PField_Field:990:in `pbDoubleWildBattle'
+098:PField_Field:479:in `pbSceneStandby'
+098:PField_Field:989:in `pbDoubleWildBattle'
+098:PField_Field:598:in `pbBattleAnimation'
+098:PField_Field:988:in `pbDoubleWildBattle'
+Excepción: NameError
+Mensaje: uninitialized constant PokeBattle_SceneConstants::FOEBOXD3_X
+207:BarraDVidaBoss:99:in `initialize'
+087:PokeBattle_Scene:1906:in `new'
+087:PokeBattle_Scene:1906:in `pbStartBattle'
+084:PokeBattle_Battle:2660:in `pbStartBattleCore'
+084:PokeBattle_Battle:2621:in `pbStartBattle'
+098:PField_Field:990:in `pbDoubleWildBattle'
+098:PField_Field:479:in `pbSceneStandby'
+098:PField_Field:989:in `pbDoubleWildBattle'
+098:PField_Field:598:in `pbBattleAnimation'
+098:PField_Field:988:in `pbDoubleWildBattle'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 37 (Sucursal 1 de exploradores):
+Exception: ArgumentError
+Message: (eval):2:in `pbAddPokemonSilent': wrong number of arguments (0 for 1)
+***Full script:
+PokemonStarterSelection.new(1011,1014,1017)
+pbAddPokemonSilent
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):2:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 37 (Sucursal 1 de exploradores):
+Exception: ArgumentError
+Message: (eval):2:in `pbAddPokemonSilent': wrong number of arguments (0 for 1)
+***Full script:
+PokemonStarterSelection.new(1011,1014,1017)
+pbAddPokemonSilent
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):2:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 37 (Sucursal 1 de exploradores):
+Exception: ArgumentError
+Message: (eval):2:in `pbAddPokemonSilent': wrong number of arguments (0 for 1)
+***Full script:
+PokemonStarterSelection.new(1011,1014,1017)
+pbAddPokemonSilent
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):2:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 37 (Sucursal 1 de exploradores):
+Exception: NoMethodError
+Message: undefined method `scale=' for #<AnimatedSprite:0x11e20180>
+***Full script:
+PokemonStarterSelection.new(1011,1014,1017)
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):1:in `new'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 37 (Sucursal 1 de exploradores):
+Exception: RuntimeError
+Message: 050:SpriteWindow:4140:in `initializeLong': El alto del bitmap (64) no es un múltiplo del alto del frame (128) [Bitmap=Graphics/Pictures/StarterSelection/ball2]
+***Full script:
+PokemonStarterSelection.new(1011,1014,1017)
+
+038:Interpreter:243:in `pbExecuteScript'
+050:SpriteWindow:4185:in `initialize'
+221:Pokemon_StarterSelection:63:in `new'
+221:Pokemon_StarterSelection:63:in `initialize'
+(eval):1:in `new'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 37 (Sucursal 1 de exploradores):
+Exception: RuntimeError
+Message: 050:SpriteWindow:4136:in `initializeLong': El ancho del bitmap (856) no es un múltiplo del ancho del frame (64) [Bitmap=Graphics/Pictures/StarterSelection/ball2]
+***Full script:
+PokemonStarterSelection.new(1011,1014,1017)
+
+038:Interpreter:243:in `pbExecuteScript'
+050:SpriteWindow:4185:in `initialize'
+221:Pokemon_StarterSelection:63:in `new'
+221:Pokemon_StarterSelection:63:in `initialize'
+(eval):1:in `new'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: NameError
+Mensaje: uninitialized constant PokeBattle_SceneConstants::FOEBOXD3_X
+207:BarraDVidaBoss:99:in `initialize'
+087:PokeBattle_Scene:1906:in `new'
+087:PokeBattle_Scene:1906:in `pbStartBattle'
+084:PokeBattle_Battle:2660:in `pbStartBattleCore'
+084:PokeBattle_Battle:2621:in `pbStartBattle'
+098:PField_Field:990:in `pbDoubleWildBattle'
+098:PField_Field:479:in `pbSceneStandby'
+098:PField_Field:989:in `pbDoubleWildBattle'
+098:PField_Field:598:in `pbBattleAnimation'
+098:PField_Field:988:in `pbDoubleWildBattle'

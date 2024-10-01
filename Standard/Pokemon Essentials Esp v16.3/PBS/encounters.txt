@@ -21,7 +21,7 @@ CORSOLA,15,18
 STARYU,15,17
 STARYU,15,17
 #########################
-005
+005 # Antiguo fuerte palmeras
 25,10,10
 Land
 RATTATA,11,14
@@ -190,6 +190,22 @@ MURKROW,12,14
 MURKROW,12,14
 MURKROW,12,14
 #########################
+040 # Pueblo Palmeras
+25,10,10
+Land
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+BULBASAUR,5
+#########################
 041 # Prueba Captura
 25,10,10
 Land
@@ -206,7 +222,7 @@ SLUGMA,13,14
 SLUGMA,13,14
 SLUGMA,13,14
 #########################
-044 # Gym Planta
+044
 25,10,10
 Land
 SHELLOS,12,15

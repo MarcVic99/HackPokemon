@@ -76,3 +76,8 @@ X
 2
 SLUGMA,8
 ZUBAT,7
+#-------------------
+CAPITAN2
+Jasper
+1
+NUZLEAF,19

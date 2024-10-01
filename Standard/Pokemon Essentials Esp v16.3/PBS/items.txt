@@ -668,3 +668,5 @@
 685,MILOTITE,Milotita,Milotitas,1,0,"Una de las misteriosas Megapiedras. Permite megaevolucionar a Milotic en combate.",0,0,0,
 686,FICHAGATIBOX,Ficha Gatibox,Fichas Gatibox,7,100,"Una ficha con la que puedes tirar en el gacha de la Red Arcana.",0,0,0,
 687,LENSOFTRUTH,Lens of Truth,Lens of Truth,8,0,"Description",2,0,6,
+688,OCARINAFLIGHT,Ocarina Vuelo,Ocarinas Vuelos,8,0,"Permite llamar a un Pokémon y usar Vuelo",2,0,6,
+689,ANCIENTPARCHMENT,Pergamino Antiguo,Pergaminos Antiguos,8,0,"Extraño abecedario ancestral.",2,0,6,

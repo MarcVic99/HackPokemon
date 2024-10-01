@@ -1,7 +1,16 @@
 ﻿[0]
-Name=Región Essen
+Name=Región Molins
 Filename=mapRegion0.png
-
+Point=20,16,"Villa Mariona","Sucursal de exploradores",22,13,20,,
+Point=20,17,"Villa Mariona","Sucursal de exploradores",,,,,
+Point=19,16,"Ruta Incresa",,,,,
+Point=18,16,"Ruta Incresa",,,,,
+Point=18,17,"Ruta Incresa",,,,,
+Point=19,17,"Ruta Incresa",,,,,
+Point=17,16,"Pueblo Palmeras","Ruinas Ancestrales",40,36,55,,
+Point=17,17,"Pueblo Palmeras","Ruinas Ancestrales",,,,,
+Point=16,16,"Sandero Llave de oro",,,,,
+Point=15,16,"Skate Park",,,,,
 [1]
 Name=Región Tiall
 Filename=mapRegion1.png
