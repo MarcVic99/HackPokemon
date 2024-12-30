@@ -1,30 +1,33 @@
 ﻿[000]
-WildBattleBGM=002-Battle02.mid
 SurfBGM=Ship.mid
 TrainerBattleBGM=005-Boss01.mid
-Home=3,7,5,8
+WildBattleBGM=002-Battle02.mid
 PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
 PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
 BicycleBGM=Airship.mid
+Home=3,7,5,8
 [001]
 # Intro
 [002]
 # Gremio Palmeras
-ShowArea=true
 Outdoor=false
+ShowArea=true
 MapPosition=0,13,12
 [003]
 # Pasaje
+TrainerVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
+TrainerBattleBGM=Total Drama Island Intro - 8 Bit Remix [TubeRipper.cc].ogg
 BattleBack=IndoorB
-HealingSpot=2,8,8
 MapPosition=0,13,12
+HealingSpot=2,8,8
+WildVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
 [004]
 # Gimnasio
 MapPosition=0,13,12
 [005]
 # Antiguo fuerte palmeras
-ShowArea=true
 Outdoor=true
+ShowArea=true
 MapPosition=0,13,11
 [006]
 # Ruinas Palmeras
@@ -32,15 +35,18 @@ MapPosition=0,13,11
 [007]
 # Gruta Voluntad
 MapSize=2,11
-ShowArea=true
 Outdoor=true
+ShowArea=true
 MapPosition=0,13,10
 [008]
+# MIGUEL OFF
 MapPosition=0,13,12
 [009]
-HealingSpot=8,17,11
+# Observatorio
 MapPosition=0,14,10
+HealingSpot=8,17,11
 [010]
+# Tumba sagrada
 BattleBack=IndoorB
 MapPosition=0,13,10
 [011]
@@ -65,20 +71,20 @@ MapPosition=0,13,10
 MapPosition=0,13,10
 [021]
 MapSize=1,11
-ShowArea=true
-Weather=Rain,50
 Outdoor=true
+ShowArea=true
 MapPosition=0,14,8
+Weather=Rain,50
 [022]
 # Villa Mariona
 SnapEdges=false
 [023]
-ShowArea=true
 Outdoor=true
+ShowArea=true
 MapPosition=0,15,8
 [024]
-HealingSpot=23,11,15
 MapPosition=0,15,8
+HealingSpot=23,11,15
 [025]
 MapPosition=0,15,8
 [026]
@@ -86,47 +92,47 @@ MapPosition=0,15,8
 [027]
 MapPosition=0,15,8
 [028]
+Outdoor=true
 ShowArea=true
 BattleBack=Forest
-Outdoor=true
 MapPosition=0,16,8
 [029]
-MapPosition=0,16,8
 Bicycle=true
+MapPosition=0,16,8
 [030]
 # interior casa prota
-HealingSpot=30,7,11
 MapPosition=0,16,8
+HealingSpot=30,7,11
 [031]
 # Ruta incresa
-WildBattleBGM=Descendents-I_m-Not-A-Loser-_8-bit_.ogg
-MapSize=2,1101
-TrainerBattleBGM=Descendents - Suburban Home (8 bit) [TubeRipper.cc].ogg
-ShowArea=true
-BattleBack="Field,ForestGrass,FieldGrassEve"
-WildVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
-Outdoor=true
 TrainerVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
+MapSize=2,1101
+Outdoor=true
+TrainerBattleBGM=Descendents - Suburban Home (8 bit) [TubeRipper.cc].ogg
+WildBattleBGM=Descendents-I_m-Not-A-Loser-_8-bit_.ogg
 SnapEdges=false
+ShowArea=true
+BattleBack=Field
 MapPosition=0,14,6
+WildVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
 [032]
 # Casa Vecino
 [033]
 # casa vecino 2.0
 [034]
 # casa vecino 2
+Bicycle=true
 BattleBack=IndoorC
 MapPosition=0,15,6
-Bicycle=true
 [035]
 # casa vecino 3
-ShowArea=true
 Outdoor=true
+ShowArea=true
 MapPosition=0,13,6
 [036]
 # lavabo vecino 3
-HealingSpot=35,17,7
 MapPosition=0,13,6
+HealingSpot=35,17,7
 [037]
 # Sucursal 1 de exploradores
 BattleBack=EliteA
@@ -136,95 +142,96 @@ MapPosition=0,13,6
 MapPosition=0,13,6
 [039]
 # Prueba Batalla
+TrainerVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
 MapSize=2,11
+Outdoor=false
 TrainerBattleBGM=Descendents - Suburban Home (8 bit) [TubeRipper.cc].ogg
 ShowArea=true
-BattleBack="Gimnasio,EliteC,EliteC"
-WildVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
-Outdoor=false
-TrainerVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
+BattleBack=
 MapPosition=0,11,6
+WildVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
 [040]
 # Pueblo Palmeras
-TrainerBattleBGM=Boss Battle 2.mid
-ShowArea=true
-BicycleAlways=false
-Outdoor=true
 TrainerVictoryME=SlotsBigWin.mp3
+Outdoor=true
+TrainerBattleBGM=Boss Battle 2.mid
+BicycleAlways=false
+SnapEdges=true
+ShowArea=true
 MapPosition=0,11,6
 [041]
 # Prueba Captura
-WildBattleBGM=Salamander - Fairy Tail OST (8-Bit Dungeon Remix Version) [TubeRipper.cc].ogg
 MapSize=1,111
+Outdoor=true
+WildBattleBGM=Salamander - Fairy Tail OST (8-Bit Dungeon Remix Version) [TubeRipper.cc].ogg
+BicycleAlways=false
 ShowArea=true
 BattleBack="battlebgField,enemybaseFieldGrass,playerbaseFieldGrass"
-BicycleAlways=false
-WildVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
-Outdoor=true
 MapPosition=0,11,7
+WildVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
 [042]
 # Tienda Pokémon
 SnapEdges=true
 [043]
 # Centro Pokémon
 [044]
+TrainerVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
 MapSize=2,11
+Outdoor=false
 TrainerBattleBGM=Descendents-I_m-Not-A-Loser-_8-bit_.ogg
 ShowArea=true
 BattleBack=battlebgField
-WildVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
-Outdoor=false
-TrainerVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
 MapPosition=0,11,10
+WildVictoryME=Hunter X hunter (2011) Soundtrack - The World of Adventurers (Gons Theme) [TubeRipper.cc].ogg
 [045]
 # interior cabañas
-ShowArea=true
-BicycleAlways=true
 Outdoor=true
+BicycleAlways=true
+ShowArea=true
 MapPosition=0,11,10
 [046]
 # Casa 1
-MapPosition=0,12,6
 Bicycle=true
+MapPosition=0,12,6
 [047]
 # CCasa 2
 MapSize=2,11
+Outdoor=true
 ShowArea=true
 BattleBack=Mountain
-Weather=Rain,0
-Outdoor=true
 MapPosition=0,15,10
+Weather=Rain,0
 [049]
 # casa vecino 2/2
-MapPosition=0,16,10
 Bicycle=true
+MapPosition=0,16,10
 [050]
 # Ruta incresa 1.2
+Bicycle=true
 DarkMap=false
 BattleBack=
 MapPosition=0,16,10
-Bicycle=true
 [051]
 # Interior casa Mike
+Bicycle=true
 Dungeon=true
 MapPosition=0,16,10
-Bicycle=true
 [052]
 # Ruinas intro
-ShowArea=true
 Outdoor=false
+ShowArea=true
 MapPosition=0,17,10
 [053]
 # Prueba Ingenio
-HealingSpot=52,17,14
 MapPosition=0,17,10
+HealingSpot=52,17,14
 [054]
 # Interior_Prueba_ingenio
 MapPosition=0,17,10
 [055]
 # Pasillo Ruinas 1
-HealingSpot=52,30,10
 MapPosition=0,17,10
+HealingSpot=52,30,10
 [056]
 BattleBack=EliteA
 MapPosition=0,17,10
@@ -250,38 +257,38 @@ MapPosition=0,17,10
 [065]
 MapPosition=0,17,10
 [066]
-ShowArea=true
 Outdoor=true
+ShowArea=true
 MapPosition=0,12,12
 [067]
 MapPosition=0,12,12
 [068]
+Outdoor=true
 ShowArea=true
 BattleBack=Forest
-SafariMap=true
-Outdoor=true
 MapPosition=0,12,12
+SafariMap=true
 [069]
+Outdoor=true
 ShowArea=true
 BattleBack=Field
-Outdoor=true
 MapPosition=0,13,13
 [070]
 MapPosition=0,13,13
 [071]
 MapPosition=0,13,13
 [072]
-ShowArea=true
-Weather=Storm,50
 Outdoor=true
+ShowArea=true
 MapPosition=0,18,17
+Weather=Storm,50
 [073]
-ShowArea=true
 Outdoor=true
+ShowArea=true
 MapPosition=0,22,16
 [074]
-MapPosition=0,12,10
 Bicycle=true
+MapPosition=0,12,10
 [075]
 Outdoor=true
 MapPosition=1,13,16

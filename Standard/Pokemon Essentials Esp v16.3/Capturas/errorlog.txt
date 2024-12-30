@@ -4444,3 +4444,448 @@ Mensaje: Argument 0: Expected fixnum
 087:PokeBattle_Scene:2045:in `pbStartBattle'
 087:PokeBattle_Scene:1996:in `times'
 087:PokeBattle_Scene:1996:in `pbStartBattle'
+Excepción: RuntimeError
+Mensaje: Script error within map 37 (Sucursal 1 de exploradores):
+Exception: ArgumentError
+Message: (eval):1:in `pbReceiveItem': wrong number of arguments (0 for 1)
+***Full script:
+Kernel.pbReceiveItem
+(PBItems::POKENAV)
+Mugshots.dispose
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:281:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: En encounters.txt, se esperaba un línea de especies,
+pero se obtuvo "050" (posiblemente hay muy pocas entradas en un tipo de encuentro).
+Verifica el formato de la sección enumerada con 041,
+que se encuentra justo antes de esta línea.
+Archivo PBS/encounters.txt, linea 38
+050
+
+178:Compiler:2591:in `pbCompileEncounters'
+178:Compiler:4134:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: RuntimeError
+Mensaje: En encounters.txt, se esperaba un línea de especies,
+pero se obtuvo "050" (posiblemente hay muy pocas entradas en un tipo de encuentro).
+Verifica el formato de la sección enumerada con 041,
+que se encuentra justo antes de esta línea.
+Archivo PBS/encounters.txt, linea 38
+050
+
+178:Compiler:2591:in `pbCompileEncounters'
+178:Compiler:4134:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: RuntimeError
+Mensaje: En encounters.txt, se esperaba un línea de especies,
+pero se obtuvo "050" (posiblemente hay muy pocas entradas en un tipo de encuentro).
+Verifica el formato de la sección enumerada con 041,
+que se encuentra justo antes de esta línea.
+Archivo PBS/encounters.txt, linea 42
+050
+
+178:Compiler:2591:in `pbCompileEncounters'
+178:Compiler:4134:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: RuntimeError
+Mensaje: Script error within event 5, map 41 (Prueba Captura):
+Exception: NameError
+Message: (eval):1:in `pbExecuteScript': uninitialized constant Interpreter::Tú
+***Full script:
+NameBox.load(Tú)
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: RuntimeError
+Mensaje: En encounters.txt, se esperaba un línea de especies,
+pero se obtuvo "LandNight" (posiblemente hay muy pocas entradas en un tipo de encuentro).
+Verifica el formato de la sección enumerada con 041,
+que se encuentra justo antes de esta línea.
+Archivo PBS/encounters.txt, linea 11
+LandNight
+
+178:Compiler:2591:in `pbCompileEncounters'
+178:Compiler:4134:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: RuntimeError
+Mensaje: En encounters.txt, se esperaba un línea de especies,
+pero se obtuvo "LandNight" (posiblemente hay muy pocas entradas en un tipo de encuentro).
+Verifica el formato de la sección enumerada con 041,
+que se encuentra justo antes de esta línea.
+Archivo PBS/encounters.txt, linea 11
+LandNight
+
+178:Compiler:2591:in `pbCompileEncounters'
+178:Compiler:4134:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: RuntimeError
+Mensaje: En encounters.txt, se esperaba un línea de especies,
+pero se obtuvo "LandNight" (posiblemente hay muy pocas entradas en un tipo de encuentro).
+Verifica el formato de la sección enumerada con 041,
+que se encuentra justo antes de esta línea.
+Archivo PBS/encounters.txt, linea 11
+LandNight
+
+178:Compiler:2591:in `pbCompileEncounters'
+178:Compiler:4134:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: RuntimeError
+Mensaje: En encounters.txt, se esperaba un línea de especies,
+pero se obtuvo "LandNight" (posiblemente hay muy pocas entradas en un tipo de encuentro).
+Verifica el formato de la sección enumerada con 041,
+que se encuentra justo antes de esta línea.
+Archivo PBS/encounters.txt, linea 11
+LandNight
+
+178:Compiler:2591:in `pbCompileEncounters'
+178:Compiler:4134:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: RuntimeError
+Mensaje: Tipo de encuentro indefinido LandDay,6, se esperaba uno de los siguientes:
+["Land", "Cave", "Water", "RockSmash", "OldRod", "GoodRod", "SuperRod", "HeadbuttLow", "HeadbuttHigh", "LandMorning", "LandDay", "LandNight", "BugContest"]
+Archivo PBS/encounters.txt, linea 4
+LandDay,6
+
+178:Compiler:2634:in `pbCompileEncounters'
+178:Compiler:4134:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: RuntimeError
+Mensaje: El número de nivel no es válido: 0
+Archivo PBS/encounters.txt, linea 5
+20,CATERPIE,5
+
+178:Compiler:2598:in `pbCompileEncounters'
+178:Compiler:4134:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: RuntimeError
+Mensaje: En encounters.txt, se esperaba un línea de especies,
+pero se obtuvo "LandNight" (posiblemente hay muy pocas entradas en un tipo de encuentro).
+Verifica el formato de la sección enumerada con 041,
+que se encuentra justo antes de esta línea.
+Archivo PBS/encounters.txt, linea 11
+LandNight
+
+178:Compiler:2591:in `pbCompileEncounters'
+178:Compiler:4134:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: RuntimeError
+Mensaje: En encounters.txt, se esperaba un línea de especies,
+pero se obtuvo "LandNight" (posiblemente hay muy pocas entradas en un tipo de encuentro).
+Verifica el formato de la sección enumerada con 041,
+que se encuentra justo antes de esta línea.
+Archivo PBS/encounters.txt, linea 15
+LandNight
+
+178:Compiler:2591:in `pbCompileEncounters'
+178:Compiler:4134:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: RuntimeError
+Mensaje: En encounters.txt, se esperaba un línea de especies,
+pero se obtuvo "LandNight" (posiblemente hay muy pocas entradas en un tipo de encuentro).
+Verifica el formato de la sección enumerada con 041,
+que se encuentra justo antes de esta línea.
+Archivo PBS/encounters.txt, linea 15
+LandNight
+
+178:Compiler:2591:in `pbCompileEncounters'
+178:Compiler:4134:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: RuntimeError
+Mensaje: Tipo de encuentro indefinido HONCHKROW,2, se esperaba uno de los siguientes:
+["Land", "Cave", "Water", "RockSmash", "OldRod", "GoodRod", "SuperRod", "HeadbuttLow", "HeadbuttHigh", "LandMorning", "LandDay", "LandNight", "BugContest"]
+Archivo PBS/encounters.txt, linea 17
+HONCHKROW,2
+
+178:Compiler:2634:in `pbCompileEncounters'
+178:Compiler:4134:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: RuntimeError
+Mensaje: Script error within event 12, map 22 (Villa Mariona):
+Exception: NameError
+Message: (eval):1:in `pbExecuteScript': uninitialized constant Interpreter::Tú
+***Full script:
+NameBox.load(Tú)
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `follow_update'
+Excepción: NoMethodError
+Mensaje: undefined method `-' for nil:NilClass
+209:PokeFollow:741:in `talk_to_pokemon'
+209:PokeFollow:1562:in `monturas_update'
+223:Monturiitas:1106:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+056:Scene_Map:65:in `main'
+225:Main:55:in `mainFunctionDebug'
+225:Main:33:in `mainFunction'
+178:Compiler:80:in `pbCriticalCode'
+225:Main:33:in `mainFunction'
+Excepción: NoMethodError
+Mensaje: undefined method `-' for nil:NilClass
+209:PokeFollow:741:in `talk_to_pokemon'
+209:PokeFollow:1562:in `monturas_update'
+223:Monturiitas:1106:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+056:Scene_Map:65:in `main'
+225:Main:55:in `mainFunctionDebug'
+225:Main:33:in `mainFunction'
+178:Compiler:80:in `pbCriticalCode'
+225:Main:33:in `mainFunction'
+Excepción: NoMethodError
+Mensaje: undefined method `-' for nil:NilClass
+209:PokeFollow:688:in `talk_to_pokemon'
+209:PokeFollow:1562:in `monturas_update'
+223:Monturiitas:1106:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+056:Scene_Map:65:in `main'
+225:Main:55:in `mainFunctionDebug'
+225:Main:33:in `mainFunction'
+178:Compiler:80:in `pbCriticalCode'
+225:Main:33:in `mainFunction'
+Excepción: NoMethodError
+Mensaje: undefined method `-' for nil:NilClass
+209:PokeFollow:640:in `talk_to_pokemon'
+209:PokeFollow:1562:in `monturas_update'
+223:Monturiitas:1106:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+056:Scene_Map:65:in `main'
+225:Main:55:in `mainFunctionDebug'
+225:Main:33:in `mainFunction'
+178:Compiler:80:in `pbCriticalCode'
+225:Main:33:in `mainFunction'
+Excepción: NoMethodError
+Mensaje: undefined method `-' for nil:NilClass
+209:PokeFollow:640:in `talk_to_pokemon'
+209:PokeFollow:1562:in `monturas_update'
+223:Monturiitas:1106:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+056:Scene_Map:65:in `main'
+225:Main:55:in `mainFunctionDebug'
+225:Main:33:in `mainFunction'
+178:Compiler:80:in `pbCriticalCode'
+225:Main:33:in `mainFunction'
+Excepción: NoMethodError
+Mensaje: undefined method `-' for nil:NilClass
+209:PokeFollow:688:in `talk_to_pokemon'
+209:PokeFollow:1562:in `monturas_update'
+223:Monturiitas:1106:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+056:Scene_Map:65:in `main'
+225:Main:55:in `mainFunctionDebug'
+225:Main:33:in `mainFunction'
+178:Compiler:80:in `pbCriticalCode'
+225:Main:33:in `mainFunction'
+Excepción: NoMethodError
+Mensaje: undefined method `-' for nil:NilClass
+209:PokeFollow:672:in `talk_to_pokemon'
+209:PokeFollow:1562:in `monturas_update'
+223:Monturiitas:1106:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+056:Scene_Map:65:in `main'
+225:Main:55:in `mainFunctionDebug'
+225:Main:33:in `mainFunction'
+178:Compiler:80:in `pbCriticalCode'
+225:Main:33:in `mainFunction'
+Excepción: NoMethodError
+Mensaje: undefined method `-' for nil:NilClass
+209:PokeFollow:704:in `talk_to_pokemon'
+209:PokeFollow:1562:in `monturas_update'
+223:Monturiitas:1106:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+056:Scene_Map:65:in `main'
+225:Main:55:in `mainFunctionDebug'
+225:Main:33:in `mainFunction'
+178:Compiler:80:in `pbCriticalCode'
+225:Main:33:in `mainFunction'
+Excepción: NameError
+Mensaje: uninitialized constant Scene_Map::TEMPALLOWTOGGLE
+209:PokeFollow:1591:in `monturas_update'
+223:Monturiitas:1106:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+056:Scene_Map:65:in `main'
+225:Main:55:in `mainFunctionDebug'
+225:Main:33:in `mainFunction'
+178:Compiler:80:in `pbCriticalCode'
+225:Main:33:in `mainFunction'
+225:Main:65
+Excepción: NameError
+Mensaje: uninitialized constant Scene_Map::TEMPALLOWTOGGLE
+209:PokeFollow:1591:in `monturas_update'
+223:Monturiitas:1106:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+056:Scene_Map:65:in `main'
+225:Main:55:in `mainFunctionDebug'
+225:Main:33:in `mainFunction'
+178:Compiler:80:in `pbCriticalCode'
+225:Main:33:in `mainFunction'
+225:Main:65
+Excepción: NameError
+Mensaje: undefined local variable or method `call_menu' for #<Scene_Map:0x11642f40>
+056:Scene_Map:163:in `updateold'
+187:Tiempo:256:in `monturas_update'
+222:Monturiitas:1106:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+056:Scene_Map:65:in `main'
+224:Main:55:in `mainFunctionDebug'
+224:Main:33:in `mainFunction'
+178:Compiler:80:in `pbCriticalCode'
+224:Main:33:in `mainFunction'
+Excepción: NameError
+Mensaje: undefined local variable or method `call_menu' for #<Scene_Map:0x11e4ab88>
+056:Scene_Map:163:in `updateold'
+187:Tiempo:256:in `monturas_update'
+222:Monturiitas:1106:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+056:Scene_Map:65:in `main'
+224:Main:55:in `mainFunctionDebug'
+224:Main:33:in `mainFunction'
+178:Compiler:80:in `pbCriticalCode'
+224:Main:33:in `mainFunction'
+Excepción: NameError
+Mensaje: undefined local variable or method `call_menu' for #<Scene_Map:0x11e226a0>
+056:Scene_Map:163:in `updateold'
+187:Tiempo:256:in `monturas_update'
+222:Monturiitas:1106:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+056:Scene_Map:65:in `main'
+224:Main:55:in `mainFunctionDebug'
+224:Main:33:in `mainFunction'
+178:Compiler:80:in `pbCriticalCode'
+224:Main:33:in `mainFunction'
+Excepción: NameError
+Mensaje: undefined local variable or method `call_menu' for #<Scene_Map:0x1163fa00>
+056:Scene_Map:163:in `updateold'
+187:Tiempo:256:in `monturas_update'
+222:Monturiitas:1106:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+056:Scene_Map:65:in `main'
+224:Main:55:in `mainFunctionDebug'
+224:Main:33:in `mainFunction'
+178:Compiler:80:in `pbCriticalCode'
+224:Main:33:in `mainFunction'
+Excepción: RuntimeError
+Mensaje: Nombre de constante de Entrenador indefinido: TOGEPI,12
+El nombre sólo consiste en letras, números y
+guiones bajos y no puede iniciar con un número.
+Asegúrate de que el objeto está definido en
+trainertypes.txt.
+Archivo PBS/trainers.txt, linea 89
+TOGEPI,12
+
+178:Compiler:711:in `pbGetConst'
+178:Compiler:777:in `parseTrainer'
+178:Compiler:2194:in `pbCompileTrainers'
+178:Compiler:2192:in `loop'
+178:Compiler:2192:in `pbCompileTrainers'
+178:Compiler:4126:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: RuntimeError
+Mensaje: Nombre de constante de Entrenador indefinido: TOGEPI,12
+El nombre sólo consiste en letras, números y
+guiones bajos y no puede iniciar con un número.
+Asegúrate de que el objeto está definido en
+trainertypes.txt.
+Archivo PBS/trainers.txt, linea 89
+TOGEPI,12
+
+178:Compiler:711:in `pbGetConst'
+178:Compiler:777:in `parseTrainer'
+178:Compiler:2194:in `pbCompileTrainers'
+178:Compiler:2192:in `loop'
+178:Compiler:2192:in `pbCompileTrainers'
+178:Compiler:4126:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: RuntimeError
+Mensaje: Script error within event 3, map 48 (casa3):
+Exception: SyntaxError
+Message: (eval):2:in `pbExecuteScript': compile error
+(eval):2: syntax error
+***Line '(PBItems::POTION,7)' shouldn't begin with '('. Try
+putting the '(' at the end of the previous line instead,
+or using 'extendtext.exe'.
+***Full script:
+Kernel.pbReceiveItem
+(PBItems::POTION,7)
+
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `monturas_update'
