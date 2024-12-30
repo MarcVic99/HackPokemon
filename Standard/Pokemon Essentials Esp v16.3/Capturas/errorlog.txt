@@ -4889,3 +4889,310 @@ Kernel.pbReceiveItem
 056:Scene_Map:101:in `loop'
 056:Scene_Map:101:in `updateold'
 187:Tiempo:256:in `monturas_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 26, map 55 (Pasillo Ruinas 1):
+Exception: NameError
+Message: (eval):1:in `pbExecuteScript': uninitialized constant Interpreter::Namebox
+***Full script:
+Namebox.load("Tú")
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `monturas_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 8, map 37 (Sucursal 1 de exploradores):
+Exception: NoMethodError
+Message: undefined method `pbPokemonFollow' for #<Interpreter:0x10590978>
+***Full script:
+pbPokemonFollow(14)
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `monturas_update'
+Excepción: NoMethodError
+Mensaje: undefined method `tagged?' for #<Game_Map:0x10599c18>
+021:Game_Player:66:in `can_jump_from_direction?'
+021:Game_Player:84:in `move_down'
+021:Game_Player:443:in `update_old'
+022:Walk_Run:76:in `monturas_update'
+222:Monturiitas:477:in `update'
+056:Scene_Map:104:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `monturas_update'
+222:Monturiitas:1106:in `update'
+Excepción: NoMethodError
+Mensaje: undefined method `tagged?' for #<Game_Map:0x10576f08>
+021:Game_Player:81:in `can_jump_from_direction?'
+021:Game_Player:99:in `move_down'
+021:Game_Player:458:in `update_old'
+022:Walk_Run:76:in `monturas_update'
+222:Monturiitas:477:in `update'
+056:Scene_Map:104:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `monturas_update'
+222:Monturiitas:1106:in `update'
+Excepción: NoMethodError
+Mensaje: undefined method `tagged?' for #<Game_Map:0x10561b00>
+021:Game_Player:85:in `can_jump_from_direction?'
+021:Game_Player:145:in `move_right'
+021:Game_Player:462:in `update_old'
+022:Walk_Run:76:in `monturas_update'
+222:Monturiitas:477:in `update'
+056:Scene_Map:104:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `monturas_update'
+222:Monturiitas:1106:in `update'
+Excepción: NoMethodError
+Mensaje: undefined method `center' for #<Game_Player:0x1063eb58>
+141:PScreen_Load:383:in `loadWhenAutoUpdating'
+141:PScreen_Load:335:in `open'
+141:PScreen_Load:335:in `loadWhenAutoUpdating'
+141:PScreen_Load:326:in `loop'
+141:PScreen_Load:326:in `loadWhenAutoUpdating'
+180:Plu:837:in `pbStartLoadScreen'
+224:Main:12:in `main'
+224:Main:55:in `mainFunctionDebug'
+224:Main:33:in `mainFunction'
+178:Compiler:80:in `pbCriticalCode'
+Excepción: NoMethodError
+Mensaje: undefined method `ledge?' for #<Game_Map:0x105c87f0>
+021:Game_Player:65:in `pbLedge'
+021:Game_Player:122:in `move_right'
+021:Game_Player:434:in `update_old'
+022:Walk_Run:76:in `monturas_update'
+222:Monturiitas:477:in `update'
+056:Scene_Map:104:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `monturas_update'
+222:Monturiitas:1106:in `update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 6 (Ruinas Palmeras):
+Exception: NoMethodError
+Message: undefined method `set_seen' for true:TrueClass
+***Full script:
+$Trainer.pokedex.set_seen(:UNOWN)
+showBlocUnown
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `monturas_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 6 (Ruinas Palmeras):
+Exception: SyntaxError
+Message: (eval):3:in `pbExecuteScript': compile error
+(eval):2: syntax error
+***Full script:
+$Trainer.numFormsSeen(
+PBSpecies::UNOWN]
+showBlocUnown
+
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `monturas_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 6 (Ruinas Palmeras):
+Exception: NoMethodError
+Message: undefined method `register' for true:TrueClass
+***Full script:
+$Trainer.pokedex.register(:BULBASAUR)
+showBlocUnown
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `monturas_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 6 (Ruinas Palmeras):
+Exception: NoMethodError
+Message: undefined method `pbRegisterPokemon' for #<Interpreter:0x1068e568>
+***Full script:
+pbRegisterPokemon(:BULBASAUR)
+showBlocUnown
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `monturas_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 6 (Ruinas Palmeras):
+Exception: NoMethodError
+Message: undefined method `pbSeenPokemon' for #<Interpreter:0x106399b0>
+***Full script:
+pbSeenPokemon(:ARCANINE)
+showBlocUnown
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `monturas_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 6 (Ruinas Palmeras):
+Exception: SyntaxError
+Message: (eval):2:in `pbExecuteScript': compile error
+(eval):2: syntax error
+= tru
+ ^
+***Full script:
+$Trainer.seen[PokemonData::BULBASAUR] 
+= tru
+pbSeenPokemon(:ARCANINE)
+showBlocUnown
+
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `monturas_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 2, map 6 (Ruinas Palmeras):
+Exception: NoMethodError
+Message: undefined method `pbSeenPokemon' for #<Interpreter:0x105ca410>
+***Full script:
+pbSeenForm(PBSpecies::BULBASAUR,0,0)
+pbSeenPokemon(:ARCANINE)
+showBlocUnown
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `monturas_update'
