@@ -5196,3 +5196,76 @@ showBlocUnown
 056:Scene_Map:101:in `loop'
 056:Scene_Map:101:in `updateold'
 187:Tiempo:256:in `monturas_update'
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: Errno::ENOENT
+Mensaje: Archivo No such file or directory - Data/Map029.rxdata no encontrado.
+169:PSystem_System:15:in `load_data'
+169:PSystem_System:15:in `pbLoadRxData'
+056:Scene_Map:209:in `autofade'
+056:Scene_Map:234:in `transfer_player'
+056:Scene_Map:110:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `monturas_update'
+222:Monturiitas:1106:in `update'
+056:Scene_Map:68:in `main'
+Excepción: RuntimeError
+Mensaje: Script error within event 3, map 10 (Tumba sagrada):
+Exception: ArgumentError
+Message: (eval):1:in `pbReceiveItem': wrong number of arguments (0 for 1)
+***Full script:
+Kernel.pbReceiveItem
+(PBItems::LENSOFTRUTH)
+
+038:Interpreter:243:in `pbExecuteScript'
+(eval):1:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `monturas_update'
