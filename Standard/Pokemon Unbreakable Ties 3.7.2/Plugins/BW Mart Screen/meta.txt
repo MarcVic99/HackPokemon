@@ -1,4 +1,0 @@
-Name = BW PokéMart Screen
-Version = 2.0.0
-Credits = DeepBlue PacificWaves
-Website = https://reliccastle.com/resources/904/

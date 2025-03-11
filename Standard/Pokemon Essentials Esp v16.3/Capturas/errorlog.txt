@@ -5269,3 +5269,127 @@ Kernel.pbReceiveItem
 056:Scene_Map:101:in `loop'
 056:Scene_Map:101:in `updateold'
 187:Tiempo:256:in `monturas_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 20, map 7 (Gruta Voluntad):
+Exception: NameError
+Message: (eval):1:in `pbExecuteScript': uninitialized constant Interpreter::Namebox
+***Full script:
+Namebox.load("???")
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `monturas_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 20, map 7 (Gruta Voluntad):
+Exception: NameError
+Message: (eval):1:in `pbExecuteScript': uninitialized constant Interpreter::Namebox
+***Full script:
+Namebox.load("???")
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `monturas_update'
+Excepción: NameError
+Mensaje: undefined local variable or method `call_menu' for #<Scene_Map:0x1163ad98>
+056:Scene_Map:163:in `updateold'
+187:Tiempo:256:in `monturas_update'
+222:Monturiitas:1106:in `update'
+056:Scene_Map:68:in `main'
+056:Scene_Map:65:in `loop'
+056:Scene_Map:65:in `main'
+224:Main:55:in `mainFunctionDebug'
+224:Main:33:in `mainFunction'
+178:Compiler:80:in `pbCriticalCode'
+224:Main:33:in `mainFunction'
+Excepción: RuntimeError
+Mensaje: Script error within event 20, map 7 (Gruta Voluntad):
+Exception: NameError
+Message: (eval):1:in `pbExecuteScript': uninitialized constant Interpreter::C
+***Full script:
+pbChangePlayer(C)
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `monturas_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 20, map 7 (Gruta Voluntad):
+Exception: NameError
+Message: undefined local variable or method `trchar001_1' for #<Interpreter:0x1276a610>
+***Full script:
+pbChangePlayer(trchar001_1)
+
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `eval'
+038:Interpreter:243:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+056:Scene_Map:103:in `updateold'
+056:Scene_Map:101:in `loop'
+056:Scene_Map:101:in `updateold'
+187:Tiempo:256:in `monturas_update'
