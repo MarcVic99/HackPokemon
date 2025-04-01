@@ -5393,3 +5393,33 @@ pbChangePlayer(trchar001_1)
 056:Scene_Map:101:in `loop'
 056:Scene_Map:101:in `updateold'
 187:Tiempo:256:in `monturas_update'
+Excepción: RuntimeError
+Mensaje: Script error within event 1, map 13 (Testeo pasado):
+Exception: SyntaxError
+Message: (eval):10:in `pbExecuteScript': compile error
+(eval):4: syntax error
+la variable 76 a 100
+                ^
+***Full script:
+if $game_switches[1] == false  # 
+Verifica si el switch está apagado
+  $game_variables[76] = 100  # Cambia 
+la variable 76 a 100
+  $game_switches[1] = true   # Activa 
+el switch para que no vuelva a 
+ejecutarse
+  $game_map.need_refresh = true  # 
+Refresca los eventos del mapa
+end
+
+
+038:Interpreter:276:in `pbExecuteScript'
+038:Interpreter:1606:in `command_355'
+038:Interpreter:494:in `execute_command'
+038:Interpreter:193:in `update'
+038:Interpreter:106:in `loop'
+038:Interpreter:106:in `update'
+020:Game_Event:265:in `_update_lens'
+213:LupitaZelda:71:in `update'
+015:Game_Map:453:in `update'
+015:Game_Map:451:in `each'
