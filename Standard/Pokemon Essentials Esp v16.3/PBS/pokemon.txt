@@ -28267,8 +28267,8 @@ BattlerEnemyY=15
 BattlerAltitude=1
 Evolutions=
 [1017]
-Name=Licue
-InternalName=LICUE
+Name=Drakii
+InternalName=DRAKII
 Type1=WATER
 Type2=POISON
 BaseStats=44,48,60,64,45,55
@@ -28294,10 +28294,10 @@ Pokedex=Su carácter amigable ha permitido que científicos puedan extraer su ve
 BattlerPlayerY=-8
 BattlerEnemyY=22
 BattlerAltitude=2
-Evolutions=PRINCINE,Level,16
+Evolutions=DRAVOK,Level,16
 [1018]
-Name=Princine
-InternalName=PRINCINE
+Name=Dravok
+InternalName=DRAVOK
 Type1=WATER
 Type2=POISON
 BaseStats=64,68,71,64,66,76
@@ -28322,10 +28322,10 @@ Pokedex=Al evolucionar, su grasa y pelo aumentan considerablemente y este últim
 BattlerPlayerY=-8
 BattlerEnemyY=8
 BattlerAltitude=1
-Evolutions=LIOCEAN,Level,38
+Evolutions=ENXUSCAT,Level,38
 [1019]
-Name=Liocean
-InternalName=LIOCEAN
+Name=Enxuscat
+InternalName=ENXUSCAT
 Type1=WATER
 Type2=POISON
 BaseStats=99,100,98,78,75,85
@@ -28381,3 +28381,6 @@ BattlerPlayerY=20
 BattlerEnemyY=29
 BattlerAltitude=0
 Evolutions=MAROWAK,Level,28
+
+
+

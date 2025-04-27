@@ -5423,3 +5423,67 @@ end
 213:LupitaZelda:71:in `update'
 015:Game_Map:453:in `update'
 015:Game_Map:451:in `each'
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
+Excepción: TypeError
+Mensaje: can't convert Bignum into String
+178:Compiler:3069:in `[]='
+178:Compiler:3069:in `pbCompileTrainerEvents'
+178:Compiler:3065:in `each'
+178:Compiler:3065:in `pbCompileTrainerEvents'
+178:Compiler:4144:in `pbCompileAllData'
+178:Compiler:4239
